@@ -11,16 +11,7 @@ The Restaurant Assistant Chatbot is a dual-purpose intelligent chatbot system de
 The system follows a modular architecture with clear separation of concerns:
 
 ```
-┌────────────────┐     ┌───────────────┐     ┌──────────────────┐
-│  User Interface│     │ Query Processor│     │ Vector Database  │
-│  (Streamlit)   │────▶│ (Dispatcher)   │────▶│ (ChromaDB)       │
-└────────────────┘     └───────┬───────┘     └──────────────────┘
-                               │                       ▲
-                               ▼                       │
-                       ┌───────────────┐      ┌────────────────┐
-                       │ LLM           │      │ Data Collection │
-                       │ (Gemini-2.0)  │      │ (Web Scraper)   │
-                       └───────────────┘      └────────────────┘
+https://miro.medium.com/v2/resize:fit:1400/1*_zIYIh8BwufEnQngii8lfA.png
 ```
 
 ### 1.2 Key Components
