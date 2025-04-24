@@ -2,6 +2,9 @@
 
 An intelligent chatbot that can answer both restaurant-specific queries using a vector database and general knowledge questions using Gemini-2.0-flash.
 
+![image](https://github.com/user-attachments/assets/e0a40923-122d-4743-9a70-b208bf8992f7)
+
+
 ## Features
 
 - **Restaurant Database**: Search and retrieve information about restaurants, menus, prices, and more
