@@ -38,6 +38,7 @@ Provide a comprehensive, structured answer based on the information in the conte
      * 2-3 recommended dishes with prices (when available)
      * Special features (ambiance, outdoor seating, etc. when known)
      * Website URL and contact information
+     * Image/Photo URL of the restaurant if requested or asked for complete details of the restaurant
 
 3. When discussing a specific restaurant, provide comprehensive details:
    - Name and rating prominently displayed
