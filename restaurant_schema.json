@@ -1,108 +1,93 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Restaurant Collection",
-  "type": "array",
-  "items": {
-    "type": "object",
-    "properties": {
-      "name": {
-        "type": "string",
-        "description": "Name of the restaurant"
+  "title": "Restaurant Schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the restaurant"
+    },
+    "location": {
+      "type": "string",
+      "description": "General area/neighborhood of the restaurant"
+    },
+    "cost_for_two": {
+      "type": "string",
+      "description": "Average cost for two people"
+    },
+    "rating": {
+      "type": "string",
+      "description": "Restaurant rating (typically out of 5)"
+    },
+    "url": {
+      "type": "string",
+      "description": "URL of the restaurant's web page"
+    },
+    "address": {
+      "type": "string",
+      "description": "Full address of the restaurant"
+    },
+    "contact": {
+      "type": "string",
+      "description": "Contact number for the restaurant"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the restaurant"
+    },
+    "cuisines": {
+      "type": "array",
+      "items": {
+        "type": "string"
       },
-      "location": {
-        "type": "string",
-        "description": "General location of the restaurant"
-      },
-      "cost_for_two": {
-        "type": "string",
-        "description": "Estimated cost for two people"
-      },
-      "rating": {
-        "type": "string",
-        "description": "Restaurant rating (out of 5)"
-      },
-      "url": {
-        "type": "string",
-        "description": "URL of the restaurant's page"
-      },
-      "address": {
-        "type": "string",
-        "description": "Complete address of the restaurant"
-      },
-      "contact": {
-        "type": "string",
-        "description": "Contact phone number"
-      },
-      "description": {
-        "type": "string",
-        "description": "Detailed description of the restaurant"
-      },
-      "cuisines": {
-        "type": "array",
-        "description": "List of cuisines served at the restaurant",
-        "items": {
-          "type": "string"
-        }
-      },
-      "operational_hours": {
-        "type": "object",
-        "description": "Opening and closing hours for each day of the week",
-        "properties": {
-          "MONDAY": { "type": "string" },
-          "TUESDAY": { "type": "string" },
-          "WEDNESDAY": { "type": "string" },
-          "THURSDAY": { "type": "string" },
-          "FRIDAY": { "type": "string" },
-          "SATURDAY": { "type": "string" },
-          "SUNDAY": { "type": "string" }
-        }
-      },
-      "menu_items": {
-        "type": "array",
-        "description": "List of items on the menu",
-        "items": {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string",
-              "description": "Name of the menu item"
-            },
-            "price": {
-              "type": "string",
-              "description": "Price of the menu item"
-            },
-            "description": {
-              "type": "string",
-              "description": "Description of the menu item"
-            },
-            "food_type": {
-              "type": "string",
-              "description": "Type of food (Veg, Non-Veg, Egg, etc.)",
-              "enum": ["Veg", "Non-Veg", "Egg"]
-            }
-          },
-          "required": ["name", "price", "food_type"]
-        }
-      },
-      "photos": {
-        "type": "array",
-        "description": "Photos of the restaurant",
-        "items": {
-          "type": "object",
-          "properties": {
-            "url": {
-              "type": "string",
-              "description": "URL of the photo"
-            },
-            "alt_text": {
-              "type": "string",
-              "description": "Alternative text for the photo"
-            }
-          },
-          "required": ["url", "alt_text"]
-        }
+      "description": "Types of cuisine served at the restaurant"
+    },
+    "operational_hours": {
+      "type": "object",
+      "description": "Opening and closing hours for each day of the week",
+      "properties": {
+        "MONDAY": { "type": "string" },
+        "TUESDAY": { "type": "string" },
+        "WEDNESDAY": { "type": "string" },
+        "THURSDAY": { "type": "string" },
+        "FRIDAY": { "type": "string" },
+        "SATURDAY": { "type": "string" },
+        "SUNDAY": { "type": "string" }
       }
     },
-    "required": ["name", "location", "cost_for_two", "rating", "url", "address", "description", "menu_items"]
-  }
+    "menu_items": {
+      "type": "array",
+      "description": "List of food and beverage items on the menu",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the menu item"
+          },
+          "price": {
+            "type": "string",
+            "description": "Price of the item in local currency"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of the menu item"
+          },
+          "food_type": {
+            "type": "string",
+            "description": "Type of food (Veg, Non-Veg, Egg, etc.)"
+          }
+        },
+        "required": ["name", "price", "description", "food_type"]
+      }
+    },
+    "photos": {
+      "type": "array",
+      "description": "URLs of restaurant and food photos",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["name", "location", "cost_for_two", "rating", "address", "menu_items"]
 } 
