@@ -1,0 +1,458 @@
+{
+    "name": "Tim-Hortons",
+    "location": "Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.5",
+    "url": "https://magicpin.in/Mumbai/Bandra-West/Restaurant/Tim-Hortons/store/1579073/",
+    "address": "Unit No 2 & 3, Ground Level , Supreme Headquarters, 14Th & 33Rd Road, Near Link Square Mall, Bandra West, Mumbai, Mumbai",
+    "contact": "+918108017036",
+    "description": "Tim Hortons is a popular Canadian fast food restaurant chain. It is known for its coffee, doughnuts, and other baked goods. The menu also includes breakfast sandwiches, soups, salads, and wraps. The restaurant also offers a variety of specialty drinks, such as cappuccinos, lattes, and iced coffees. The atmosphere is casual and inviting, with a focus on providing a comfortable and enjoyable dining experience. The restaurant is also known for its friendly and helpful staff, who are always willing to help customers with their orders. Tim Hortons is a great place to grab a quick bite or to sit down and enjoy a meal with friends and family.",
+    "cuisines": [
+        "Coffee",
+        "Sandwich",
+        "Cafe",
+        "Juices",
+        "Light Bites"
+    ],
+    "operational_hours": {
+        "MONDAY": "07:00:00 - 00:00:00",
+        "TUESDAY": "07:00:00 - 00:00:00",
+        "WEDNESDAY": "07:00:00 - 00:00:00",
+        "THURSDAY": "07:00:00 - 00:00:00",
+        "FRIDAY": "07:00:00 - 00:00:00",
+        "SATURDAY": "07:00:00 - 00:00:00",
+        "SUNDAY": "07:00:00 - 00:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Boston Cream Donut",
+            "price": "₹150",
+            "description": "Our classic donut filled with Boston Cream and dipped in chocolate sau",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Bagel With Cream Cheese.",
+            "price": "₹195",
+            "description": "A classic bagel with cream cheese.\n\nServing size - 90g\nCalorie count -",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cappuccino",
+            "price": "₹250",
+            "description": "The perfect balance of espresso, steamed milk and foam.\n\nSmall - 236 m",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilli Cheese Toast.",
+            "price": "₹255",
+            "description": "Toasted sourdough bread generously topped with a mix of cheddar and gr",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Chocolate",
+            "price": "₹260",
+            "description": "Rich and smooth hot chocolate drink with milky notes and the right amo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cold Coffee",
+            "price": "₹300",
+            "description": "Smooth and creamy iced coffee, prepared using our signature espresso r",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken & Cheese Melt Sandwich.",
+            "price": "₹360",
+            "description": "A delicious sourdough bread filled with a chunky spread of chicken, Ch",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Classic Donut Box Of 3",
+            "price": "₹360",
+            "description": "Chocolate Filled Donut:\n\nServing size - 115g\nCalorie count - 405.24 kc",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Frozen French Vanilla (On The Sweeter Side)",
+            "price": "₹365",
+            "description": "Smooth and rich vanilla flavoured beverage with light coffee notes, se",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Frozen French Vanilla With Espresso",
+            "price": "₹395",
+            "description": "Smooth and rich vanilla flavoured beverage, served over ice with a sho",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Double Double Latte",
+            "price": "₹285",
+            "description": "Our signature espresso roast, served over creamy and sweet milk.\n\nSmal",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Java Chip Iced Capp (Served Without Whipped Cream)",
+            "price": "₹355",
+            "description": "Signature creamy blended frozen coffee beverage served with chocolate",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chocolate Tims Shake (Served Without Whipped Cream)",
+            "price": "₹330",
+            "description": "A classic chocolate chip Tims shake, topped with chocolate sauce.\n\nSma",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilli Cheese Toast",
+            "price": "₹255",
+            "description": "Toasted sourdough bread generously topped with a mix of cheddar and gr",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Americano",
+            "price": "₹230",
+            "description": "Our signature espresso roast served over hot water.\n\nSmall - 236 ml |",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Tikka Croissant Sandwich",
+            "price": "₹340",
+            "description": "A croissant sandwich filled with a flavourful mix of chicken tikka, on",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Cottage Cheese Melt Sandwich.",
+            "price": "₹370",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Almond Croissant",
+            "price": "₹285",
+            "description": "A buttery croissant with roasted almonds.\n\nServing Size - 170g\nCalorie",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Strawberry Tims Shake (Served Without Whipped Cream)",
+            "price": "₹320",
+            "description": "A classic strawberry Tims shake, topped with strawberry sauce.\n\nSmall",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Egg, Cheese & Tomato Croissant Sandwich",
+            "price": "₹325",
+            "description": "Egg, tomato, cheddar and cream cheese sandwiched in a buttery, flaky c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Lotus Biscoff Cheesecake",
+            "price": "₹360",
+            "description": "A slice of Lotus Biscoff cheesecake.\nServing size - 160g\nCalorie count",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Latte",
+            "price": "₹280",
+            "description": "A rich blend of espresso and milk served over ice.\n\nSmall - 354 ml  |",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Vanilla (on The Sweeter Side)",
+            "price": "₹305",
+            "description": "Smooth and rich vanilla flavoured beverage with light coffee notes.\n\nS",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Latte",
+            "price": "₹250",
+            "description": "A rich blend of espresso, steamed milk and a thin layer of froth, made",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Vanilla With Espresso.",
+            "price": "₹335",
+            "description": "Smooth and rich vanilla flavoured beverage, served with a shot of espr",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Chicken & Cheese Melt.",
+            "price": "₹370",
+            "description": "A delicious sourdough bread filled with bbq chicken, green chili and s",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Iced Double Double Latte",
+            "price": "₹315",
+            "description": "Our signature espresso roast, served over creamy and sweet milk.\n\nSmal",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Keema Melt.",
+            "price": "₹370",
+            "description": "A delicious sourdough bread filled with a chunky spread of minced chic",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Caramel Macchiato",
+            "price": "₹310",
+            "description": "A rich blend of espresso, steamed milk and a generous drizzle of caram",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cold Coffee (M) + Choice Of Cheese Melt Sandwich",
+            "price": "₹549",
+            "description": "This combo includes a medium sized cold coffee plus a choice from our",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Dream Donut Box Of 3",
+            "price": "₹500",
+            "description": "An assortment of  3 of our delicious Dream donuts.\n\nServing size - Max",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Donut Box Of 6",
+            "price": "₹660",
+            "description": "An assortment of  6 of our delicious donuts.\n\nServing size - Maximum 6",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cold Coffee (S)",
+            "price": "₹300",
+            "description": "Smooth and creamy iced coffee, prepared using our signature espresso r",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cappuccino (S).",
+            "price": "₹250",
+            "description": "The perfect balance of espresso, steamed milk and foam.\n\nSmall - 236 m",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Latte (S)",
+            "price": "₹250",
+            "description": "A rich blend of espresso, steamed milk and a thin layer of froth, made",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Seekh & Egg Wrap.",
+            "price": "₹320",
+            "description": "Chicken Seekh Kebab with omelette patty slices, onions and tomato sala",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Iced Americano (S)",
+            "price": "₹275",
+            "description": "Our signature espresso roast served over ice water.\n\nSmall - 354 ml |",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Vanilla Cold Brew (S)",
+            "price": "₹360",
+            "description": "Our signature coffee roast, steeped for 16 hours to create a classic c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Chocolate (S)",
+            "price": "₹260",
+            "description": "Rich and smooth hot chocolate drink with milky notes and the right amo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Strawberry & Kaffir Lime Cooler (S)",
+            "price": "₹295",
+            "description": "A refreshing blend of strawberry puree and kaffir lime, shaken with ic",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Lemon Iced Tea (S)",
+            "price": "₹275",
+            "description": "A refreshing classic iced tea.\n\nSmall - 354 ml  | 78.3 kcal",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peach Iced Tea (S)",
+            "price": "₹275",
+            "description": "A refreshing peach iced tea.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Tikka Wrap.",
+            "price": "₹295",
+            "description": "Chunky paneer tikka with onions, tomatoes, green chillies, mint chutne",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Yuzu Aerocano",
+            "price": "₹335",
+            "description": "Rich espresso with foam on top with the zesty yuzu flavour\n\nSmall - 35",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Passionfruit Aerocano",
+            "price": "₹335",
+            "description": "Rich espresso with foam on top with a fruity passionfruit flavour\n\nSma",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Passionfruit Yuzu Cooler",
+            "price": "₹310",
+            "description": "Tropical passion fruit and tangy yuzu come together in this bright, bu",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango & Ginger Cooler",
+            "price": "₹310",
+            "description": "Golden, juicy mango meets a fiery ginger twist in this fizzy, tropical",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Strawberry & Grapefruit Cooler",
+            "price": "₹310",
+            "description": "A vibrant fusion of sweet strawberries and zesty grapefruit creates a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Kadak Chai",
+            "price": "₹250",
+            "description": "A warm cup of kadak chai with milk\n\nSmall - 236 ml  | 133.03 kcal\nAlle",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ginger Chai",
+            "price": "₹250",
+            "description": "A warm cup of chai infused with ginger.\n\nSmall - 236 ml  | 135.63 kcal",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Green Tea",
+            "price": "₹250",
+            "description": "A classic cup of green tea.\n\nSmall - 236 ml  | 0.02 kcal\nAllergens - N",
+            "food_type": "Veg"
+        },
+        {
+            "name": "English Breakfast Tea",
+            "price": "₹250",
+            "description": "A classic cup of black tea.\n\nSmall - 236 ml  | 0.02 kcal\nAllergens - N",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Passion Fruit & Kaffir Lime Cooler",
+            "price": "₹295",
+            "description": "A refreshing blend of passionfruit puree and kaffir lime, shaken with",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Strawberry & Kaffir Lime Cooler",
+            "price": "₹295",
+            "description": "A refreshing blend of strawberry puree and kaffir lime, shaken with ic",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hibiscus Lemonade Cooler",
+            "price": "₹295",
+            "description": "Quench your thirst with the refreshing lemonade cooler containing subt",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Cheesecake Slice",
+            "price": "₹325",
+            "description": "A slice of a classic cheesecake.\nServing size - 160g\nCalorie count - 7",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Double Chocolate Chip Cookie",
+            "price": "₹175",
+            "description": "Cookie baked with 3 types of chocolate chips.\n\nServing size – 75g\nCalo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Choice Of Donut",
+            "price": "₹299",
+            "description": "Indulge into our ultimate value combo. This combo includes a medium si",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Bagel With Cream Cheese",
+            "price": "₹399",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Chilli Cheese Toast",
+            "price": "₹399",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Butter Croissant",
+            "price": "₹399",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Choice Of Cheese Melt Sandwich",
+            "price": "₹499",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Choice Of Croissant Sandwich",
+            "price": "₹499",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choice Of Hot Coffee (M) + Choice Of Wrap",
+            "price": "₹499",
+            "description": "This combo includes a medium sized beverage of your choice - Americano",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cold Coffee (M) + Choice Of Croissant Sandwich",
+            "price": "₹549",
+            "description": "This combo includes a medium sized cold coffee plus a choice from our",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cold Coffee (M) + Choice Of Wrap",
+            "price": "₹549",
+            "description": "This combo includes a medium sized cold coffee plus a choice from our",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ground Coffee",
+            "price": "₹333",
+            "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Coffee Beans",
+            "price": "₹333",
+            "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ground Coffee (125 Grams)",
+            "price": "₹333",
+            "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ground Coffee (250 Grams)",
+            "price": "₹571",
+            "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/md8i5uPs3AumA5R3mRAGJ1ThKUSFKQtDEP6Q-Gt-pYST5nlW9CBM7Z2SJoqpS8FNhe8N_1pWk0ei7wluo3InrvA4GftlVtSCVLgPfO3r=w192-rw",
+            "alt_text": "Tim Hortons photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/HTp3GrNtCTMdUZUOPrylx1EE1j1XHTrVpPXH08T5zo2gfJ7cPb6X3ME23ZrC6QTEGUkVwqfhw8_FAbIePgZhV5dvVv6BU9mUTX_S_5M=w192-rw",
+            "alt_text": "Tim Hortons photo 2"
+        }
+    ]
+}

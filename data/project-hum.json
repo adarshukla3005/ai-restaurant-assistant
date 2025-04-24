@@ -1,0 +1,348 @@
+{
+    "name": "Project-Hum",
+    "location": "Pali Hill, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹800",
+    "rating": "4.9",
+    "url": "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/",
+    "address": "16, Gasper Enclave, St. John Road, Pali Hill, Mumbai, Mumbai",
+    "contact": "+919137883053",
+    "description": "Project Hum is a F&amp;B-Casual Dining outlet that offers a unique dining experience. It is a place where people can come together to enjoy delicious food, drinks, and conversation. The menu features a variety of dishes from around the world, including classic favorites and innovative creations. The atmosphere is relaxed and inviting, with a focus on creating a warm and welcoming environment. The staff is friendly and attentive, ensuring that each guest has a pleasant and enjoyable experience. Project Hum is the perfect place to gather with friends and family for a delicious meal and a great time.",
+    "cuisines": [
+        "Salad",
+        "Sandwich",
+        "Wraps"
+    ],
+    "operational_hours": {
+        "MONDAY": "11:00:00 - 23:00:00",
+        "TUESDAY": "11:00:00 - 23:00:00",
+        "WEDNESDAY": "11:00:00 - 23:00:00",
+        "THURSDAY": "11:00:00 - 23:00:00",
+        "FRIDAY": "11:00:00 - 23:00:00",
+        "SATURDAY": "11:00:00 - 23:00:00",
+        "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Italiano Salad",
+            "price": "₹410",
+            "description": "Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped melo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Greek Souvla Salad",
+            "price": "₹395",
+            "description": "Green mix, roasted sweet potato, orange segments, pickled onions, mix",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Pali Ceaser Salad",
+            "price": "₹395",
+            "description": "Kale mix, zoodles, za'atar croutons, beets, parmesan shavings, sunflow",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Everyday Mexican Salad",
+            "price": "₹395",
+            "description": "Green mix, bajra chilly, ragi nachos, corn salsa, avocado, beans, cash",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Kokum Lentil Salad",
+            "price": "₹395",
+            "description": "Green mix, sunflower seeds, black lentil, seasonal fruit, in-house sol",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Burrito And Bean Bowl",
+            "price": "₹420",
+            "description": "Brown/Cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa,",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Paprikash Bowl",
+            "price": "₹425",
+            "description": "Brown/Cauli rice, Madras chilly sauce, roasted potatoes, basil oil, ro",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Falapel The Habibi Bowl",
+            "price": "₹410",
+            "description": "Garlic brown rice, labneh, peppers, sun-dried tomato hummus.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Red Thai Bowl",
+            "price": "₹410",
+            "description": "Buckwheat noodles, byadgi-peanut curry, glazed pok-choy, mushroom, pic",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Burrito And Bean Bowl",
+            "price": "₹465",
+            "description": "Brown/Cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa,",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Paprikash Bowl",
+            "price": "₹485",
+            "description": "Brown/Cauli rice, Madras chilly sauce, roasted potatoes, basil oil, ro",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken The Habibi Bowl",
+            "price": "₹465",
+            "description": "Garlic brown rice, labneh, peppers, sun-dried tomato hummus.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Red Thai Bowl",
+            "price": "₹480",
+            "description": "Buckwheat noodles, byadgi-peanut curry, glazed pok-choy, mushroom, pic",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tofu Soba Katsu Salad",
+            "price": "₹395",
+            "description": "Baby spinach, buckwheat noodles, edammame, tofu katsu, byadgi peanut v",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Subbich Salad",
+            "price": "₹395",
+            "description": "Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Chicken Taliano Salad",
+            "price": "₹510",
+            "description": "Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped melo",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Pali Ceaser Salad",
+            "price": "₹495",
+            "description": "Kale mix, zoodles, za'atar croutons, beets, parmesan shavings, sunflow",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Subbich Salad",
+            "price": "₹485",
+            "description": "Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Everyday Mexican Salad",
+            "price": "₹485",
+            "description": "Green mix, bajra chilly, ragi nachos, corn salsa, avocado, beans, cash",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Omega Miso Fish Salad",
+            "price": "₹525",
+            "description": "Fish of the month, romaine blend, avocado, walnut, edamame, fresh oran",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "House Blend Spiced Tofu",
+            "price": "₹450",
+            "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spice Grilled Lean Chicken",
+            "price": "₹495",
+            "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Togarashi Grilled Fish Of The Month",
+            "price": "₹595",
+            "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Fico Sandwich",
+            "price": "₹395",
+            "description": "Served with fries or salad.\nGrilled zucchini & mushroom, bellpepper ja",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Seetbeet Sandwich",
+            "price": "₹395",
+            "description": "Served with fries or salad.\nRosemary sweet potato, pickled beets, avoc",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Fico Open Toast",
+            "price": "₹310",
+            "description": "Served with fries or salad.\nGrilled zucchini & mushroom, bellpepper ja",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Seetbeet Open Toast",
+            "price": "₹395",
+            "description": "Served with fries or salad.\nRosemary sweet potato, pickled beets, avoc",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Br Avocado Toast",
+            "price": "₹350",
+            "description": "Served with fries or salad.\nByadgi macha, pickled onion, bellpepper ja",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Avocado Sandwich",
+            "price": "₹475",
+            "description": "Served with fries or salad.\nBellpepper jam, cheddar, kale pesto, romai",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Avocado Open Toast",
+            "price": "₹360",
+            "description": "Served with fries or salad.\nBellpepper jam, cheddar, kale pesto, romai",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Sabbaba Wrap",
+            "price": "₹395",
+            "description": "Served with fries and salad.\nSorghum falafel, byadgi hot sauce, toum,",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Cowboy Wrap",
+            "price": "₹395",
+            "description": "Served with fries and salad.\nGuacamole, byadgi chilly macha, mashed be",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Souvlaki Wrap",
+            "price": "₹430",
+            "description": "Served with fries and salad.\nShish taouk chicken, byadgi hot sauce, to",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Cowboy Wrap",
+            "price": "₹430",
+            "description": "Served with fries and salad.\nGuacamole, byadgi chilly macha,",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Seasonal Compote Toast",
+            "price": "₹395",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Banoffee Brioche Toast",
+            "price": "₹395",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Espresso",
+            "price": "₹210",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Espresso",
+            "price": "₹215",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Long Black",
+            "price": "₹220",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Long Black",
+            "price": "₹225",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Piccolo",
+            "price": "₹220",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Cortado",
+            "price": "₹230",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ice Cortado",
+            "price": "₹235",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Flat White",
+            "price": "₹240",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ice Flat White",
+            "price": "₹245",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Cappuccino",
+            "price": "₹245",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Cappuccino",
+            "price": "₹250",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Latte",
+            "price": "₹255",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Latte",
+            "price": "₹260",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Honey Cappuccino",
+            "price": "₹285",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot Mocha",
+            "price": "₹265",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Mocha",
+            "price": "₹275",
+            "description": "N/A",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/J_31kcxsAOXrFNIhNONgURLV71-sojRkKE8sj1Ar2wYMxIgSJKj3hIimPlV2jlBOT-RhPgsvBzfjR_J7kycQe4aIGT5ILJPmfi1SFlsUJQ=w192-rw",
+            "alt_text": "Project Hum photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/ay4GUwG-mm2BqVBR40ydVIirsDqezGHfY43XY2DlsHTkZllFhBEo1H8OGKH6ny36mOWboBFES6W9s3IhyTpXGedP8V-ryrT96XtmA8uZLQ=w192-rw",
+            "alt_text": "Project Hum photo 2"
+        }
+    ]
+}

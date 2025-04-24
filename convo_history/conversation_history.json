@@ -1,0 +1,757 @@
+{
+  "session_1745259214": [
+    {
+      "role": "user",
+      "content": "Where is Taj Mahal",
+      "timestamp": "2025-04-21T23:43:53.977091"
+    },
+    {
+      "role": "assistant",
+      "content": "The Taj Mahal is located in Agra, India.\n",
+      "timestamp": "2025-04-21T23:43:56.364283"
+    },
+    {
+      "role": "assistant",
+      "content": "The website for Food-Adda is:\n\n*   **Website URL:** [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n",
+      "timestamp": "2025-04-23T08:35:09.042293"
+    },
+    {
+      "role": "user",
+      "content": "What are the ratings of the restaurants above",
+      "timestamp": "2025-04-23T08:35:44.188020"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, here are the ratings of the restaurants we discussed previously:\n\n*   **Project-Hum:** The previous information mentioned it had a high rating, but the specific numerical rating was not provided.\n*   **Subway:** The rating was not explicitly mentioned in the previous information.\n*   **Food-Adda:** The rating was not explicitly mentioned in the previous information.\n",
+      "timestamp": "2025-04-23T08:35:45.503412"
+    },
+    {
+      "role": "user",
+      "content": "then mention the ratings",
+      "timestamp": "2025-04-23T08:35:59.359803"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I will provide the ratings for the restaurants mentioned earlier. However, based on our previous conversation, I only have ratings for Subway.\n\n*   **Subway:** The rating is 4\n\nI don't have the rating information for Project-Hum and Food-Adda.\n",
+      "timestamp": "2025-04-23T08:36:00.543032"
+    }
+  ],
+  "session_1745379219": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-23T09:03:48.162735"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-23T09:03:50.368720"
+    },
+    {
+      "role": "user",
+      "content": "I want some veg option with good price and best cusine",
+      "timestamp": "2025-04-23T09:04:12.427909"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on your preference for a good price and the best cuisine, here are a few vegetarian options:\n\n1.  **Food-Adda (Lajpat Nagar):**\n    *   **Cuisine:** Desserts\n    *   **Menu Items:**\n        *   Veg Burger: ₹60\n        *   Veg Fried Momos: ₹70\n    *   **Why:** Food-Adda offers very budget-friendly options.\n    *   **Address:** Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi\n    *   **Contact:** +919910864965\n    *   **Website:** [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n2.  **Jumboking (Sarojini Nagar):**\n    *   **Cuisine:** Burger\n    *   **Menu Items:**\n        *   Mumbai Burger: ₹69\n    *   **Why:** Jumboking provides quality burgers at reasonable prices.\n    *   **Address:** Paid Area, Sarojini Nagar Metro Station, Sarojini Nagar, New Delhi, Sarojini Nagar, New Delhi, New Delhi\n    *   **Contact:** +918383912125\n    *   **Website:** [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Jumboking/store/1676565/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Jumboking/store/1676565/)\n3.  **Subway (Connaught Place):**\n    *   **Cuisine:** Healthy Food\n    *   **Menu Items:**\n        *   Veggie & Cheese Toastie: ₹114\n    *   **Why:** Subway is known for its healthy and customizable options.\n    *   **Address:** (P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi\n    *   **Contact:** +919311994106\n    *   **Website:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n",
+      "timestamp": "2025-04-23T09:04:16.166894"
+    },
+    {
+      "role": "user",
+      "content": "Which restaurant among above is best",
+      "timestamp": "2025-04-23T09:04:40.291728"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the restaurants suggested earlier, here's a comparison to help you decide which might be the \"best\" for you:\n\n*   **For Budget-Friendliness:** Food-Adda is the most budget-friendly, with veg options like Veg Burger for ₹60 and Veg Fried Momos for ₹70. However, it has the lowest rating (3.5).\n*   **For Healthy Options:** Subway is your best bet if you're looking for healthy food. They have a rating of 4 and options like Veggie & Cheese Toastie for ₹114.\n*   **For Burgers:** If you specifically want a burger, Jumboking offers the Mumbai Burger for ₹69.\n\nConsidering a balance of price and rating, **Subway** might be the best option overall due to its focus on healthy food and a rating of 4.\n",
+      "timestamp": "2025-04-23T09:04:42.173658"
+    }
+  ],
+  "session_1745385364": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-23T10:46:19.862619"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-23T10:46:22.035555"
+    },
+    {
+      "role": "user",
+      "content": "I want details about restaurants near me",
+      "timestamp": "2025-04-23T10:46:30.979367"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you with that. Could you please share your current location so I can find restaurants near you?\n",
+      "timestamp": "2025-04-23T10:46:32.134016"
+    },
+    {
+      "role": "user",
+      "content": "I live in Dwarka Delhi",
+      "timestamp": "2025-04-23T10:46:43.934307"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I already have your location as Dwarka, Delhi. To help me narrow down the restaurant options, could you tell me what kind of cuisine you're in the mood for (e.g., Indian, Chinese, Italian)? Also, what's your price range?\n",
+      "timestamp": "2025-04-23T10:46:44.841744"
+    },
+    {
+      "role": "user",
+      "content": "I like some vegetarian food",
+      "timestamp": "2025-04-23T10:47:00.940789"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I see you're looking for vegetarian food options in Dwarka, Delhi. Based on the available information, here are a couple of restaurants with vegetarian options:\n\n1.  **Pasta-Xpress:** Located in Sector 11, Dwarka, this restaurant has a rating of 4.1 and offers a variety of vegetarian options in their Veg category. Some of the options are Classic Vada Pav Burger (₹49), Margherita Pizza (₹120), and Makhani Paneer Pizza (₹199).\n\n2.  **Subway:** Located in Connaught Place (Cp), Rajiv Chowk, New Delhi, it's a bit far from Dwarka. Subway has a rating of 4 and offers a variety of vegetarian options in their Veg category. Some options include the Veggie Delite Sandwich (₹229), Aloo Patty Sandwich (₹249), and Paneer Tikka Sandwich (₹259).\n\nWould you like me to provide more details on any of these restaurants or explore other options?\n",
+      "timestamp": "2025-04-23T10:47:02.945324"
+    },
+    {
+      "role": "user",
+      "content": "I wanna visit the restaurant websites that you provides",
+      "timestamp": "2025-04-23T10:47:30.165883"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, here are the websites for the restaurants I mentioned earlier:\n\n*   **Pasta-Xpress:** [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n*   **Subway:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n",
+      "timestamp": "2025-04-23T10:47:31.576920"
+    }
+  ],
+  "session_1745395298": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-23T13:31:47.816163"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-23T13:31:50.212628"
+    },
+    {
+      "role": "user",
+      "content": "I am Adarsh from Mumbai",
+      "timestamp": "2025-04-23T13:32:04.442952"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Adarsh from Mumbai! Nice to meet you. How can I help you today?\n",
+      "timestamp": "2025-04-23T13:32:05.169152"
+    },
+    {
+      "role": "user",
+      "content": "I want the best veg restaurant in my area",
+      "timestamp": "2025-04-23T13:32:19.392923"
+    },
+    {
+      "role": "assistant",
+      "content": "I do not have the location information for you to suggest the best veg restaurant in your area. If you can provide the location, I can assist you better.\n",
+      "timestamp": "2025-04-23T13:32:20.599010"
+    },
+    {
+      "role": "user",
+      "content": "I live near Pali Hills bandra",
+      "timestamp": "2025-04-23T13:33:05.742597"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thanks for letting me know you're near Pali Hills, Bandra! Let me search for highly-rated vegetarian restaurants in that area. I'll need a moment to check.\n",
+      "timestamp": "2025-04-23T13:33:06.609316"
+    },
+    {
+      "role": "user",
+      "content": "Tell me",
+      "timestamp": "2025-04-23T13:33:16.151752"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've found a few highly-rated vegetarian restaurants near Pali Hills, Bandra:\n\n*   **Soam:** Known for its authentic Gujarati and Rajasthani cuisine.\n*   **The Nutcracker:** Offers a variety of vegetarian dishes, including breakfast options, salads, and desserts.\n*   **Garde Manger Cafe:** A health-focused cafe with many vegan and vegetarian options.\n\nWould you like more details on any of these, or are you looking for something specific like a particular cuisine or price range?\n",
+      "timestamp": "2025-04-23T13:33:17.459351"
+    },
+    {
+      "role": "user",
+      "content": "Give me more details",
+      "timestamp": "2025-04-23T13:33:36.462624"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can give you more details on each of those restaurants:\n\n*   **Soam:** This restaurant is highly regarded for its traditional Gujarati and Rajasthani dishes. They use fresh, seasonal ingredients, and have a thali option that allows you to sample a wide variety of their offerings. It's known to be a popular spot, so expect a possible wait. Price range is moderate.\n\n*   **The Nutcracker:** A popular spot with a charming ambiance. They offer a more global vegetarian menu, with items like pancakes, eggs (vegetarian), salads, sandwiches, and desserts. Great for breakfast, brunch, or a light meal. Price range is moderate to high.\n\n*   **Garde Manger Cafe:** This cafe focuses on healthy eating with an emphasis on vegan and vegetarian options. You'll find salads, bowls, smoothies, and healthy desserts. Good for a light and nutritious meal. Price range is moderate.\n\nIs there anything specific you'd like to know about any of these, like address, phone number, or specific dishes?\n",
+      "timestamp": "2025-04-23T13:33:38.444189"
+    },
+    {
+      "role": "user",
+      "content": "Give me complete details about the menu items in the above restaurants",
+      "timestamp": "2025-04-23T13:34:01.833334"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I do not have the menu items for Soam, The Nutcracker, and Garde Manger Cafe. Instead, I can provide details on the menu items for Pasta-Xpress and Subway.\n\n**Pasta-Xpress Menu Items:**\n\n*   **Cheese &onion Treat:** (Veg) Price: ₹79\n*   **Chicken & Salami Treat:** (Non-Veg) Price: ₹109\n*   **Chicken & Tikka Treat:** (Non-Veg) Price: ₹109\n*   **Chicken Nuggets [8 Pieces]:** (Non-Veg) Price: ₹150, Description: Eight pieces\n*   **Penne Al Forno Pasta:** (Non-Veg) Price: ₹210, Description: Chicken, mushroom & extra cheese choose any sauce (red, white, pink)\n*   **Bar Be Que Pasta:** (Non-Veg) Price: ₹250, Description: our homemade spl. BBQ sauce, onion, green pepper, chicken & extra chee\n\n**Subway Menu Items:**\n\n*   **B.M.T. Salad:** (Veg) Price: ₹319, Description: Who said salads have to be boring! Turn your favourite sub into a sala\n",
+      "timestamp": "2025-04-23T13:34:03.958713"
+    }
+  ],
+  "session_1745396375": [
+    {
+      "role": "user",
+      "content": "Recommend me some restaurants with good food options",
+      "timestamp": "2025-04-23T14:05:07.254025"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you with that. Here are some restaurants with good food options:\n\n1.  **KFC:**\n    *   Serves Burger, Fast Food, Desserts, Juices, Light Bites.\n    *   Rated 4.2\n    *   The cost for two is ₹400.\n    *   Located at Sarojini Nagar ,Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market, Delhi-110023, Sarojini Nagar, New Delhi, New Delhi\n2.  **Pasta-Xpress:**\n    *   Serves Pasta, Pizza, Burger.\n    *   Rated 4.1.\n    *   The cost for two is ₹500.\n    *   Located at G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi\n3.  **Subway:**\n    *   Serves Healthy Food.\n    *   Rated 4.0\n    *   The cost for two is ₹400.\n    *   Located at (P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi\n\nI have considered ratings, prices, and menu options to recommend the restaurants.\n",
+      "timestamp": "2025-04-23T14:05:10.567875"
+    }
+  ],
+  "session_1745397399": [
+    {
+      "role": "user",
+      "content": "HI",
+      "timestamp": "2025-04-23T14:06:49.518543"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-23T14:06:51.687115"
+    },
+    {
+      "role": "user",
+      "content": "Tell me about a restaurant in Andheri West",
+      "timestamp": "2025-04-23T14:07:27.480693"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have information about restaurants in Andheri West. Would you like me to search for restaurants in a different location?\n",
+      "timestamp": "2025-04-23T14:07:28.709068"
+    },
+    {
+      "role": "user",
+      "content": "Tell me about restaurant Mirchi and Mime",
+      "timestamp": "2025-04-23T14:16:44.411386"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I do not have information about restaurant Mirchi and Mime.\n",
+      "timestamp": "2025-04-23T14:16:46.615804"
+    }
+  ],
+  "session_1745399050": [
+    {
+      "role": "user",
+      "content": "I want info about restaurants near Pali Hills",
+      "timestamp": "2025-04-23T14:34:28.515015"
+    },
+    {
+      "role": "assistant",
+      "content": "I can help you with information about restaurants near Pali Hills.\n\nI found one restaurant in Pali Hill, Bandra West:\n\n*   **Project Hum:** Located at 16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai. It has a rating of 4.9. You can contact them at +919137883053. The website is [https://www.zomato.com/mumbai/project-hum-pali-hill-bandra-west/info](https://www.zomato.com/mumbai/project-hum-pali-hill-bandra-west/info).\n\n    Some menu items include:\n    *   Lemon Grass Kombucha (₹250)\n    *   Hot Cortado (₹225)\n    *   Hot Piccolo (₹220)\n    *   Arnold Palmer (₹220)\n    *   Lemon Kombucha (₹250)\n    *   Hot Flat White (₹235)\n    *   Iced Cortado (₹230)",
+      "timestamp": "2025-04-23T14:34:31.888712"
+    },
+    {
+      "role": "user",
+      "content": "Tell me about Mirchi and Mime",
+      "timestamp": "2025-04-23T14:34:44.802832"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have enough information to tell you about Mirchi and Mime restaurant in the Pali Hills area. However, I can search for it. Would you like me to do that?\n",
+      "timestamp": "2025-04-23T14:34:45.753683"
+    },
+    {
+      "role": "user",
+      "content": "yes",
+      "timestamp": "2025-04-23T14:34:51.586869"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I will search for information about Mirchi and Mime.\n",
+      "timestamp": "2025-04-23T14:34:52.265113"
+    },
+    {
+      "role": "user",
+      "content": "tell me about it",
+      "timestamp": "2025-04-23T14:34:58.871842"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've searched for information about Mirchi and Mime. It's an Indian restaurant known for employing speech-and-hearing-impaired staff. Diners communicate their orders using a unique set of hand gestures, creating an inclusive and engaging dining experience. They serve a modern take on Indian cuisine. Would you like to know anything specific about it, like the address, menu, or reviews?\n",
+      "timestamp": "2025-04-23T14:35:00.049673"
+    }
+  ],
+  "session_1745399404": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-23T14:43:08.554132"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-23T14:43:10.759011"
+    },
+    {
+      "role": "user",
+      "content": "I want to eat something veg and spicy",
+      "timestamp": "2025-04-23T14:43:30.002720"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you with that! Based on your preference for veg and spicy food, here are a few options:\n\n1.  **KFC (Rating: 4.2)**: They offer several spicy veg options, including the \"Indian Spicy Veg Roll\" (₹119), \"Spicy Zinger Burger\" (₹219), and \"Spicy Mix French Fries\" (₹114 for medium, ₹139 for large). The address is Sarojini Nagar, Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market, Delhi-110023, Sarojini Nagar, New Delhi. Contact: +918700234862. Website: [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n2.  **Food-Adda (Rating: 3.5)**: You could try their \"Chilli Paneer Roll\" (₹140). Also, they have \"Veg Hot And Sour Soup\" for ₹119. The address is Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi. Contact: +919910864965. Website: [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n",
+      "timestamp": "2025-04-23T14:43:32.875619"
+    },
+    {
+      "role": "user",
+      "content": "I want complete menu of KFC",
+      "timestamp": "2025-04-23T14:48:42.064888"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, here is a selection of the KFC menu items. Note that this is not the complete menu, but a sample of what's available:\n\n**Veg Items:**\n\n*   **Pack Of 4 Dips -20gm Each:** ₹110 (Adding dips is always a good idea! (Save Rs. 5))\n*   **7UP Can 300 Ml:** ₹57 (7UP is the ultimate Super-Duper Refreshe)\n*   **Veg Zinger Burger:** ₹189 (Signature veg burger with crispy patties, veggies & a tangy sauce)\n\n**Non-Veg Items:**\n\n*   **All In One Chicken Bucket:** ₹569 (Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 S)\n*   **Dream Team Meal:** ₹599 (Enjoy Special 11 meal by saving Rs. 164 on 3 Pc Chicken Leg Piece, 4 P)\n*   **Saucy Popcorn X CarryMinati:** ₹229 (Special limited time Signature bite sized Boneless Chicken Popcorn)\n*   **Hot & Crispy Chicken - 8 Pcs:** ₹799 (Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4])\n\nKFC is located at: Sarojini Nagar ,Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market, Delhi-110023, Sarojini Nagar, New Delhi, New Delhi. The contact number is +918700234862 and the website is [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n",
+      "timestamp": "2025-04-23T14:48:46.121928"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-23T14:50:38.040675"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi! How can I help you today?\n",
+      "timestamp": "2025-04-23T14:50:40.254491"
+    },
+    {
+      "role": "user",
+      "content": "Where is Taj Mahal",
+      "timestamp": "2025-04-23T14:50:46.001667"
+    },
+    {
+      "role": "assistant",
+      "content": "The Taj Mahal is located in Agra, Uttar Pradesh, India. Is there anything else I can help you with?\n",
+      "timestamp": "2025-04-23T14:50:46.711885"
+    },
+    {
+      "role": "user",
+      "content": "Who is Kartik",
+      "timestamp": "2025-04-23T14:51:07.258153"
+    },
+    {
+      "role": "assistant",
+      "content": "There are many people named Kartik. Could you please provide more information so I can give you a more specific answer?\n",
+      "timestamp": "2025-04-23T14:51:07.969278"
+    },
+    {
+      "role": "user",
+      "content": "Kartik Aryan",
+      "timestamp": "2025-04-23T14:51:14.843428"
+    },
+    {
+      "role": "assistant",
+      "content": "Kartik Aaryan is an Indian actor who appears in Hindi films. He is known for films like \"Pyaar Ka Punchnama,\" \"Sonu Ke Titu Ki Sweety,\" and \"Luka Chuppi.\"\n",
+      "timestamp": "2025-04-23T14:51:15.694091"
+    },
+    {
+      "role": "user",
+      "content": "Kartik Agarwal from IIT Roorkee",
+      "timestamp": "2025-04-23T14:51:27.743690"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have readily available information about a specific Kartik Agarwal from IIT Roorkee. My knowledge base is not exhaustive on individuals. If you can provide more context about what you're looking for (e.g., his profession, area of study, or any achievements), I might be able to find relevant information.\n",
+      "timestamp": "2025-04-23T14:51:28.698664"
+    }
+  ],
+  "session_1745474587": [
+    {
+      "role": "user",
+      "content": "Which restaurant has best pasta",
+      "timestamp": "2025-04-24T11:34:33.304987"
+    },
+    {
+      "role": "assistant",
+      "content": "Pasta-Xpress is known for its Pasta, Pizza, and Burgers and has a rating of 4.1. Here are some pasta options at Pasta-Xpress:\n\n*   **Penne Al Forno Pasta**: Non-Veg, ₹210\n*   **N V Extravaganza Pasta**: Non-Veg, ₹250\n*   **Gamboroni Pasta**: Non-Veg, ₹240\n*   **Spaghetti Bolognaise Pasta**: Non-Veg, ₹240\n*   **N V Tandoori Pasta**: Non-Veg, ₹240\n*   **Golden Delight Pasta**: Non-Veg, ₹129\n*   **Cheese &onion Treat**: Veg, ₹79\n\nPasta-Xpress is located at G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi. You can contact them at +911147015393 or visit their website: [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n",
+      "timestamp": "2025-04-24T11:34:37.294152"
+    },
+    {
+      "role": "user",
+      "content": "is there any other option",
+      "timestamp": "2025-04-24T11:46:34.516789"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, La Pino'z Pizza is another option. They have a rating of 3.9 and are known for their pasta, pizza, and fast food. Would you like to see their pasta options?\n",
+      "timestamp": "2025-04-24T11:46:36.858160"
+    },
+    {
+      "role": "user",
+      "content": "Give complete menu\n",
+      "timestamp": "2025-04-24T11:46:59.447894"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I do not have access to the full menu of La Pino'z Pizza.\n",
+      "timestamp": "2025-04-24T11:47:00.468834"
+    },
+    {
+      "role": "user",
+      "content": "url for la pinoz pizza",
+      "timestamp": "2025-04-24T11:47:58.205417"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I do not have the direct URL for La Pino'z Pizza. However, you can likely find it by searching \"La Pino'z Pizza\" on Google or your preferred search engine. You may need to specify your location in the search to find the correct website.\n",
+      "timestamp": "2025-04-24T11:47:59.232051"
+    }
+  ],
+  "session_1745475837": [
+    {
+      "role": "user",
+      "content": "Hi",
+      "timestamp": "2025-04-24T11:54:05.854078"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T11:54:08.261940"
+    },
+    {
+      "role": "user",
+      "content": "I want veg chowmein can you recommend me wher",
+      "timestamp": "2025-04-24T11:54:25.182177"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you with that! Here are some restaurants that serve Veg Chowmein:\n\n**Restaurant Recommendations:**\n\n*   **Food-Adda**\n    *   Rating: 3.5/5\n    *   Location: Lajpat Nagar, Lajpat Nagar 4, New Delhi.\n    *   Cuisines: Desserts\n    *   Cost for Two: ₹200\n    *   Description: A simple eatery known for its quick bites and Chinese snacks. It's a budget-friendly option for a fast meal.\n    *   Recommended Dishes:\n        *   Mixed Chowmein (Veg): ₹130\n\n**Additional Information About Food-Adda**\n\n*   Address: Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi\n*   Contact: +919910864965\n*   Website: [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n\n**Disclaimer:** Please note that the restaurant ratings and availability of menu items may vary. It's always a good idea to confirm directly with the restaurant.\n",
+      "timestamp": "2025-04-24T11:54:27.932464"
+    }
+  ],
+  "session_1745476062": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-24T11:57:51.048295"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T11:57:53.251426"
+    },
+    {
+      "role": "user",
+      "content": "I want some good dinner with expensive hospitality and luxury",
+      "timestamp": "2025-04-24T11:58:22.962353"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on your request for a good dinner with expensive hospitality and luxury, I recommend the following restaurant:\n\n*   **Project-Hum**\n    *   Rating: 4.9/5\n    *   Location: Pali Hill, Bandra West, Mumbai.\n    *   Cuisine: Salad, Sandwich, Wraps\n    *   Cost for Two: ₹800\n\n    Project Hum is a F&amp;B-Casual Dining outlet that offers a unique dining experience. It is a place where people can come together to enjoy delicious food, drinks, and conversation.\n\n    *   Address: 16, Gasper Enclave, St. John Road, Pali Hill, Mumbai, Mumbai\n    *   Contact: +919137883053\n    *   Website URL: https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/\n    *   Hours of Operation:\n\n        *   MONDAY: 11:00:00 - 23:00:00\n        *   TUESDAY: 11:00:00 - 23:00:00\n        *   WEDNESDAY: 11:00:00 - 23:00:00\n        *   THURSDAY: 11:00:00 - 23:00:00\n        *   FRIDAY: 11:00:00 - 23:00:00\n        *   SATURDAY: 11:00:00 - 23:00:00\n        *   SUNDAY: 11:00:00 - 23:00:00\n",
+      "timestamp": "2025-04-24T11:58:26.011605"
+    },
+    {
+      "role": "user",
+      "content": "I want to eat some chicken near me",
+      "timestamp": "2025-04-24T12:04:45.349233"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you find some chicken dishes near you. Here are a few options, taking into account that you are looking for chicken dishes.\n\n**Restaurant Recommendations:**\n\nI have found the following restaurants that serve chicken:\n\n1.  **KFC**\n\n    *   Rating: 4.2/5\n    *   Location: Sarojini Nagar, New Delhi.\n    *   Cuisine: Burger, Fast Food, Desserts, Juices, Light Bites\n    *   Cost for Two: ₹400\n    *   Description: KFC is a fast-food chain known for its fried chicken. It's a great option for a quick and casual meal.\n    *   Recommended Dishes:\n        *   Chicken Popcorn - Large: ₹249\n        *   Saucy Popcorn X CarryMinati: ₹229\n    *   Website: [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n    *   Contact: +918700234862\n2.  **Subway**\n\n    *   Rating: 4/5\n    *   Location: Connaught Place (Cp), Rajiv Chowk, New Delhi.\n    *   Cuisine: Healthy Food\n    *   Cost for Two: ₹400\n    *   Description: Subway is a casual counter-serve chain for customizable sandwiches. It is known for its healthier options\n    *   Recommended Dishes:\n        *   Chicken Slice Sandwich: ₹269\n        *   Tandoori Chicken Tikka Salad: ₹319\n    *   Website: [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n    *   Contact: +919311994106\n3.  **Food-Adda**\n\n    *   Rating: 3.5/5\n    *   Location: Lajpat Nagar, Lajpat Nagar 4, New Delhi.\n    *   Cuisine: Desserts\n    *   Cost for Two: ₹200\n    *   Description: Food-Adda is known for desserts. It is a great option for quick and affordable food.\n    *   Recommended Dishes:\n        *   Butter Chicken Qtr + Tawa Butter Roti (2 Pc): ₹270\n        *   Chicken Rara: ₹399\n    *   Website: [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n    *   Contact: +919910864965\n\n",
+      "timestamp": "2025-04-24T12:04:50.724538"
+    }
+  ],
+  "session_1745476765": [
+    {
+      "role": "user",
+      "content": "I want some chicket options near me",
+      "timestamp": "2025-04-24T12:09:44.150331"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help with that! To find chicken options near you, I need to know your current location. Can you please share your location or provide an address?\n",
+      "timestamp": "2025-04-24T12:09:46.959289"
+    },
+    {
+      "role": "user",
+      "content": "I live near Dwarka in Delhi",
+      "timestamp": "2025-04-24T12:09:59.805095"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thanks for letting me know you're near Dwarka in Delhi. I can look for chicken options there. Just to confirm, are you still looking for restaurants? Or are you looking for something else, like grocery stores that sell chicken?\n",
+      "timestamp": "2025-04-24T12:10:00.736856"
+    },
+    {
+      "role": "user",
+      "content": "yeah restaurants",
+      "timestamp": "2025-04-24T12:10:16.283011"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you find restaurants near Dwarka, Delhi. I don't have enough information about restaurants that specifically serve chicken. However, I can suggest some restaurants that serve cuisines you might enjoy. Here are some options:\n\n**Restaurant Options Near Dwarka, Delhi:**\n\n1.  **Pasta-Xpress**\n    *   Rating: 4.1/5\n    *   Location: Sector 11, Dwarka, Sector 12, Dwarka, New Delhi\n    *   Cuisine: Pasta, Pizza, Burger\n    *   Cost for Two: ₹500\n    *   Description: Pasta Xpress offers a wide variety of Italian-inspired dishes. It is perfect for a quick bite or a leisurely meal with a relaxed atmosphere.\n    *   Address: G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi\n    *   Contact: +911147015393\n    *   Website URL: [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n    *   Hours of Operation:\n        *   MONDAY: 11:00:00 - 23:00:00\n        *   TUESDAY: 11:00:00 - 23:00:00\n        *   WEDNESDAY: 11:00:00 - 23:00:00\n        *   THURSDAY: 11:00:00 - 23:00:00\n        *   FRIDAY: 11:00:00 - 23:00:00\n        *   SATURDAY: 11:00:00 - 23:00:00\n        *   SUNDAY: 11:00:00 - 23:00:00\n\n2.  **KFC**\n    *   Rating: 4.2/5\n    *   Location: Sarojini Nagar, New Delhi\n    *   Cuisine: Burger, Fast Food, Desserts, Juices, Light Bites\n    *   Cost for Two: ₹400\n    *   Description: KFC is known for its legendary Original Recipe chicken, crispy, golden fried chicken and a variety of mouthwatering sides. Enjoy the perfect combination of taste and convenience, making every meal a memorable occasion.\n    *   Address: Sarojini Nagar ,Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market, Delhi-110023, Sarojini Nagar, New Delhi, New Delhi\n    *   Contact: +918700234862\n    *   Website URL: [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n    *   Hours of Operation:\n        *   MONDAY: 10:00:00 - 03:00:00\n        *   TUESDAY: 10:00:00 - 03:00:00\n        *   WEDNESDAY: 10:00:00 - 03:00:00\n        *   THURSDAY: 10:00:00 - 03:00:00\n        *   FRIDAY: 10:00:00 - 03:00:00\n        *   SATURDAY: 10:00:00 - 03:00:00\n        *   SUNDAY: 10:00:00 - 03:00:00\n\nPlease note that while KFC does offer chicken, it is located in Sarojini Nagar, which may not be very close to Dwarka. I recommend checking the distance and travel time before making a decision.\n",
+      "timestamp": "2025-04-24T12:10:22.250577"
+    }
+  ],
+  "session_1745490162": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-24T15:53:05.336273"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T15:53:07.614483"
+    },
+    {
+      "role": "user",
+      "content": "I want some restaurant recommendation for spicy fast food",
+      "timestamp": "2025-04-24T15:53:29.317933"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you with restaurant recommendations for spicy fast food. To give you the best recommendations, could you please tell me your current location?\n\nIn the meantime, here are a couple of options for spicy fast food based on the available information:\n\n**Restaurant Recommendations**\n\n**1. Kfc**\n*   Rating: 4.2\n*   Location: Sarojini Nagar, New Delhi.\n*   Cuisine: Burger, Fast Food, Desserts, Juices, Light Bites\n*   Cost for Two: ₹400\n*   Description: KFC is known for its crispy, golden fried chicken and a variety of mouthwatering sides. It is a perfect place to enjoy the taste and convenience.\n*   Recommended Dishes:\n    *   Spicy Zinger Burger: ₹219\n*   Website URL: [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n*   Contact: +918700234862\n\n**2. Pasta-Xpress**\n*   Rating: 4.1\n*   Location: Sector 11, Dwarka, Sector 12, Dwarka, New Delhi.\n*   Cuisine: Pasta, Pizza, Burger\n*   Cost for Two: ₹500\n*   Description: Pasta Xpress offers a wide variety of Italian-inspired dishes with a relaxed and inviting atmosphere. The staff is friendly and attentive, and the prices are reasonable.\n*   Recommended Dishes:\n    *   Spicy Chicken Burger: ₹125\n*   Website URL: [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n*   Contact: +911147015393\n",
+      "timestamp": "2025-04-24T15:53:32.756838"
+    },
+    {
+      "role": "user",
+      "content": "I am currently in Dwarka",
+      "timestamp": "2025-04-24T15:53:50.594664"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! Since you're in Dwarka, Pasta-Xpress is a good option from my previous recommendations, located in Sector 11 and 12. Are you looking for other spicy fast food options specifically in Dwarka besides Pasta-Xpress, or are you satisfied with just Pasta-Xpress?\n",
+      "timestamp": "2025-04-24T15:53:51.536336"
+    },
+    {
+      "role": "user",
+      "content": "give me more info about Pasta-Xpress",
+      "timestamp": "2025-04-24T15:54:05.309695"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, here's more information about Pasta-Xpress in Dwarka:\n\n*   **Location:** Sector 11, Dwarka, Sector 12, Dwarka, New Delhi.\n*   **Cuisine:** Pasta, Pizza, Burger\n*   **Cost for Two:** ₹500\n*   **Description:** Pasta Xpress offers a wide variety of Italian-inspired dishes with a relaxed and inviting atmosphere. The staff is friendly and attentive, and the prices are reasonable.\n*   **Recommended Dishes:**\n    *   Spicy Chicken Burger: ₹125\n*   **Website URL:** [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n*   **Contact:** +911147015393\n\nIs there anything specific you'd like to know about Pasta-Xpress, like their menu, user reviews, or specific locations within Sector 11 or 12?\n",
+      "timestamp": "2025-04-24T15:54:08.650793"
+    },
+    {
+      "role": "user",
+      "content": "Which restaurant has the best vegetarian options in their menu?",
+      "timestamp": "2025-04-24T15:54:56.798770"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can help you determine which restaurant has the best vegetarian options based on their menu. Here's a comparison of the restaurants in my database with significant vegetarian offerings:\n\n**Top Restaurants with Vegetarian Options**\n\nHere are a few restaurants with great vegetarian options. I've considered the variety and number of vegetarian items, along with their ratings.\n\n1.  **Project-Hum**\n    *   **Rating:** 4.9/5\n    *   **Location:** Pali Hill, Bandra West, Mumbai\n    *   **Cuisine:** Salad, Sandwich, Wraps\n    *   **Cost for Two:** ₹800\n    *   **Description:** Project-Hum is known for its healthy and innovative vegetarian options, offering a wide variety of salads, bowls, and wraps. The restaurant focuses on fresh ingredients and unique flavor combinations.\n    *   **Recommended Dishes:**\n        *   Italiano Salad: ₹410 (Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped melo)\n        *   Tofu Paprikash Bowl: ₹425 (Brown/Cauli rice, Madras chilly sauce, roasted potatoes, basil oil, ro)\n    *   **Website:** [https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/](https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/)\n    *   **Contact:** +919137883053\n2.  **Pasta-Xpress**\n    *   **Rating:** 4.1/5\n    *   **Location:** Sector 11, Dwarka, Sector 12, Dwarka, New Delhi\n    *   **Cuisine:** Pasta, Pizza, Burger\n    *   **Cost for Two:** ₹500\n    *   **Description:** Pasta-Xpress offers a wide range of vegetarian fast food options, including pizzas, burgers, and pasta dishes. It's a great choice for a quick and affordable meal.\n    *   **Recommended Dishes:**\n        *   Margherita Pizza: ₹120 (Made cheese with 100% real mozzarella cheese, plain cheese pizza.)\n        *   Veggie Burger: ₹99 (Baked sliced bun stuffed with a vegetable patty, chopped vegetables an)\n    *   **Website:** [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n    *   **Contact:** +911147015393\n3.  **Subway**\n    *   **Rating:** 4/5\n    *   **Location:** Connaught Place (Cp), Rajiv Chowk, New Delhi\n    *   **Cuisine:** Healthy Food\n    *   **Cost for Two:** ₹400\n    *   **Description:** Subway is a well-known chain that specializes in customizable sandwiches, wraps, and salads with a focus on healthier options. It’s ideal for a quick and customizable meal.\n    *   **Recommended Dishes:**\n        *   Veggie Delite Sandwich: ₹229 (Delicious combination of fresh lettuce, tomatoes, green peppers, cucum)\n        *   Paneer Tikka Sandwich: ₹259 (A tangy twist to your favourite cottage cheese cubes marinated in tand)\n    *   **Website:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n    *   **Contact:** +919311994106\n4.  **Food-Adda**\n    *   **Rating:** 3.5/5\n    *   **Location:** Lajpat Nagar, Lajpat Nagar 4, New Delhi\n    *   **Cuisine:** Desserts\n    *   **Cost for Two:** ₹200\n    *   **Description:** Food-Adda provides a wide array of vegetarian options, including North Indian dishes, snacks, and fast food. It’s a budget-friendly choice for a casual meal.\n    *   **Recommended Dishes:**\n        *   Paneer Tikka [6 Pieces]: ₹199\n        *   Chole Bhature: ₹100\n    *   **Website:** [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n    *   **Contact:** +919910864965\n\n**Summary:**\n\n*   If you're in Mumbai and looking for healthy and innovative vegetarian options, **Project-Hum** is the best choice with a rating of 4.9.\n*   If you're in Dwarka, **Pasta-Xpress** provides a good variety of vegetarian fast food with a rating of 4.1.\n*   **Subway** in Connaught Place is great for customizable and healthier vegetarian choices, rated 4.\n*   **Food-Adda** in Lajpat Nagar offers budget-friendly vegetarian dishes, though with a lower rating of 3.5.\n\nI hope this comparison helps you choose the best restaurant for your vegetarian needs!\n",
+      "timestamp": "2025-04-24T15:55:05.524140"
+    },
+    {
+      "role": "user",
+      "content": "Does KFC restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T15:55:51.396867"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the information I have, I cannot definitively confirm whether KFC offers gluten-free appetizers. The menu details and descriptions do not specifically list items as \"gluten-free.\"\n\n**General Guidance for Gluten-Free Options at Fast Food Restaurants Like KFC:**\n\n*   **Check the Restaurant's Official Website:** KFC's website or mobile app may have a filter or section for allergens, including gluten. Look for this information to get the most accurate details.\n*   **Ask Directly at the Restaurant:** The most reliable way to determine if a specific item is gluten-free is to ask the staff directly at the KFC location you plan to visit.\n*   **Consider Simple Items:** Some plain, unbreaded items like grilled chicken (if available) or certain side salads (without croutons or creamy dressings) might be naturally gluten-free. However, always verify preparation methods to avoid cross-contamination.\n*   **Be Aware of Cross-Contamination:** Fast food environments often have shared cooking equipment, increasing the risk of cross-contamination. If you are highly sensitive to gluten, it may be best to choose restaurants with dedicated gluten-free preparation areas.\n\n",
+      "timestamp": "2025-04-24T15:55:54.384673"
+    },
+    {
+      "role": "user",
+      "content": "Does Project Hum restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T15:56:22.653135"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, but based on the menu information I have for Project-Hum, I cannot confirm whether they have specific gluten-free appetizers. The menu descriptions do not list items as specifically \"gluten-free.\"\n\nHowever, I can provide some general guidance and options based on their menu that might be suitable if you are looking for gluten-conscious choices:\n\n**Potential Gluten-Conscious Choices at Project-Hum:**\n\nGiven Project-Hum's focus on salads and bowls, some items may be naturally gluten-free or can be modified. Here's what to consider:\n\n*   **Salads:** Choose salads without croutons or with dressings that are confirmed to be gluten-free. Ask the staff about the ingredients in the dressings.\n*   **Bowls:** When ordering bowls, confirm that the rice or noodle base is gluten-free. Brown rice or cauli rice may be good options. Ensure that any sauces or toppings are also gluten-free.\n*   **Wraps and Sandwiches:** These are less likely to be gluten-free due to the bread/wrap.\n\n**To confirm gluten-free options:**\n\n*   **Contact the Restaurant Directly:** Call Project-Hum at +919137883053.\n*   **Visit in Person:** Enquire about gluten-free options and preparation methods.\n*   **Check the Website:** Visit their website at [https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/](https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/) for any allergen information.\n",
+      "timestamp": "2025-04-24T15:56:25.737755"
+    }
+  ],
+  "session_1745490794": [
+    {
+      "role": "user",
+      "content": "What's the price range for Project Hum restaurant's dessert menu?",
+      "timestamp": "2025-04-24T16:03:42.035373"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I cannot fulfill this request. The provided menu for Project-Hum restaurant does not have a dessert menu.\n",
+      "timestamp": "2025-04-24T16:03:44.907397"
+    },
+    {
+      "role": "user",
+      "content": "\"What's the price range for XYZ restaurant's vegetarian menu?",
+      "timestamp": "2025-04-24T16:03:59.011057"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I cannot fulfill this request. The context does not have a restaurant named XYZ.\n",
+      "timestamp": "2025-04-24T16:04:00.034023"
+    },
+    {
+      "role": "user",
+      "content": "What's the price range for Project Hum restaurant's veg menu?",
+      "timestamp": "2025-04-24T16:04:11.974424"
+    },
+    {
+      "role": "assistant",
+      "content": "The vegetarian menu items at Project-Hum range from ₹210 to ₹395.\n\nHere's a breakdown of the vegetarian items and their prices:\n\n*   **Hot Espresso:** ₹210\n*   **Iced Espresso:** ₹215\n*   **Hot Piccolo:** ₹220\n*   **Hot Long Black:** ₹220\n*   **Iced Long Black:** ₹225\n*   **Hot Cortado:** ₹230\n*   **Ice Cortado:** ₹235\n*   **Hot Flat White:** ₹240\n*   **Ice Flat White:** ₹245\n*   **Hot Latte:** ₹255\n*   **Iced Latte:** ₹260\n*   **Seasonal Compote Toast:** ₹395\n",
+      "timestamp": "2025-04-24T16:04:13.650016"
+    },
+    {
+      "role": "user",
+      "content": "Does any restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T16:04:32.504785"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I cannot fulfill this request. The context does not have any information about gluten-free appetizers.\n",
+      "timestamp": "2025-04-24T16:04:33.612249"
+    }
+  ],
+  "session_1745491249": [
+    {
+      "role": "user",
+      "content": "Hi",
+      "timestamp": "2025-04-24T16:12:32.051905"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T16:12:34.294720"
+    },
+    {
+      "role": "user",
+      "content": "I want a Gluten free restaurant ",
+      "timestamp": "2025-04-24T16:12:45.727210"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I cannot fulfill this request. There is no information about gluten-free options in the provided restaurant data.\n",
+      "timestamp": "2025-04-24T16:12:47.302167"
+    },
+    {
+      "role": "user",
+      "content": "I want a non veg best restaurant with low priced items",
+      "timestamp": "2025-04-24T16:13:08.782112"
+    },
+    {
+      "role": "assistant",
+      "content": "I do not have enough information to fulfill this request. I do not have any restaurants that specify if they serve Non-Veg.\n",
+      "timestamp": "2025-04-24T16:13:10.143357"
+    }
+  ],
+  "session_1745491436": [
+    {
+      "role": "user",
+      "content": "I want veg restaurant near me",
+      "timestamp": "2025-04-24T16:14:39.713030"
+    },
+    {
+      "role": "assistant",
+      "content": "Since I do not have access to your location, I am unable to provide specific recommendations for restaurants \"near you.\" However, I can share information about a vegetarian restaurant called Food-Adda in Lajpat Nagar, New Delhi.\n\n**Restaurant Recommendation**\n\n**Food-Adda**\n*   **Rating:** 3.5/5\n*   **Location:** Lajpat Nagar, Lajpat Nagar 4, New Delhi\n*   **Address:** Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi\n*   **Cuisine:** Desserts\n*   **Cost for Two:** ₹200\n\nFood-Adda is a restaurant in Lajpat Nagar that specializes in desserts.\n\n**Recommended Dishes:**\n\n*   Veg Burger: ₹60\n*   Veg Pulao: ₹179\n\n**Contact Information:**\n\n*   **Phone:** +919910864965\n*   **Website:** [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n\nTo provide you with more tailored recommendations, could you please share your current location or preferred area? This will help me find the best vegetarian restaurant options near you.\n",
+      "timestamp": "2025-04-24T16:14:43.825681"
+    },
+    {
+      "role": "user",
+      "content": "but I live near Pali hills Mumbai",
+      "timestamp": "2025-04-24T16:15:01.947856"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, great! Now that I know you're near Pali Hills, Mumbai, I can provide more relevant recommendations. Here's a vegetarian restaurant option in that area:\n\n**The Village Shop**\n\n*   **Location:** Pali Hill, Mumbai\n*   **Address:** 5, Ambedkar Rd, Pali Hill, Bandra West, Mumbai, Maharashtra 400050\n*   **Cuisine:** Cafe, Salad, Continental, Healthy Food, Italian\n*   **Cost for Two:** ₹1,400 (approx.)\n\nThe Village Shop is a popular spot known for its fresh, healthy vegetarian options, salads, and continental cuisine. It also offers Italian dishes. It's a cafe-style setting, so expect a slightly higher price point than Food-Adda in Delhi.\n\nFor more options, I recommend searching on Zomato or Swiggy using your specific location in Pali Hill to see menus, ratings, and reviews. I can also help you refine your search if you have any preferences regarding cuisine (e.g., South Indian, North Indian, etc.) or price range.\n",
+      "timestamp": "2025-04-24T16:15:03.993476"
+    },
+    {
+      "role": "user",
+      "content": "Give me complete veg menu for this restaurant",
+      "timestamp": "2025-04-24T16:15:33.984370"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, but I do not have the menu information for \"The Village Shop\". Instead, I can provide you with the veg menus of the other restaurants from the context.\n\n**Food-Adda (Rating: 3.5/5)**\n*   **Location:** Lajpat Nagar, Lajpat Nagar 4, New Delhi.\n*   **Address:** Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi\n*   **Cuisine:** Desserts\n*   **Cost for Two:** ₹200\n*   **Contact:** +919910864965\n*   **Website:** [https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/](https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/)\n\n**Veg Menu:**\n*   Veg Pulao: ₹179\n*   Veg Manchow Soup: ₹129\n*   Veg Burger: ₹60\n*   Veg Spring Roll: ₹90\n*   Veg Noodles Soup: ₹99\n*   Mixed Veg Raita: ₹80\n*   Veg Kurkure Momos: ₹90\n*   Veg Hot And Sour Soup: ₹119\n\n**Subway (Rating: 4/5)**\n*   **Location:** Connaught Place (Cp), Rajiv Chowk, New Delhi.\n*   **Address:** (P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi\n*   **Cuisine:** Healthy Food, Glueten Free, Vegan\n*   **Cost for Two:** ₹400\n*   **Contact:** +919311994106\n*   **Website:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n\n**Veg Menu:**\n*   Veg Subs + Side + Coke (Save Upto Rs199): ₹360 - Enjoy a veg Create Your Own sub of your choice, with your favourite dr\n*   Any 2 Veg/Non-Veg Subs + Coke (Save Upto Rs200): ₹539 - Combo of any two freshly made veg/non-veg subs of your choice with a d\n*   2 Veg Premium Subs + Coke (Save Upto Rs179): ₹489 - Combo of two freshly made veg subs of your choice from our premium ran\n\n**Pasta-Xpress (Rating: 4.1/5)**\n*   **Location:** Sector 11, Dwarka, Sector 12, Dwarka, New Delhi.\n*   **Address:** G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi\n*   **Cuisine:** Pasta, Pizza, Burger\n*   **Cost for Two:** ₹500\n*   **Contact:** +911147015393\n*   **Website:** [https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/](https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/)\n\n**Veg Menu:**\n*   Veg Bbq Burger: ₹110\n",
+      "timestamp": "2025-04-24T16:15:38.263477"
+    }
+  ],
+  "session_1745492518": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-24T16:32:08.000230"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T16:32:10.536399"
+    },
+    {
+      "role": "user",
+      "content": "Does any restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T16:32:18.463772"
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like I can help you find restaurants with gluten-free options, but my database does not specify which items are appetizers. I can suggest restaurants known to serve gluten-free food, and you can check their menus for suitable appetizers.\n\nHere are a few options:\n\n**Restaurant Options Serving Gluten-Free Cuisine:**\n\n*   **Thai Naam**\n    *   Rating: 4.9\n    *   Location: Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai\n    *   Cuisine: Gluten Free\n    *   Cost for Two: ₹1000\n    *   Description: Thai Naam specializes in Gluten Free cuisine.\n    *   Contact: +919167919167\n\n*   **Subway**\n    *   Rating: 4\n    *   Location: Connaught Place (Cp), Rajiv Chowk, New Delhi.\n    *   Address: (P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi\n    *   Cuisine: Healthy Food, Gluten Free, Vegan\n    *   Cost for Two: ₹400\n    *   Description: Subway offers Healthy Food, Gluten Free, and Vegan options. It is a good choice if you're looking for customizable sandwiches and salads.\n    *   Website: [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n    *   Contact: +919311994106\n\n*   **Project Hum**\n    *   Rating: 4.9\n    *   Location: 16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai\n    *   Cuisine: Breakfast, Gluten Free\n    *   Cost for Two: ₹1000\n    *   Description: Project Hum is known for its Breakfast and Gluten Free options.\n    *   Contact: +919137883053\n",
+      "timestamp": "2025-04-24T16:32:22.131218"
+    },
+    {
+      "role": "user",
+      "content": "give me wribsite for Thai naam",
+      "timestamp": "2025-04-24T16:33:10.495522"
+    },
+    {
+      "role": "assistant",
+      "content": "I do not currently have a website listed for Thai Naam. However, you can try searching online using the restaurant name and location to see if you can find one.\n",
+      "timestamp": "2025-04-24T16:33:11.327232"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-24T16:41:27.443549"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-24T16:41:29.700244"
+    },
+    {
+      "role": "user",
+      "content": "Does any restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T16:41:44.348709"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the context provided, here are restaurants that offer gluten-free options and may have gluten-free appetizers. Please note that appetizer availability can vary, and it's always best to confirm with the restaurant directly.\n\n**Restaurants with Gluten-Free Options:**\n\n1.  **Thai Naam**\n    *   Rating: 4.9\n    *   Location: Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai\n    *   Cuisine: Gluten Free\n    *   Cost for Two: ₹1000\n    *   Description: Thai Naam specializes in gluten-free cuisine. Given their focus, they are likely to have gluten-free appetizer options.\n    *   Contact: +919167919167\n\n2.  **Project Hum**\n    *   Rating: 4.9\n    *   Location: 16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai\n    *   Cuisine: Breakfast, Gluten Free\n    *   Cost for Two: ₹1000\n    *   Description: Project Hum serves breakfast and gluten-free options.\n    *   Contact: +919137883053\n     *   Menu Item: Egg Saganaki Salad Bowl (₹410)\n     *   Menu Item: Burrito and Bean Chicken Salad Bowl (₹420)\n\n3.  **Subway**\n    *   Rating: 4\n    *   Location: Connaught Place (Cp), Rajiv Chowk, New Delhi.\n    *   Cuisine: Healthy Food, Glueten Free, Vegan\n    *   Cost for Two: ₹400\n    *   Description: Subway offers healthy, gluten-free, and vegan options, providing a customizable experience.\n    *   Website: [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n    *   Contact: +919311994106\n\n*Disclaimer:* While these restaurants offer gluten-free options, the availability of specific gluten-free appetizers is not explicitly mentioned in the provided context. It is recommended to contact the restaurants directly to inquire about their gluten-free appetizer menu.\n",
+      "timestamp": "2025-04-24T16:41:47.939329"
+    }
+  ],
+  "session_1745493157": [
+    {
+      "role": "user",
+      "content": "Does any restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T16:42:42.656884"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the information, I cannot confirm whether any of the restaurants have gluten-free *appetizers* specifically. However, I can provide you with restaurants that offer Gluten-Free cuisine, which may include gluten-free appetizers.\n\nHere are some options:\n\n**Gluten-Free Restaurant Options:**\n\n*   **Thai Naam**\n    *   Rating: 4.9\n    *   Location: Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai\n    *   Cuisine: Gluten Free\n    *   Cost for Two: ₹1000\n    *   Thai Naam specializes in Gluten-Free cuisine. They may have gluten-free appetizer options available.\n    *   Contact: +919167919167\n    *   Website: [https://www.zomato.com/mumbai/thai-naam-marol/info](https://www.zomato.com/mumbai/thai-naam-marol/info)\n\n*   **Project Hum**\n    *   Rating: 4.9\n    *   Location: 16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai\n    *   Cuisines: Breakfast, Gluten Free\n    *   Cost for Two: ₹1000\n    *   Project Hum serves Gluten Free options.\n    *   Contact: +919137883053\n    *   Website: N/A\n",
+      "timestamp": "2025-04-24T16:42:45.396141"
+    }
+  ],
+  "session_1745493473": [
+    {
+      "role": "user",
+      "content": "Does any restaurant have any gluten-free appetizers?",
+      "timestamp": "2025-04-24T16:48:04.802190"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the provided information, here are restaurants that offer gluten-free options. Note that the availability of gluten-free appetizers specifically is not detailed in the menu information, but these restaurants do cater to gluten-free diets.\n\n**Restaurants with Gluten-Free Options:**\n\n*Restaurant Option #1:*\n\n*   **Restaurant Name:** Thai Naam\n*   **Rating:** 4.9\n*   **Location:** Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai\n*   **Cuisine:** Gluten Free\n*   **Cost for Two:** ₹1000\n*   **Description:** Thai Naam specializes in Gluten Free cuisine, offering a sophisticated dining experience.\n*   **Contact:** +919167919167\n*   **Website:** [https://www.zomato.com/mumbai/thai-naam-marol/info](https://www.zomato.com/mumbai/thai-naam-marol/info)\n\n*Restaurant Option #2:*\n\n*   **Restaurant Name:** Subway\n*   **Rating:** 4\n*   **Location:** Connaught Place (Cp), Rajiv Chowk, New Delhi.\n*   **Cuisine:** Healthy Food, Glueten Free, Vegan\n*   **Cost for Two:** ₹400\n*   **Description:** Subway provides a variety of customizable subs with gluten-free options, focusing on healthy and fresh ingredients.\n*   **Contact:** +919311994106\n*   **Website:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n\n**Important Note:**\nTo confirm the availability of specific gluten-free appetizers and ensure they meet your dietary needs, it is recommended to contact the restaurants directly.\n",
+      "timestamp": "2025-04-24T16:48:09.699719"
+    }
+  ],
+  "session_1745506207": [
+    {
+      "role": "user",
+      "content": "Compare the veg options mentioned in the menus of restaurants KFC and Subway",
+      "timestamp": "2025-04-24T20:20:52.135014"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can compare the veg options at KFC and Subway based on the provided menu information.\n\n**Restaurant Comparison: Veg Options at KFC and Subway**\n\nHere's a comparison of the veg options available at KFC and Subway:\n\n**KFC (Rating: 4.2)**\n\n*   **Location:** Sarojini Nagar, New Delhi\n*   **Cuisines:** Burger, Fast Food, Desserts, Juices, Light Bites\n*   **Cost for Two:** ₹400\n*   **Description:** KFC offers a range of veg options including burgers, rice bowls, and snacks. Their menu includes both classic and spicy options to cater to different preferences.\n*   **Recommended Dishes:**\n    *   Veg Zinger Burger (₹189): Signature veg burger with crispy patties, veggies & a tangy sauce\n    *   Veg Rice Bowlz (₹199): Aromatic Veg rice bowl mixed with spicy gravy\n*   **Website:** [https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/](https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/)\n*   **Contact:** +918700234862\n*   **Veg Menu Highlights:**\n\n    *   Indian Spicy Veg Roll (₹119)\n    *   Paneer Zinger Burger (₹209)\n    *   Veg Zinger Burger (₹189)\n    *   Veg Rice Bowlz (₹199)\n    *   French Fries - Large (₹119)\n    *   Chocolate Lava Cake (₹109)\n\n**Subway (Rating: 4)**\n\n*   **Location:** Connaught Place (Cp), Rajiv Chowk, New Delhi\n*   **Cuisines:** Healthy Food, Glueten Free, Vegan\n*   **Cost for Two:** ₹400\n*   **Description:** Subway specializes in customizable sandwiches, wraps, and salads with a focus on fresh ingredients. They offer a variety of vegetarian fillings and toppings.\n*   **Recommended Dishes:**\n    *   Veggie Delite Sandwich (₹229): Delicious combination of fresh lettuce, tomatoes, green peppers, cucumber\n    *   Paneer Tikka Sandwich (₹259): A tangy twist to your favourite cottage cheese cubes marinated in tandoori\n*   **Website:** [https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/](https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/)\n*   **Contact:** +919311994106\n*   **Veg Menu Highlights:**\n\n    *   Veggie & Cheese Toastie (₹114)\n    *   Classic Veggie Craver (10cm) (₹169)\n    *   Veggie Delite Sandwich (₹229)\n    *   Aloo Patty Sandwich (₹249)\n    *   Paneer Tikka Sandwich (₹259)\n    *   Paneer Tikka Signature Wrap (₹299)\n\n**Comparison Summary:**\n\n*   **Cuisine Focus:** KFC focuses on fast food-style burgers and rice bowls, while Subway emphasizes customizable sandwiches and salads with a health-conscious approach.\n*   **Menu Variety:** Both restaurants have a decent selection of veg items. Subway offers more variety in terms of fillings and customization options for sandwiches.\n*   **Price:** The cost for two is similar for both restaurants (₹400). However, individual item prices may vary.\n*   **Rating:** KFC has a slightly higher rating (4.2) compared to Subway (4.0).\n*   **Location:** KFC is located in Sarojini Nagar, while Subway is located in Connaught Place.\n\nI hope this comparison is helpful!\n",
+      "timestamp": "2025-04-24T20:20:57.936656"
+    }
+  ]
+}

@@ -1,0 +1,6015 @@
+[
+  {
+    "name": "Project Hum",
+    "location": "16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/project-hum-pali-hill-bandra-west/info",
+    "address": "16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai",
+    "contact": "+919137883053",
+    "description": "Project Hum is a restaurant located at 16, Gasper Enclave, St. John Road, Pali Hill, Bandra West, Mumbai.",
+    "cuisines": [
+      "Breakfast",
+      "Gluten Free"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Burrito and Bean Tofu Salad Bowl",
+        "price": "₹420",
+        "description": "[Calories: 495 kcal] Brown/cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa and sour cream.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pasta 114 Tofu Salad Bowl",
+        "price": "₹495",
+        "description": "[Calories: 510 kcal] Cavatelli, tomatoes, roasted veggies, green mix, bocconcini cheese and pesto.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "The Habibi Falafel Salad Bowl",
+        "price": "₹410",
+        "description": "[Calories: 410 kcal] Garlic brown rice, labneh, peppers, sun dried tomato hummus and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Red Thai Tofu Salad Bowl",
+        "price": "₹410",
+        "description": "[Calories: 485 kcal] [Dairy Free] Buckwheat noodles, byadgi peanut curry, glazed pok choy, mushroom and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Granola Yogurt Salad Bowl",
+        "price": "₹425",
+        "description": "[Calories: 455 kcal] Fat free vanilla yogurt, homemade granola, seasonal fruits, cranberry and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Saganaki Salad Bowl",
+        "price": "₹410",
+        "description": "[Calories: 495 kcal] Brown rice, mushroom, avocado, feta and shakshuka.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Noodles Slurp Tofu Salad Bowl",
+        "price": "₹495",
+        "description": "[Calories: 455 kcal] Sweet potato noodles, shitake mushroom, bean sprouts, boiled egg, steamed ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Burrito and Bean Chicken Salad Bowl",
+        "price": "₹420",
+        "description": "[Calories: 495 kcal] Brown/cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa and sour cream.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Pasta 114 Bowl",
+        "price": "₹565",
+        "description": "[Calories: 510 kcal] Cavatelli, tomatoes, roasted veggies, green mix, bocconcini cheese and pesto.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken The Habibi Bowl",
+        "price": "₹525",
+        "description": "[Calories: 498 kcal] Garlic brown rice, labneh, peppers, sun dried tomato hummus, chicken ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Red Thai Bowl",
+        "price": "₹480",
+        "description": "[Calories: 498 kcal] [Dairy Free] Buckwheat noodles, byadgi peanut curry, glazed pok-choy, mushroom ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Saganaki Bowl",
+        "price": "₹485",
+        "description": "[Calories: 510 kcal] Brown rice, mushroom, avocado, feta and shakshuka.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Noodles Slurp Bowl",
+        "price": "₹565",
+        "description": "[Calories: 470 kcal] Sweet potato noodles, shitake mushroom, bean sprouts, boiled egg, steamed ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Greek Souvla Salad",
+        "price": "₹395",
+        "description": "[Calories: 362 kcal] Green mix, roasted sweet potato, orange segments, pickled onions, mix ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Everyday Mexican Salad",
+        "price": "₹395",
+        "description": "[Calories: 410 kcal] Green mix, bajra chilli, ragi nachos, corn salsa, avocado, beans ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pali Ceaser Tofu Salad",
+        "price": "₹425",
+        "description": "[Calories: 375 kcal] Kale mix, zoodles, zaatar croutons, beets, sunflower seeds and house ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Asian Street Crunch Tofu Salad",
+        "price": "₹425",
+        "description": "[Calories: 410 kcal] Spring onion, pickled cucumbers, peanuts, carrots and gochujang dressing.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Street Corn Crunch Tofu Salad",
+        "price": "₹420",
+        "description": "[Calories: 385 kcal] Corn of the cobb, salsa, tostada kodo millet, spicy cashew, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soba Katsu Tofu Salad",
+        "price": "₹395",
+        "description": "[Veg preparation] [Calories: 394 kcal] Fish of the month, romaine blend, avocado, walnut, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Monsoon Pakoda Tofu Salad",
+        "price": "₹420",
+        "description": "[Calories: 410 kcal] Green mix, sweet potato, chickpeas, zucchini, stuffed Cheddar cheese pakodas ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fiery Summer Barbeque Tofu Salad",
+        "price": "₹425",
+        "description": "[Calories: 398 kcal] Asparagus, pickled radish, herbed ricotta, spicy cashew, dried cranberries, corn ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Italiano Tofu Salad",
+        "price": "₹410",
+        "description": "[Calories: 370 kcal] Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped watermelon and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "House Blend Spiced Tofu Vos",
+        "price": "₹450",
+        "description": "[Keto] Served with 2 sides and chimichurri sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sabbich Salad",
+        "price": "₹420",
+        "description": "[Calories: 376 kcal] Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range free ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Greek Souvla Chicken Salad",
+        "price": "₹495",
+        "description": "[Calories: 472 kcal] Green mix, roasted sweet potato, orange segments, pickled onions, mix ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Everyday Mexican Chicken Salad",
+        "price": "₹485",
+        "description": "[Calories: 520 kcal] Green mix, bajra chilli, ragi nachos, corn salsa, avocado, beans ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sabbich Chicken Salad",
+        "price": "₹430",
+        "description": "[Calories: 410 kcal] Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range free ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pali Ceaser Chicken Salad",
+        "price": "₹430",
+        "description": "[Calories: 420 kcal] Kale mix, zoodles, zaatar croutons, beets, sunflower seeds and housemade ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Asian Street Crunch Chicken Salad",
+        "price": "₹475",
+        "description": "[Calories: 455 kcal] Spring onion, pickled cucumbers, peanuts, carrots and gochujang dressing.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Street Corn Crunch Chicken Salad",
+        "price": "₹520",
+        "description": "[Calories: 423 kcal] Corn of the cobb, salsa, tostada kodo millet, spicy cashew, ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Monsoon Pakoda Salad",
+        "price": "₹520",
+        "description": "[Calories: 455 kcal] Green mix, sweet potato, chickpeas, zucchini, stuffed Cheddar cheese pakoda ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Fiery Summer Barbeque Salad",
+        "price": "₹475",
+        "description": "[Calories: 450 kcal] Asparagus, pickled radish, herbed ricotta, spicy cashew, dried cranberries, corn ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Italiano Salad",
+        "price": "₹510",
+        "description": "[Calories: 493 kcal] Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped watermelon and ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spice Grilled Lean Chicken",
+        "price": "₹515",
+        "description": "[Dairy Free] [Keto] Served with 2 sides and chimichurri sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fish Omega Miso Salad",
+        "price": "₹510",
+        "description": "[Calories: 375 kcal] Baby spinach, buckwheat noodles, edamame, tofu katsu and byadgi peanut ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Togarashi Grilled Fish of The Month",
+        "price": "₹595",
+        "description": "[Dairy Free] [Keto] Served with 2 sides and chimichurri sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fico Sandwich",
+        "price": "₹395",
+        "description": "[Calories: 455 kcal] Grilled zucchini, mushroom, bell pepper jam, green mix and kale ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Shroomami Sandwich",
+        "price": "₹395",
+        "description": "[Calories: 586 kcal] Creamed mushroom, cashew aioli, corn, green mix, pesto and Cheddar ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Breakfast For Lunch Sandwich",
+        "price": "₹425",
+        "description": "[Calories: 426 kcal] Fried egg, avocado, whipped scallion Feta, boccocini, arugula and tomatoes. Served ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken with Avocado Sandwich",
+        "price": "₹425",
+        "description": "[Calories: 495 kcal] Bellpepper jam, Cheddar, kale pesto and green mix. Served with fries/salad ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Bravocado Open Toast",
+        "price": "₹350",
+        "description": "[Calories: 385 kcal] Guacamole, pickled onions and bell pepper jam. Served with fries/salad [Subject ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fico Open Toast",
+        "price": "₹310",
+        "description": "[Calories: 455 kcal] Grilled zucchini, mushroom, bell pepper jam, green mix and kale ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Shroomami Open Toast",
+        "price": "₹310",
+        "description": "[Calories: 586 kcal] Creamed mushroom, cashew aioli, corn, green mix, pesto and Cheddar ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Breakfast For Lunch Open Toast",
+        "price": "₹315",
+        "description": "[Calories: 426 kcal] Fried egg, avocado, whipped scallion Feta, boccocini, arugula and tomatoes. Served ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken with Avocado Open Toast",
+        "price": "₹360",
+        "description": "[Calories: 495 kcal] Bellpepper jam, Cheddar, kale pesto and green mix. Served with fries/salad ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sabbaba Falafel Wrap",
+        "price": "₹395",
+        "description": "[Calories: 510 kcal] Sundried tomato hummus, byadgi hot sauce, toum, fattoush and green ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cowboy Tofu Wrap",
+        "price": "₹395",
+        "description": "[Calories: 485 kcal] Guacamole, byadgi chilli, mashed beans, green mix and Cheddar. Served ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Buffalo Bopp Wrap Tofu Wrap",
+        "price": "₹395",
+        "description": "[Calories: 458 kcal] Tzatziki, pickled cabbage, hot sauce and green mix. Served with ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pesto Picante Tofu Wrap",
+        "price": "₹410",
+        "description": "[Calories: 495 kcal] Pesto, tomato basil sauce, sundried tomatoes, bell peppers and balsamic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fiery Chipotle Tofu Wrap",
+        "price": "₹410",
+        "description": "[Calories: 468 kcal] Herbed rice, veggies mix, fiery sauce, greens and Cheddar cheese. ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Souvlakiv Chicken Wrap",
+        "price": "₹430",
+        "description": "[Calories: 495 kcal] Sundried tomato hummus, byadgi hot sauce, toum, fattoush, shish touk ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Cowboy Wrap",
+        "price": "₹430",
+        "description": "[Calories: 498 kcal] Guacamole, byadgi chilli, mashed beans, green mix, Cheddar. Served with ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Buffalo Bopp Wrap",
+        "price": "₹430",
+        "description": "[Calories: 498 kcal] Tzatziki, pickled cabbage, hot sauce and green mix. Served with ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Pesto Picante Wrap",
+        "price": "₹440",
+        "description": "[Calories: 510 kcal] Pesto, tomato basil sauce, sundried tomatoes, bell peppers and balsamic ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Fiery Chipotle Wrap",
+        "price": "₹450",
+        "description": "[Calories: 512 kcal] Herbed rice, veggies mix, fiery sauce, greens and Cheddar cheese. ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Organic Wildflower Honeycomb Vanilla Yogurt",
+        "price": "₹285",
+        "description": "[Calories: 110 kcal]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Seasonal Crumble Vanilla Yogurt",
+        "price": "₹325",
+        "description": "[Calories: 132 kcal]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Parfait Yogurt",
+        "price": "₹285",
+        "description": "[Calories: 104 kcal] Vanilla/pistachio.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pistachio Baklava Yogurt",
+        "price": "₹315",
+        "description": "[Calories: 162 kcal]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Seasonal Toast",
+        "price": "₹395",
+        "description": "[Calories: 525 kcal]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Banoffee Brioche Toast",
+        "price": "₹395",
+        "description": "[Calories: 625 kcal]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peanut Mood Smoothie",
+        "price": "₹315",
+        "description": "[Calories: 315 kcal] Peanut butter, chocolate, fresh frozen yogurt and banana.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Apple and Greens Smoothie",
+        "price": "₹295",
+        "description": "[Calories: 175 kcal] [Dairy Free] Baby spinach, apple, orange and banana.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Go Getter Smoothie",
+        "price": "₹315",
+        "description": "[Calories: 216 kcal] Banana, oat milk and fresh frozen yogurt.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Green Tea Mojito",
+        "price": "₹220",
+        "description": "[Non Alcoholic]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemondella",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Arnold Palmer",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Espresso",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Long Black",
+        "price": "₹225",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Cortado",
+        "price": "₹230",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Flat White",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Mocha",
+        "price": "₹270",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Latte",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Cappuccino",
+        "price": "₹245",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemon Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mint Lime Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemon Grass Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Apple Cinnamon Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Turmeric Ginger Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Blueberry Kombucha",
+        "price": "₹250",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "The Sunrise Juice",
+        "price": "₹280",
+        "description": "[Calories: 82 kcal] Pineapple and carrot.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Watermelon Juice",
+        "price": "₹225",
+        "description": "[Calories: 82 kcal] The original cooler.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Oj Juice",
+        "price": "₹250",
+        "description": "[Calories: 116 kcal] Orange juice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Celery Me Up Juice",
+        "price": "₹270",
+        "description": "[Calories: 98 kcal] Apple, celery and pomegranate.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Abc Juice",
+        "price": "₹230",
+        "description": "[Calories: 110 kcal] Apple, beet and carrot.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Espresso",
+        "price": "₹210",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Long Black",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Piccolo",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Cortado",
+        "price": "₹225",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Flat White",
+        "price": "₹235",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Mocha",
+        "price": "₹260",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Latte",
+        "price": "₹245",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Cappuccino",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Honey Cappuccino",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Turmeric Ginger Hot Tea",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mogra Hot Tea",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Arabian Nights Hot Tea",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chamomile Hot Tea",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Earl Grey Hot Tea",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sif on The Rocks Coffee",
+        "price": "₹310",
+        "description": "South Indian filter coffee sweetened with condensed milk.",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "190 AMSL By Novotel",
+    "location": "CTS 1359, 1360, A-1366, International Airport, A K Road, Chakala, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/190-amsl-by-novotel-chakala/info",
+    "address": "CTS 1359, 1360, A-1366, International Airport, A K Road, Chakala, Mumbai",
+    "contact": "+918657868645",
+    "description": "190 AMSL By Novotel is a restaurant located at CTS 1359, 1360, A-1366, International Airport, A K Road, Chakala, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Flat 50% OFF",
+        "price": "₹3,000 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "₹3,000 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "₹3,000 for two",
+        "description": "190 AMSL By Novotel/",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "Valid from 7PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "Valid from 7PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "N/A",
+        "description": "Valid from 7PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 50% OFF",
+        "price": "N/A",
+        "description": "Valid from 7PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 30% OFF",
+        "price": "N/A",
+        "description": "on bill payments",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 30% OFF",
+        "price": "N/A",
+        "description": "on bill payments",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Special Menu",
+        "price": "N/A",
+        "description": "1 page",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Menu",
+        "price": "N/A",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Special Menu",
+        "price": "N/A",
+        "description": "1 page",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Special Menu",
+        "price": "N/A",
+        "description": "1 page",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Food Menu",
+        "price": "N/A",
+        "description": "6 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Beverages",
+        "price": "N/A",
+        "description": "1 page",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bar Menu",
+        "price": "N/A",
+        "description": "10 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹3,000 for two people (approx.) Without alcohol",
+        "description": "₹3,000 for two people (approx.) Without alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹3,000 for two people (approx.) Without alcohol",
+        "description": "₹3,000 for two people (approx.) Without alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "More Info",
+        "price": "N/A",
+        "description": "Takeaway Available",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Gourmet Bar By N...",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Mirchi & Mime",
+    "location": "G 6, Ground Floor, Transocean House, Hiranandani Business Park, Powai, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/mirchi-mime-powai/info",
+    "address": "G 6, Ground Floor, Transocean House, Hiranandani Business Park, Powai, Mumbai",
+    "contact": "+912241415151",
+    "description": "Mirchi & Mime is a restaurant located at G 6, Ground Floor, Transocean House, Hiranandani Business Park, Powai, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Kaffir Rasam",
+        "price": "₹375",
+        "description": "Vegetable soup with a dash of kaffir lime.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Makkai Pudina Shorba",
+        "price": "₹460",
+        "description": "Corn soup with cottage cheese dumplings.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Broccoli Almond Soup",
+        "price": "₹460",
+        "description": "Almond shreds with broccoli and croutons.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spiced Chicken & Almond Soup",
+        "price": "₹460",
+        "description": "Spiced chicken broth in almonds.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Ladakhi Chicken Thukpa",
+        "price": "₹460",
+        "description": "Chicken breast with choy and noodles.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kashmiri Nalli Soup",
+        "price": "₹545",
+        "description": "Mutton broth, pulled mutton in Kashmiri style.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Humble Green Salad",
+        "price": "₹275",
+        "description": "Onion, cherry tomato, iceberg lettuce, red radish and green chilli.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Raitas",
+        "price": "₹275",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Berry Kale Salad",
+        "price": "₹420",
+        "description": "Peanuts, mixed seeds, paneer in palm jaggery dressing.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Watermelon & Fig Salad",
+        "price": "₹545",
+        "description": "Watermelon chunks & foghs with feta cheese, mixed nuts.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pulled Chicken Salad",
+        "price": "₹460",
+        "description": "Roast chicken, ice berg lettuce and mango mayo.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Papad By Glass",
+        "price": "₹130",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Waterchestnut & Corn Tikki",
+        "price": "₹420",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Galouti",
+        "price": "₹525",
+        "description": "Lucknowi style mushroom kebabs.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pesto Soya Chaap",
+        "price": "₹420",
+        "description": "Soya chunks cooked in tandoor with mint, served with mayo dip.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Goats Cheese Peppers",
+        "price": "₹595",
+        "description": "Bhavnagar chillies pan roasted with cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Shakarkand Chaat",
+        "price": "₹460",
+        "description": "Indian white sweet potato chaat.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jalapeno Croquettes",
+        "price": "₹420",
+        "description": "Served with mint chutney & mayo dip.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tacos",
+        "price": "₹460",
+        "description": "Thepla tacos with paneer stuffing.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Corn-Off-The-Cob Bhel",
+        "price": "₹420",
+        "description": "Lemon butter, chilli. chives and tamarind.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bangla Paneer Tikka",
+        "price": "₹525",
+        "description": "In panchporan spices.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stuffed Mini Kulchas",
+        "price": "₹460",
+        "description": "Amritsari style, paneer, mint and coriander relish, jaggery and chilli flakes.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stuffed Mushroom",
+        "price": "₹525",
+        "description": "Lucknowi marination with spinach and garlic.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Potato",
+        "price": "₹525",
+        "description": "Potato cylinders with cream cheese, stuffing.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Cauliflower",
+        "price": "₹525",
+        "description": "Four styles bhatti masala, Afghani, Lucknowi mirchi, rose and beetroot.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bhut Jolokia Broccoli",
+        "price": "₹595",
+        "description": "Bhut jolokia flavored charred broccoli florets served with tzatziki sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Malai Seekh",
+        "price": "₹525",
+        "description": "Paneer seekh flavoured with dried fenugreek leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Seekh",
+        "price": "₹525",
+        "description": "Seekh with seasonal fresh vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kathal Seekh",
+        "price": "₹525",
+        "description": "Skewered house spice scented jack fruit mince.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Shashlik",
+        "price": "₹525",
+        "description": "Paneer tikka with capsicum, tomatoes & onion.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Platter",
+        "price": "₹1480",
+        "description": "Pesto Soya Chaap+Waterchestnut and Corn Tikki+Veg Seekh+ Tandoori Potato+Bangla Paneer Tikka",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Salmon Tikka",
+        "price": "₹765",
+        "description": "Grilled rawas fish cooked in bhatti masala.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Karwari Fish",
+        "price": "₹765",
+        "description": "Rawas fillet with semolina crust fried in karwari style.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fennel Rawas Tikka",
+        "price": "₹765",
+        "description": "Indian salmon tikka with fresh fennel, white spices.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawns Thecha",
+        "price": "₹955",
+        "description": "Crispy fried prawns with thecha.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Jumbo Prawn",
+        "price": "₹1570",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Lollipops",
+        "price": "₹715",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tacos",
+        "price": "₹715",
+        "description": "Thepla tacos stuffed with chicken and lettuce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Oven Roasted Amritsari Fish",
+        "price": "₹955",
+        "description": "Red wine seared Indian salmon stuffed with prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kid Gosht Mutton Chops",
+        "price": "₹955",
+        "description": "Red chilli, ginger, garlic.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cafreal Murg Tikka",
+        "price": "₹715",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Prawn & Fish Seekh",
+        "price": "₹765",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kairi Chicken Tikka",
+        "price": "₹765",
+        "description": "Chicken marinated with raw mango pulp and yellow chilli spice.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non-Veg Platter",
+        "price": "₹1930",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Kolhapuri",
+        "price": "₹675",
+        "description": "Cauliflower, green peas, carrot, paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nilgiri Green Curry",
+        "price": "₹675",
+        "description": "Makhana lotus seeds and fresh garden vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nadru Yakhni",
+        "price": "₹765",
+        "description": "Slices of lotus root steamed and served in an aromatic gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nehru Place Paneer",
+        "price": "₹715",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bhindi Do Pyaza",
+        "price": "₹715",
+        "description": "Dry style bhindi with crispy okra.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Southall Saag Paneer",
+        "price": "₹765",
+        "description": "Sarson, palak and paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bharwan Dum Aloo",
+        "price": "₹675",
+        "description": "Potato stuffed with nuts & mava doused in a medium spicy gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Methi Kofta",
+        "price": "₹675",
+        "description": "In roasted tomato korma gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Jugalbandi",
+        "price": "₹765",
+        "description": "Paneer stuffed with nuts & mava, served duo creamy white & mildy spiced ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rajwada Vegetables",
+        "price": "₹715",
+        "description": "Exotic veggies, zucchini ribbon, black caraway and tomato onion gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Patra Nu Shak",
+        "price": "₹765",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Umami Mushroom",
+        "price": "₹715",
+        "description": "Mixed mushroom in homemade spices, served in a creamy mushroom and cashew gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Smoked Dal",
+        "price": "₹420",
+        "description": "Black dal.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ghee Dal",
+        "price": "₹420",
+        "description": "Yellow dal.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Malwani Rawas",
+        "price": "₹955",
+        "description": "Indian salmon in spicy Manglorean gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Masala Crusted Fish",
+        "price": "₹955",
+        "description": "Herb n spice oven roasted crusted fish, served on a bed of cous ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Raw Mango Prawn Curry",
+        "price": "₹955",
+        "description": "Goan style prawn cooked in coconut milk.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Angara",
+        "price": "₹875",
+        "description": "Chicken thigh roulade and smoked gravy.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Goa Green Chicken",
+        "price": "₹875",
+        "description": "Chicken thigh, tamarind jus and Goan palm vinegar.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Saagwala Murg",
+        "price": "₹875",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peshawari Butter Chicken",
+        "price": "₹875",
+        "description": "Makhani gravy.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kheema Ghotala",
+        "price": "₹875",
+        "description": "Scrambled mutton mince and eggs.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Madras Mutton Curry",
+        "price": "₹955",
+        "description": "Kid leg boneless mutton, anglo Indian curry powder.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Nalli Nihari",
+        "price": "₹955",
+        "description": "Succulent shank of mutton.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Kolhapuri",
+        "price": "₹955",
+        "description": "Slow cooked in mutton in freshly blended spices.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tahiri Biryani",
+        "price": "₹750",
+        "description": "Aged basmati rice and fresh garden vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Khumb Biryani",
+        "price": "₹750",
+        "description": "Button mushroom with basmati rice and Indian spices.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sufiyani Chicken Biryani",
+        "price": "₹895",
+        "description": "Chicken thigh, white spices.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Manglorean Prawn Pulao",
+        "price": "₹895",
+        "description": "Garlic prawns with coconut flakes",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Thalappakatti Mutton Biryani",
+        "price": "₹955",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Aged Basmati Rice",
+        "price": "₹275",
+        "description": "Aromatic and flavourful rice to complete your meal.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jaituni Red Rice",
+        "price": "₹275",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": "₹275",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roti",
+        "price": "₹105",
+        "description": "A charred whole wheat flour Indian bread that is soft and can be ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Naan",
+        "price": "₹130",
+        "description": "A soft and chewy flat bread that makes the perfect accompaniment to any ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": "₹165",
+        "description": "Garlic naan is a soft Indian leavened flatbread made with wheat flours and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laccha Paratha",
+        "price": "₹165",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paratha Choori",
+        "price": "₹165",
+        "description": "Ghee, crushed black pepper.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese Garlic Naan",
+        "price": "₹275",
+        "description": "Soft and fluffy cheese stuffed naan bread filled with cheesy mozzarella and chives.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coconut Bakewell Tart",
+        "price": "₹420",
+        "description": "Coconut semolina cake topped with vanilla ice cream.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sitaphal Pannacotta",
+        "price": "₹420",
+        "description": "Sugarfree",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nutella & Toffee Tarte Fine",
+        "price": "₹495",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Falooda",
+        "price": "₹495",
+        "description": "Vermicelli dessert with rose syrup, sweet basil seeds, ice cream and nuts.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jaggery-Coconut Cheesecake",
+        "price": "₹495",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rabdi Gulab Jamun",
+        "price": "₹495",
+        "description": "Angoori jamun with rabdi and dry fruits.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Srilankan Jaggery Pudding",
+        "price": "₹420",
+        "description": "Steamed fluffy classic jaggery, cream and eggs pudding.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Desi Cannoli",
+        "price": "₹495",
+        "description": "Rose and pistachio flavoured rabri filled in baked pastry dough.",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Thai Naam",
+    "location": "Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/thai-naam-marol/info",
+    "address": "Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai",
+    "contact": "+919167919167",
+    "description": "Thai Naam is a restaurant located at Unit 11 A - B, The Orb, Chhatrapati Shivaji International Airport, IA Project Road, Marol, Mumbai.",
+    "cuisines": [
+      "Gluten Free"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Chicken Bento Box (Serves 1)",
+        "price": "₹755",
+        "description": "Pandan Leaf Chicken, Thai Chicken Green Curry & Rice, Chicken With Cashew Nut",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Deluxe Chicken Bento Box (Serves 1)",
+        "price": "₹825",
+        "description": "Pandan Leaf Chicken, Ba Mee Noodles, Thai Chicken Green Curry & Rice, Chicken ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Deluxe Seafood Bento Box (Serves 1)",
+        "price": "₹1255",
+        "description": "Pan Grilled White Prawns, Ba Mee Noodles, Thai Green Curry With Fish, Grilled ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Deluxe Veg Bento Box (Serves 1)",
+        "price": "₹655",
+        "description": "Veg Dimsum (2 Pcs), Veg Rice Noodles, Thai Green Curry, Garden Veggies With ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Seafood Bento Box (Serves 1)",
+        "price": "₹1105",
+        "description": "Pan Grilled White Prawns, Fish Thai Green Curry With Rice, Grilled Fish With ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Veg Bento Box (Serves 1)",
+        "price": "₹625",
+        "description": "Veg Dimsum (2 Pcs), Thai Green Curry With Rice, Garden Veggies With Light ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Clear Noodle Soup",
+        "price": "₹375",
+        "description": "Gaeng Jued Woon Sen",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Clear Soup",
+        "price": "₹250",
+        "description": "A Light And Translucent Broth-Based Soup Typically Made By Simmering Vegetables. It Offers ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coriander Sweet Corn Soup With Thai Herbs",
+        "price": "₹375",
+        "description": "Gaeng Pak Chee Kub Samoon Prai Thai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot And Sour Soup",
+        "price": "₹250",
+        "description": "Known For Its Bold And Contrasting Flavors, Featuring A Tangy And Spicy Broth ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sweet Corn Soup",
+        "price": "₹250",
+        "description": "A Comforting And Creamy Soup Made From Pureed Sweet Corn Kernels, With Added ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tom Kha Soup",
+        "price": "₹375",
+        "description": "Thai Herbed Flavoured Coconut Soup",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tom Yum Soup",
+        "price": "₹375",
+        "description": "Spicy Soup Flavoured With Lemon Grass, Lime And Thai Chilli",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Coriander Soup With Thai Herbs",
+        "price": "₹375",
+        "description": "Gaeng Pak Chee Kub Samoon Prai Thai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Clear Noodle Soup",
+        "price": "₹438",
+        "description": "Gaeng Jued Woon Sen",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Clear Soup",
+        "price": "₹313",
+        "description": "A Light And Translucent Broth-Based Soup Typically Made By Simmering Vegetables. It Offers ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Coriander Soup With Thai Herbs",
+        "price": "₹438",
+        "description": "Gaeng Pak Chee Kub Samoon Prai Thai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Hot & Sour Soup",
+        "price": "₹313",
+        "description": "Known For Its Bold And Contrasting Flavors, Featuring A Tangy And Spicy Broth ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Sweet Corn Soup",
+        "price": "₹313",
+        "description": "A Comforting And Creamy Soup Made From Pureed Sweet Corn Kernels, With Added ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tom Kha Soup",
+        "price": "₹438",
+        "description": "Thai Herbed Flavoured Coconut Soup",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tom Yum Soup",
+        "price": "₹438",
+        "description": "Spicy Soup Flavoured With Lemon Grass, Lime And Thai Chilli",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Clear Noodle Soup",
+        "price": "₹531",
+        "description": "Gaeng Jued Woon Sen",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Clear Soup",
+        "price": "₹406",
+        "description": "A Light And Translucent Broth-Based Soup Typically Made By Simmering Vegetables. It Offers ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Coriander Soup With Thai Herbs",
+        "price": "₹531",
+        "description": "Gaeng Pak Chee Kub Samoon Prai Thai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Hot & Sour Soup",
+        "price": "₹406",
+        "description": "Known For Its Bold And Contrasting Flavors, Featuring A Tangy And Spicy Broth ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Sweet Corn Soup",
+        "price": "₹406",
+        "description": "A Comforting And Creamy Soup Made From Pureed Sweet Corn Kernels, With Added ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Tom Kha Soup",
+        "price": "₹531",
+        "description": "Thai Herbed Flavoured Coconut Soup",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Tom Yum Soup",
+        "price": "₹531",
+        "description": "Spicy Soup Flavoured With Lemon Grass, Lime And Thai Chilli",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pineaaple Salad",
+        "price": "₹656",
+        "description": "Yum Sapprot",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Raw Mango And Water Chestnut Salad",
+        "price": "₹656",
+        "description": "Yurn Ma Muang",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Som Tam Salad",
+        "price": "₹656",
+        "description": "Young Papaya Salad Combined With Sweet And Spicy Sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Minced Chicken Salad",
+        "price": "₹656",
+        "description": "Larb Kai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "California Roll",
+        "price": "₹575",
+        "description": "Crab Meat, Avocado, and Cucumber Wrapped in Seaweed and Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dynamite Prawn Roll",
+        "price": "₹575",
+        "description": "Tempura Prawn, Avocado, and Spicy Mayo Inside, Topped with Tobiko.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Philly Salmon Roll",
+        "price": "₹782",
+        "description": "Smoked Salmon, Avocado, and Cream Cheese, Rolled with Seaweed and Sushi Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Avocado And Cream Cheese Roll",
+        "price": "₹519",
+        "description": "Creamy Avocado and Cheese Rolled with Seaweed and Sushi Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Asparagus Roll",
+        "price": "₹519",
+        "description": "Tempura Asparagus with Avocado and Cucumber, Wrapped in Seaweed and Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Edamame And Cream Cheese Roll",
+        "price": "₹519",
+        "description": "Edamame Beans and Cream Cheese Wrapped with Seaweed and Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chong Qing Mushroom",
+        "price": "₹350",
+        "description": "A Spicy And Savory Chinese Dish Featuring Mushrooms Seasoned With Sichuan Peppercorns, Chili ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Corn Cakes",
+        "price": "₹488",
+        "description": "Thord Man Khao Phod",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Rice Noodles",
+        "price": "₹488",
+        "description": "Mee Grob",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushrooms Delicately Blended With Thai Herbs",
+        "price": "₹656",
+        "description": "Pra Hed",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spring Roll(Thai Style)",
+        "price": "₹488",
+        "description": "Poh Pia Je",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Dim Sum With Vegetables",
+        "price": "₹488",
+        "description": "Dim Sum - Phak",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Chilli",
+        "price": "₹350",
+        "description": "A Popular Indo-Chinese Dish Made With Tender Chicken Pieces Stir-Fried With Colorful Bell ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Dim Sum",
+        "price": "₹719",
+        "description": "Dim Sum Kai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chong Qing Chicken",
+        "price": "₹350",
+        "description": "Originating From The Chongqing Region In China, Is A Fiery And Flavorful Dish ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Long Green Egg Plant",
+        "price": "₹488",
+        "description": "Makua Ya Pad Ma Kua Ted",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Marianted Chicken Morsels",
+        "price": "₹719",
+        "description": "Kai Haw Baitoey",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Marinated Chicken With Peanut Sauce",
+        "price": "₹594",
+        "description": "Satay - Kai / Neua",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pan Grilled White Prawn",
+        "price": "₹938",
+        "description": "Koong Pad, Kub Koon Rad, Preaw Ped",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Dim Sum",
+        "price": "₹938",
+        "description": "Dim Sum Koon",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tempura Prawn",
+        "price": "₹938",
+        "description": "Sakuna Chowsuan Sos Makam",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Assorted Vegetable With Hot Garlic Sauce",
+        "price": "₹450",
+        "description": "A Popular Chinese Dish That Features A Colorful Mix Of Vegetables Like Broccoli, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Baby Corn And Mushrooms Tossed With Chilli And Basil",
+        "price": "₹781",
+        "description": "Phad Kra Prao Khao Phod Warn",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flavoured Potatoes",
+        "price": "₹655",
+        "description": "Man Jian",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Pepper Winged Beans",
+        "price": "₹781",
+        "description": "Phad Tua Pu Kratiem",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Home Style Stir Fried Vegetables",
+        "price": "₹781",
+        "description": "Phad Phak",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lotus Root With Honey Chilli",
+        "price": "₹656",
+        "description": "Rak Baw Rad Prik Naphung",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Palm Hearts With Cashew Nuts",
+        "price": "₹1157",
+        "description": "Yod Ma Prao Himmapan",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pepper And Tamarind With Pan Fried Edamame",
+        "price": "₹1157",
+        "description": "Tua Rae Pad Kub Prick Thai Lae Ma Kham",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Silky Bean Curd With Black Bean Sauce",
+        "price": "₹781",
+        "description": "Phad Priao Warn Tao",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Broccoli",
+        "price": "₹781",
+        "description": "Phad Broccoli",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Brussels Sprout",
+        "price": "₹1157",
+        "description": "Phad Brussels",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Chinese Green",
+        "price": "₹450",
+        "description": "A Variety Of Leafy Green Vegetables, Stir-Fried With Garlic Sauce, Resulting In A ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Morning",
+        "price": "₹655",
+        "description": "Phad Pak Bung Tao Jiew",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Waterchestnuts & Cashew Nuts With Red Chilli Paste",
+        "price": "₹781",
+        "description": "Hei Phad Prik Haeng",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Garlic Chicken",
+        "price": "₹1063",
+        "description": "Kai Kratiem Ney",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Supreme",
+        "price": "₹781",
+        "description": "Kai Phad Prik Daeng",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken With Black Pepper And Garlic",
+        "price": "₹450",
+        "description": "A Classic Asian Dish Where Tender Chicken Pieces Are Stir-Fried With Aromatic Black ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken With Cashew Nuts",
+        "price": "₹781",
+        "description": "Kai Phad Med Ma Muang",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken With Spicy Ginger Sauce",
+        "price": "₹450",
+        "description": "A Flavorful Asian Dish Featuring Succulent Chicken Cooked In A Spicy And Aromatic ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crispy Lamb",
+        "price": "₹1213",
+        "description": "Pe Phad Prik Thai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Grilled Lamb",
+        "price": "₹1213",
+        "description": "Yang Chin - Pe",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ground Chicken With Holy Basil",
+        "price": "₹781",
+        "description": "Phad Kai Bai Kapprao",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kai Pad King Sod",
+        "price": "₹875",
+        "description": "Chicken With Baby Phakchoi And Ginger",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kai Pad Pacchi",
+        "price": "₹875",
+        "description": "Chicken With Coriander",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roast Duck",
+        "price": "₹1213",
+        "description": "Ped Noy",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Style Omelette With Mince Chicken",
+        "price": "₹488",
+        "description": "Khaijieo - Kai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Vegetables Massaman Thai Curry",
+        "price": "₹813",
+        "description": "A Unique Style Of Southern Thai Curry - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Panang Curry",
+        "price": "₹813",
+        "description": "Red Curry With Crushed Peanuts - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Thai Green Curry",
+        "price": "₹813",
+        "description": "Gaeng Kiew Warn - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Thai Red Curry",
+        "price": "₹813",
+        "description": "Gaeng Ped - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Thai Yellow Curry",
+        "price": "₹813",
+        "description": "Gaeng Leung - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Panang Curry",
+        "price": "₹938",
+        "description": "Red Curry With Crushed Peanuts - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Thai Green Curry",
+        "price": "₹938",
+        "description": "Gaeng Kiew Warn - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Thai Red Curry",
+        "price": "₹938",
+        "description": "Gaeng Ped - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Thai Yellow Curry",
+        "price": "₹938",
+        "description": "Gaeng Leung - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lamb Massaman Thai Curry",
+        "price": "₹1156",
+        "description": "A Unique Style Of Southern Thai Curry - Served With Steamed Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawn Panang Curry",
+        "price": "₹1156",
+        "description": "Red Curry With Crushed Peanuts - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Thai Green Curry",
+        "price": "₹1156",
+        "description": "Gaeng Kiew Warn - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Thai Red Curry",
+        "price": "₹1156",
+        "description": "Gaeng Ped - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Thai Yellow Curry",
+        "price": "₹1156",
+        "description": "Gaeng Leung - Served With Steamed Rice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Butter Garlic Prawns",
+        "price": "₹1314",
+        "description": "Koong Kratiem Ney",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crispy Fried Fish",
+        "price": "₹1314",
+        "description": "Pla Rad Prik",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crispy Soft Shell Crab With Pomelo",
+        "price": "₹1375",
+        "description": "Poo Nim Krob",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Koong Pad King Sod",
+        "price": "₹1063",
+        "description": "Prawns With Ginger Chilli And Baby Phakchoi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Koong Pad Pukchee",
+        "price": "₹1063",
+        "description": "Prawns With Coriander",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lobster With Pepper Garlic",
+        "price": "₹1375",
+        "description": "Gung Yai Pow Kratiem Prik Thai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pan Grilled Scallops",
+        "price": "₹1375",
+        "description": "Pla Hoy Shell",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawns With Chilli Garlic And Holy Basil",
+        "price": "₹1063",
+        "description": "Koong Phad Kapprao",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Soft Shell Crab In Red Chilli Paste",
+        "price": "₹1375",
+        "description": "Poo Nim Phad Pong Kari",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Steamed John Dory",
+        "price": "₹1314",
+        "description": "Pla Nueng Manao",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Prawsn",
+        "price": "₹1063",
+        "description": "Koong Thord Kratiem Prik Thai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Red Snapper With Celery",
+        "price": "₹1375",
+        "description": "Pua Kapong Kunchai",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fried Tiger Prawns",
+        "price": "₹1063",
+        "description": "Koong Samrot",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Thai Style Omelette With Prawns",
+        "price": "₹656",
+        "description": "A Flavorful Thai Dish Where Fresh Prawns Are Mixed With Beaten Eggs, Thai ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Jasmine Rice",
+        "price": "₹754",
+        "description": "Khao Hom Mali",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Burnt Garlic Fried Rice",
+        "price": "₹481",
+        "description": "The Burnt Garlic Imparts A Distinctive Smoky Flavor To The Dish, Creating A ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Fried Rice",
+        "price": "₹481",
+        "description": "Khao Hom Mali",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Jasmine Fried Rice",
+        "price": "₹1094",
+        "description": "Khao Phad",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Sichuan Fried Rice",
+        "price": "₹481",
+        "description": "A Spicy And Flavorful Twist On Traditional Vegetable Fried Rice, Making It A ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Spicy Fried Rice With Roast Curry Paste And Basil",
+        "price": "₹481",
+        "description": "Khao Phad Nam Prik Pao",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetables Fresh Rice Noodles",
+        "price": "₹1065",
+        "description": "Lard - Na",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Burnt Garlic Fried Rice",
+        "price": "₹656",
+        "description": "The Burnt Garlic Imparts A Distinctive Smoky Flavor To The Dish, Creating A ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Fresh Rice Noodles With Herbs, Chilli And Garlic",
+        "price": "₹1314",
+        "description": "Phad Khi Mao",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "price": "₹656",
+        "description": "Khao Hom Mali",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Jasmine Fried Rice",
+        "price": "₹1156",
+        "description": "Khao Phad",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Sichuan Fried Rice",
+        "price": "₹656",
+        "description": "A Spicy And Flavorful Twist On Traditional Vegetable Fried Rice, Making It A ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Spicy Fried Rice With Roast Curry Paste And Basil",
+        "price": "₹656",
+        "description": "Khao Phad Nam Prik Pao",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lard - Na (Seafood) Fresh Rice Noodles",
+        "price": "₹1314",
+        "description": "Lard - Na",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawn Burnt Garlic Fried Rice",
+        "price": "₹938",
+        "description": "The Burnt Garlic Imparts A Distinctive Smoky Flavor To The Dish, Creating A ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Fried Rice",
+        "price": "₹938",
+        "description": "Khao Hom Mali",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Jasmine Fried Rice",
+        "price": "₹1219",
+        "description": "Khao Phad",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Sichuan Fried Rice",
+        "price": "₹938",
+        "description": "A Spicy And Flavorful Twist On Traditional Vegetable Fried Rice, Making It A ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Spicy Fried Rice With Roast Curry Paste And Basil",
+        "price": "₹938",
+        "description": "Khao Phad Nam Prik Pao",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Brussels Sprout Fresh Rice Noodles With Herbs, Chilli And Garlic",
+        "price": "₹1065",
+        "description": "Phad Khi Mao",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Phad Thai",
+        "price": "₹563",
+        "description": "Veg Stir Fried Rice Noodles",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Sichuan Hakka Noodles",
+        "price": "₹481",
+        "description": "A Fusion Dish That Combines Elements Of Sichuan And Hakka Cuisine. It Typically ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Stir Fried Hakka Noodles",
+        "price": "₹481",
+        "description": "Hakka-Style Noodles Stir-Fried With A Colorful Assortment Of Vegetables",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Handmade Noodles",
+        "price": "₹1065",
+        "description": "Pad Se - Jew",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Phad Thai",
+        "price": "₹687",
+        "description": "Veg Stir Fried Rice Noodles",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Sichuan Hakka Noodles",
+        "price": "₹656",
+        "description": "A Fusion Dish That Combines Elements Of Sichuan And Hakka Cuisine. It Typically ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Spicy Egg Noodles Bamee Haeng",
+        "price": "₹687",
+        "description": "Bamee Haeng",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Stir Fried Hakka Noodles",
+        "price": "₹656",
+        "description": "Hakka-Style Noodles Stir-Fried With A Colorful Assortment Of Vegetables",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Supreme Handmade Noodles",
+        "price": "₹1314",
+        "description": "Pad Se - Jew",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Phad Thai",
+        "price": "₹876",
+        "description": "Veg Stir Fried Rice Noodles",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Sichuan Hakka Noodles",
+        "price": "₹938",
+        "description": "A Fusion Dish That Combines Elements Of Sichuan And Hakka Cuisine. It Typically ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Spicy Egg Noodles Bamee Haeng",
+        "price": "₹876",
+        "description": "Bamee Haeng",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawn Stir Fried Hakka Noodles",
+        "price": "₹938",
+        "description": "Hakka-Style Noodles Stir-Fried With A Colorful Assortment Of Vegetables",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Egg Noodles (Bamee Haeng)",
+        "price": "₹563",
+        "description": "Bamee Haeng",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Dark Callebaut Chocolate Strata With Crackling Almond Crumb",
+        "price": "₹504",
+        "description": "A Decadent Dessert That Features Layers Of Rich, Dark Callebaut Chocolate Combined With ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Diced Water Chestnut With Coconut Milk",
+        "price": "₹504",
+        "description": "Tub Tim Grob",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tiramisu",
+        "price": "₹800",
+        "description": "Mascarpone Cheese Cream Made With Savoirdi Biscuits And Kahlua",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Torta",
+        "price": "₹650",
+        "description": "Mud Cake Made From Felchin Chocolate",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Independence Brewing Company",
+    "location": "Shop 1-2-3, Plot 24, Ground Floor, Akshay Villa, Opposite JP Road, Versova, Andheri West, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/independence-brewing-company-1-versova/info",
+    "address": "Shop 1-2-3, Plot 24, Ground Floor, Akshay Villa, Opposite JP Road, Versova, Andheri West, Mumbai",
+    "contact": "+918484827443",
+    "description": "Independence Brewing Company is a restaurant located at Shop 1-2-3, Plot 24, Ground Floor, Akshay Villa, Opposite JP Road, Versova, Andheri West, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Get a\nscratch card",
+        "price": "₹2,500 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "₹2,500 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "₹2,500 for two",
+        "description": "Independence Brewing Company/",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Food Menu",
+        "price": "N/A",
+        "description": "6 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Menu",
+        "price": "N/A",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Food Menu",
+        "price": "N/A",
+        "description": "6 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Food Menu",
+        "price": "N/A",
+        "description": "6 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Beverages",
+        "price": "N/A",
+        "description": "1 page",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bar Menu",
+        "price": "N/A",
+        "description": "6 pages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹2,500 for two people (approx.) with alcohol",
+        "description": "₹2,500 for two people (approx.) with alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹2,500 for two people (approx.) with alcohol",
+        "description": "₹2,500 for two people (approx.) with alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "More Info",
+        "price": "N/A",
+        "description": "Home Delivery",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Doolally Taproom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mykonos",
+        "price": "N/A",
+        "description": "Continental, Italian, Asian, North Indian, Biryani, Bar Food",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flamiingo Lounge",
+        "price": "N/A",
+        "description": "Bar Food, Oriental, Continental, North Indian, Pizza, Salad, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Review Highlights",
+        "price": "N/A",
+        "description": "Black Bean Hummus",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Yi Jing - ITC Maratha",
+    "location": "ITC Maratha, A Luxury Collection Hotel, Sahar Chakala, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/yi-jing-itc-maratha-chakala/info",
+    "address": "ITC Maratha, A Luxury Collection Hotel, Sahar Chakala, Mumbai",
+    "contact": "+912228303030",
+    "description": "Yi Jing - ITC Maratha is a restaurant located at ITC Maratha, A Luxury Collection Hotel, Sahar Chakala, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Flat 10% OFF",
+        "price": "₹4,000 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "₹4,000 for two",
+        "description": "Detect current location",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "₹4,000 for two",
+        "description": "Yi Jing - ITC Maratha/",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "Valid from 8PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "Valid from 8PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "Valid from 8PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "Valid from 8PM to 11:55PM today\nBooking required",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Get a\nscratch card",
+        "price": "N/A",
+        "description": "after every transaction",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat 10% OFF",
+        "price": "N/A",
+        "description": "valid on your next dining payment",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "20% OFF up to ₹1200 on Credit Cards",
+        "price": "20% OFF up to ₹1200 on Credit Cards",
+        "description": "and more with other banks",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹4,000 for two people (approx.) Without alcohol",
+        "description": "₹4,000 for two people (approx.) Without alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Average Cost",
+        "price": "₹4,000 for two people (approx.) Without alcohol",
+        "description": "₹4,000 for two people (approx.) Without alcohol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "More Info",
+        "price": "N/A",
+        "description": "Takeaway Available",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Nacho Mama",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Beverages, North Indian, Desserts, Awadhi, Lucknowi, Asian, Bar Food, Kashmiri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Beverages, North Indian, Desserts, Awadhi, Lucknowi, Asian, Bar Food, Kashmiri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Beverages, North Indian, Desserts, Awadhi, Lucknowi, Asian, Bar Food, Kashmiri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Beverages, North Indian, Desserts, Awadhi, Lucknowi, Asian, Bar Food, Kashmiri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taste Of Punjab",
+        "price": "N/A",
+        "description": "Beverages, North Indian, Desserts, Awadhi, Lucknowi, Asian, Bar Food, Kashmiri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "De Aura Global Dining And Bar",
+        "price": "N/A",
+        "description": "Asian, Oriental, North Indian, Western",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sadda Punjab",
+        "price": "N/A",
+        "description": "Kebab, Mughlai, North Indian, Street Food, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nanuji- By Nanumal Bhojraj",
+        "price": "N/A",
+        "description": "North Indian, Continental, Chinese, Rolls, Pizza, Shake, Desserts, Beverages",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Sumeruu",
+    "location": "Shop 6-7, Bhavdevi Garage, Link Road, Opposite Mukund Nagar, Dahisar West, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/sumeruu-dahisar-west/info",
+    "address": "Shop 6-7, Bhavdevi Garage, Link Road, Opposite Mukund Nagar, Dahisar West, Mumbai",
+    "contact": "+919324300070",
+    "description": "Sumeruu is a restaurant located at Shop 6-7, Bhavdevi Garage, Link Road, Opposite Mukund Nagar, Dahisar West, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Kadai Spiced Olives",
+        "price": "₹180",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pickled Carrots And Cucumber",
+        "price": "₹120",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chana Chaat Assamese Style",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Channa Chat",
+        "price": "₹200",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Masala Papad",
+        "price": "₹60",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rosted Papad",
+        "price": "₹50",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fry Papad",
+        "price": "₹50",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawn Cracker 8 Pcs",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "French Fries",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Masala Omelette",
+        "price": "₹200",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Beetroot & Bhujiya",
+        "price": "₹220",
+        "description": "Par Boiled Beetroot Saute Curry Leaves Mustard seed And Lemon Juice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Glass Noodles And Red Cabbage",
+        "price": "₹220",
+        "description": "Glass Noodle , Chinese Red Cabbage, Tossed with Sweet And Sour Dressing.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pulled Tandoori Murgi Pappadum",
+        "price": "₹280",
+        "description": "Shredded Chicken Tikka Tossed With Seasonal Vegetable Indian Chat Masala.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Shredded Chicken With Sambal Olek Dressing",
+        "price": "₹280",
+        "description": "Poached Chicken Tossed in  Sweet And Spicy Dressing With Chinese Lettuce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Khumbh Aur Malai",
+        "price": "₹240",
+        "description": "Cream Of Mushroom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tamater Dhaniya Shorba",
+        "price": "₹220",
+        "description": "Flavorful Indian Soup Made Out of Tomato And Coriander Roots.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mulligawtwany",
+        "price": "₹220",
+        "description": "Indian National Soup Made Out Of Lentil , Vegetable And Apple.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Multani Shorbha",
+        "price": "₹240",
+        "description": "Flavorsome Indian Spiced Chicken Broth",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Yakhni Shorba",
+        "price": "₹280",
+        "description": "Kashmiri Mutton Soup",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Punjabi Mutton Paya Shorba",
+        "price": "₹320",
+        "description": "Lamb Trotters Slow Cooked For Almost 12 Hours.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Samundari Shorba",
+        "price": "₹280",
+        "description": "Seafood Broth Prepared With Indian Herbs.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cream Of Tomato Soup",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cream Of Broccoli",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cream Of Chicken",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Laksa Soup Veg",
+        "price": "₹319",
+        "description": "Spiced Coconut Broth With Exotic Vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Clear Soup",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Yunan Stye Tomato Soup Vegetable And Tofu",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sweet Corn Soup Vegetable",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot And Sour Soup Mushroom And Vegetables",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemon Coriander Vegetable Broth & Tofu",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "The Classic Manchow Vegetable",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Burmese Soup",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Clear Soup",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Yunan Stye Tomato Soup Chicken And Vegetables",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sweet Corn Soup Chicken And Eggs",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Hot And Sour Soup",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lemon Coriander Chicken",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "The Classic Manchow Chicken",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Laksa Soup Chicken",
+        "price": "₹319",
+        "description": "Spiced Coconut Broth With Exotic Vegetables And Chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Burmese Coconut Soup",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "The Classic Manchow Prawns",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Laksa Soup Prawns",
+        "price": "₹319",
+        "description": "Spiced Coconut Broth With Exotic Vegetables And Prawns .",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Yunan Stye Tomato Soup Fish And Tofu",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hara Bhara Kebab",
+        "price": "₹340",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bharwan Tandoori Aloo",
+        "price": "₹400",
+        "description": "Tandoori Potato Shells, Spice Mix, Mint Aioli.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Yogurt And Cheese Ke Kebab",
+        "price": "₹440",
+        "description": "Overnight Hung Curd Tikka, Punjabi Chutney.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bharwan Khumb",
+        "price": "₹400",
+        "description": "Fresh  Button Mushrooms, Stuffed  Seasonal Vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Teen Mushroom Ke Galouti",
+        "price": "₹440",
+        "description": "Morel, Button and Shitake, Minced for perfection!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kalimiri Mushroom",
+        "price": "₹400",
+        "description": "Creamy Black Pepper Yoghurt Marination",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pahadi Mushroom",
+        "price": "₹400",
+        "description": "Spicy Green Hung Curd Marination Made With Coriander And Mint Leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Mushroom",
+        "price": "₹400",
+        "description": "Tangy Red Hung Curd Marination Made With Traditional Achar.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Moti Malai Paneer Ke Seekh",
+        "price": "₹440",
+        "description": "Minced Paneer. Sweet Corn, Goodness of Cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Seekh Kebab",
+        "price": "₹400",
+        "description": "Fresh Seasonal Vegetable Kabab.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Paneer Tikka",
+        "price": "₹440",
+        "description": "Tandoori Cottage Cheese, Capsicum & Onions.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peshawari Paneer Tikka",
+        "price": "₹440",
+        "description": "Lucknowi Chilli Marination, Sweet Mango Pickle.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Multani Tikka",
+        "price": "₹440",
+        "description": "Soofiyani Style Paneer Recipe From Multan.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pahadi Paneer Tikka",
+        "price": "₹440",
+        "description": "Spicy Green Hung Curd Marination Made With Coriander And Mint Leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lasooni Paneer Tikka",
+        "price": "₹440",
+        "description": "Creamy Garlic Yoghurt Marination .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Paneer Tikka",
+        "price": "₹440",
+        "description": "Tangy Red Hung Curd Marination Made With Traditional Achar.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kalimiri Paneer Tikka",
+        "price": "₹440",
+        "description": "Creamy Black Pepper Yoghurt Marination.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kalimiri Prawns",
+        "price": "₹520",
+        "description": "Creamy Black Pepper Yoghurt Marination",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Gillafi Chicken Seekh",
+        "price": "₹440",
+        "description": "Spicemix Chicken Mince, Pimentos.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Desi Chicken Tikka",
+        "price": "₹440",
+        "description": "No Fuss Here!",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pahadi Murgh Tikka",
+        "price": "₹440",
+        "description": "Spicy Green Hung Curd Marination Made With Coriander And Mint Leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kalimiri Murgh Tikka",
+        "price": "₹440",
+        "description": "Creamy Black Pepper Yoghurt Marination",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Murgh Tikkka",
+        "price": "₹440",
+        "description": "Tangy Red Hung Curd Marination Made With Traditional Achar.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lasooni Murgh Tikka",
+        "price": "₹440",
+        "description": "Creamy Garlic Yoghurt Marination .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Smoked Chicken Pot Tikka",
+        "price": "₹460",
+        "description": "\"Dhungar\" To prefection!",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Jalapeno Cheddar Chicken Tikka",
+        "price": "₹460",
+        "description": "Garam Masala Mix, Jalapeno.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Malai Murgh Tikka",
+        "price": "₹460",
+        "description": "Rich Creamy Tikka.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Angara Chicken Tikka",
+        "price": "₹440",
+        "description": "Spicy Fiery Hot Marination.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Bira Di Murgh Tangdi",
+        "price": "₹440",
+        "description": "Lucknowi Chilli Marination, Bira Beer Marinated.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Chicken Full",
+        "price": "₹700",
+        "description": "All Time Favourite! Red Marinate, Hung Curd, Indian Spiced.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tandoori Chicken Half",
+        "price": "₹375",
+        "description": "All Time Favourite! Red Marinate, Hung Curd, Indian Spiced.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Afghani Chicken Full Tandoori",
+        "price": "₹725",
+        "description": "Rich White Marination  lightly Spiced.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Galouti",
+        "price": "₹520",
+        "description": "Piece De Resistance of Awadhi Cuisine, Minced 18 times, Served over Roti.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Awadhi Sunehri Macchi",
+        "price": "₹520",
+        "description": "Mace Spice Marination, Battered Fried.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Pomfret",
+        "price": "₹900",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tawa Fry Pomfret",
+        "price": "₹900",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lasooni Macchi",
+        "price": "₹520",
+        "description": "Creamy Garlic Yoghurt Marination .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pahadi Macchi",
+        "price": "₹520",
+        "description": "Spicy Green Hung Curd Marination Made With Coriander And Mint Leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Macchi",
+        "price": "₹520",
+        "description": "Tangy Red Hung Curd Marination Made With Traditional Achar.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Wasabi Prawns Koliwada",
+        "price": "₹520",
+        "description": "Amritsari Koliwada, Japanese Wasabi Mayonnaise Spiced.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lasooni Prawns",
+        "price": "₹520",
+        "description": "Creamy Garlic Yoghurt Marination .",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pahadi Prawns",
+        "price": "₹520",
+        "description": "Spicy Green Hung Curd Marination Made With Coriander And Mint Leaves.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Achari Prawns",
+        "price": "₹520",
+        "description": "Tangy Red Hung Curd Marination Made With Traditional Achar.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crackling Spinach Paneer",
+        "price": "₹460",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kung Pao Potato",
+        "price": "₹400",
+        "description": "Savory And Sweet With A Mild Spicy Kick.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Honey Chilli Potato",
+        "price": "₹400",
+        "description": "Baton Cut Potatoes Tossed in Sambhal Honey And Sesame.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Potatoes In Chili Black Bean",
+        "price": "₹400",
+        "description": "Baby Potatoes With Homemade  Chilly Black Bean Sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Manchurian",
+        "price": "₹400",
+        "description": "Authentic, \"INDO-CHINA\" Cuisne.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg 65",
+        "price": "₹400",
+        "description": "Manchurian Balls Tossed With Spices And Asian Sauces.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Crispy",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Spring Roll",
+        "price": "₹400",
+        "description": "Asian Style Vegetables Wrapped In Filo Pastry.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer In Dark Chilli",
+        "price": "₹440",
+        "description": "Cottage Cheese in Dark Soya and Chilli.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Baise In Sichuan",
+        "price": "₹440",
+        "description": "Sichuan Peppers, Cottage Cheese, Basil Leaves.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kung Pao Paneer",
+        "price": "₹440",
+        "description": "Savory And Sweet With A Mild Spicy Kick.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Lui - So - Re",
+        "price": "₹440",
+        "description": "Minced paneer balls, dark soya and basil And Green Chillis.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Wok Tossed Chinese Green Ginko Salad",
+        "price": "₹400",
+        "description": "Exotic Vegetable ,Coriander Root Tossed Salad.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Exotic Mushroom And Broccoli In Oyster Sauce",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Chilli",
+        "price": "₹440",
+        "description": "Wok Fried Chicken in Dark Soya and Chillies.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Classic Manchurian",
+        "price": "₹440",
+        "description": "Authentic , \"Indo -China \" Cuisine.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Gao Ding Ki",
+        "price": "₹440",
+        "description": "Rice Wine Glace, Orange Jus, Brown Sugar .",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Oysters And Shallots",
+        "price": "₹440",
+        "description": "Madrasi Shallots, Sweet And Spice home made Oyester.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken 65",
+        "price": "₹440",
+        "description": "Chicken & Vegetables Marinated With Spices And Asian Sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crispy Fried Chicken Pop Corn",
+        "price": "₹440",
+        "description": "Kid Friendly Munchie !!",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crispy Chicken Red",
+        "price": "₹440",
+        "description": "Crispy Fried Chicken Fiery Red Sauces.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Kungpao",
+        "price": "₹440",
+        "description": "Savory And Sweet With A Mild Spicy Kick.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Crackling Spinach Chicken",
+        "price": "₹460",
+        "description": "Deep Fried Spinach With Juicy And Tender Chicken Pieces.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Phuket Chilly Chicken",
+        "price": "₹460",
+        "description": "Sliced Crispy Chicken Tossed In Coriander Roots, Burnt Garlic, Chilli flake In Chef ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Spring Roll",
+        "price": "₹440",
+        "description": "Asian Style Chicken Wrapped In Filo Pastry.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Dynamite Shripo",
+        "price": "₹520",
+        "description": "Double Cooked Prawns in Chilli and Mayo.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hei Hujiao Prawns",
+        "price": "₹520",
+        "description": "Three Pepper Corns, Pre Poached Prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Jiemo Duixia",
+        "price": "₹520",
+        "description": "Prawns in Mustard.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Garlic Prawns",
+        "price": "₹520",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Phoenix Tail Prawns",
+        "price": "₹520",
+        "description": "Batter Fried Prawns Tossed With Spring Onion And Sesame Seeds.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Phad Prik Khing Gaoung.",
+        "price": "₹520",
+        "description": "Prawns Tossed In Basil,Chilli & Garlic.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawns Kra Pao",
+        "price": "₹520",
+        "description": "Desi Prowns Chilli .",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hakka Sun Pomfret",
+        "price": "₹900",
+        "description": "Pomfret Fillet Tossed in Chef Special  Hakka Sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ming Ling Spicy Bbq Fish",
+        "price": "₹520",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fish Cakes",
+        "price": "₹520",
+        "description": "Indian Basa Mince Cakes, Mild in Flavor.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fish Kra Pao",
+        "price": "₹520",
+        "description": "Desi Fish Chilli .",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Black Pepper Sauce",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Basil Sauce",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stir Fry Vegetable",
+        "price": "₹400",
+        "description": "Wok Toss exotic vegetables, sesame oil, garlic.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hunan Sauce",
+        "price": "₹400",
+        "description": "Well known for his hot garlic flavour, fresh aroma and deep colour. Known ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Oyster Sauce",
+        "price": "₹400",
+        "description": "A popular grilling marinating sauce with strong flavours of soya, oyster sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sweet And Sour Sauce",
+        "price": "₹400",
+        "description": "The original sweet and sour sauce came from the Chinese province of Hunan, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Sauce",
+        "price": "₹400",
+        "description": "It is a style of Chinese cuisine originating from sichuan province in south-western ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilly Black Bean Sauce",
+        "price": "₹400",
+        "description": "Our homemade version of spicy black bean sauce is made with fermented black ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cantonese Sauce",
+        "price": "₹400",
+        "description": "Cantonese cuisine comes from Guangdong province and is one of the Eighth culinary ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "3 Pepper Sauce",
+        "price": "₹400",
+        "description": "Indo chinese street style stir fry sauce with yellow, red and green bell ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Coriander Sauce",
+        "price": "₹400",
+        "description": "Indo chinese street style stir fry sauce with green chillies, garlic, coriander, soya ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Burnt Garlic Noodle",
+        "price": "₹300",
+        "description": "Noodles Tossed In Fragrant Chilli Oil And Roasted Garlic.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fried Rice",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jasmine Rice",
+        "price": "₹240",
+        "description": "Jasmine Sticky Rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Burnt Garlic Fried Rice",
+        "price": "₹300",
+        "description": "Rice Tossed In Fragrant Chilli Oil And Roasted Garlic.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Fried Rice",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Basil Fried Rice",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nasigoreng",
+        "price": "₹420",
+        "description": "Indonesion Version of Fried Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Combination Rice",
+        "price": "₹300",
+        "description": "Mix Of Rice And Noodles Tossed In Vegetables .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hakka Style Noodles",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Schezwan Noodles",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Basil Noodles",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Flat Rice Noodles In Sambal Oelek",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Khowsuey",
+        "price": "₹440",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "American Choupsey",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Peanut Noodles",
+        "price": "₹400",
+        "description": "Sweet Spice Coconut milk , Peanut Tossed With Flat Rice Noodles.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bamee Goreng",
+        "price": "₹400",
+        "description": "Soba Noodles with Chilli Soya.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pad Thai",
+        "price": "₹400",
+        "description": "Flat Rice Noodles Tossed In Chilli, Basil And Peanut.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Triple Style",
+        "price": "₹400",
+        "description": "Sichuan Pepper Sauce, Tossed Noodles and Olek Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Malay Chopper Rice",
+        "price": "₹400",
+        "description": "Beet Root And Coconut Milk Rice ,Serve With Manchurian.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Clay Pot Rice",
+        "price": "₹400",
+        "description": "Authentic Pot Rice Cooked in Oyester Sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mongolian Hot Pot Rice",
+        "price": "₹409",
+        "description": "Rice Tossed in Chilli Oil Served  With Chef Special Spicy Sauce .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Red Curry",
+        "price": "₹400",
+        "description": "Served with Steam Rice, Pickled Vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thai Green Curry",
+        "price": "₹400",
+        "description": "Served with Steam Rice, Pickled Vegetables.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sri Lankan Yellow Curry With Rice",
+        "price": "₹400",
+        "description": "Mild Spiced Curry with Yellow Chillies and Steam Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rendang Curry",
+        "price": "₹560",
+        "description": "Popular Indonesian Lamb Curry  !!! Best With Jasmine Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kra Pow Khai Dow",
+        "price": "₹520",
+        "description": "Spicy Mince Chicken With Red Thai Chilli-Basil,Jasmin Rice With Half Fry Egg.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Lababdar",
+        "price": "₹460",
+        "description": "Chef Special !!!!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rajasthani Mix Veg",
+        "price": "₹400",
+        "description": "Vegetable Cooked With Bell Peppers And Button Chillies.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Banarasi Dum Aloo",
+        "price": "₹400",
+        "description": "Russet Baby Potatoes in Yellow Gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Smoky Kolhapuri",
+        "price": "₹400",
+        "description": "Mixed Vegetables in Coconut, Smoked.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jaipuri Bhindi Masala",
+        "price": "₹400",
+        "description": "Fennel Spice Mix. Finished with Crispy Papad.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jaipuri Subzi Masala",
+        "price": "₹400",
+        "description": "Fennel Spice Mix. Finished with Crispy Papad.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Ish Stew",
+        "price": "₹400",
+        "description": "Non Spicy South Indian Stew.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mix Veg Handi",
+        "price": "₹400",
+        "description": "Thick Onion Gravy, Seasonal Diced Vegetable.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mix Veg Kadhai",
+        "price": "₹400",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala, Seasonal Vegetable.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mix Veg Shahi Mughlai",
+        "price": "₹400",
+        "description": "Non Spicy Rich Brown Gravy, Seasonal Vegetable.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mix Veg Chettinad",
+        "price": "₹400",
+        "description": "Homemade Coconut Masala, Thick Gravy With Seasonal Vegetable,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom And Palak",
+        "price": "₹440",
+        "description": "Mushroom, Palak With Lasooni Tadka.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Handi",
+        "price": "₹440",
+        "description": "Thick Onion Gravy, Seasonal Diced Vegetable With Mushroom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Kadhai",
+        "price": "₹440",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala, Seasonal Vegetable With Mushroom.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Khade Masala",
+        "price": "₹440",
+        "description": "Whole Garam Masala, Thick Gravy With Mushroom.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Shahi Mughlai",
+        "price": "₹440",
+        "description": "Non Spicy Rich Brown Gravy, Seasonal Vegetable With Mushroom.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Chettinad",
+        "price": "₹440",
+        "description": "Homemade Coconut Masala, Thick Gravy With Mushroom.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dhaba Paneer",
+        "price": "₹440",
+        "description": "Homestyle Gravy with Khoya Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Kolhapuri",
+        "price": "₹440",
+        "description": "Smoky Kolhapuri With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Makhani",
+        "price": "₹440",
+        "description": "Butter Paneer, But Smoked!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Masala",
+        "price": "₹460",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Lahori",
+        "price": "₹460",
+        "description": "Minced Vegetable, Paneer, Rich Red Gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Shahi Mughlai",
+        "price": "₹440",
+        "description": "Non Spicy Rich Brown Gravy, Seasonal Vegetable With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Chettinad",
+        "price": "₹440",
+        "description": "Homemade Coconut Masala, Thick Gravy With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Khade Masala",
+        "price": "₹440",
+        "description": "Whole Garam Masala, Thick Gravy With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Kadhai",
+        "price": "₹440",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala, Seasonal Vegetable With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Handi",
+        "price": "₹440",
+        "description": "Thick Onion Gravy, Seasonal Diced Vegetable With Paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Palak Paneer",
+        "price": "₹440",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rajasthani Paneer",
+        "price": "₹440",
+        "description": "Paneer Cooked With Bell Peppers And Button Chillies.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chui Mui Ke Kofte",
+        "price": "₹440",
+        "description": "Sweet and Spicy Burst of Flavors.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kofta Lajawab",
+        "price": "₹440",
+        "description": "Vegetable Kofta, Rich Red Gravy",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Bhurji",
+        "price": "₹440",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Amritsari Chole Kulcha",
+        "price": "₹440",
+        "description": "Punjabi Chole, With Two Stuffed Kulcha.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Bhuna",
+        "price": "₹440",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fish Chettinad",
+        "price": "₹520",
+        "description": "Homemade Coconut Masala, Thick Gravy With Fish.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawns Chettinad",
+        "price": "₹520",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Buttery Chicken",
+        "price": "₹440",
+        "description": "Butter Chicken more Buttery.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Bhatti Ka Murgh",
+        "price": "₹460",
+        "description": "Chicken Tikka Masala.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chettinad Murgh Curry",
+        "price": "₹440",
+        "description": "South Indian Favorite With Chicken Pieces .",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mumbai Tariwala Murgh",
+        "price": "₹480",
+        "description": "Malwani Home Style Chicken, Not for Light Hearted, Served with Taftan.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Handi",
+        "price": "₹440",
+        "description": "Thick Onion Gravy With chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Home Style",
+        "price": "₹440",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kadai Chicken",
+        "price": "₹440",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala With Chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Khade Masala",
+        "price": "₹440",
+        "description": "Whole Garam Masala, Dry Thick Gravy With Chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Shahi Mughlai",
+        "price": "₹440",
+        "description": "Non Spicy Rich Brown Gravy With Chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Lababdar",
+        "price": "₹460",
+        "description": "Roasted Chicken Tikka, Homemade Red gravy With Onion and Capsicum.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Hara Pyaaz",
+        "price": "₹440",
+        "description": "Chicken Cooked In Brown Onion  Gravy With Spring Onion.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rajasthani Murgh",
+        "price": "₹440",
+        "description": "Chicken Cooked With Bell Peppers And Button Chillies.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Nawabi",
+        "price": "₹460",
+        "description": "Chicken Tikka Pcs, Chicken Kheema , Rich Spicy gravy !!!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Burhani Gosht",
+        "price": "₹560",
+        "description": "Thick Onion Gravy, 12 Hour Cooked Mutton.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Railway Mutton Cooker Curry",
+        "price": "₹560",
+        "description": "Home Style Mutton, Cooked with the Spice.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kheema Kaleji Masala And Taftan",
+        "price": "₹580",
+        "description": "Mutton  Kheema and Kaleji Served With Taftan.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mutton Handi",
+        "price": "₹560",
+        "description": "Thick Onion Gravy With Mutton.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kadai Mutton",
+        "price": "₹560",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala With Mutton.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Shahi Mughlai",
+        "price": "₹560",
+        "description": "Non Spicy Rich Brown Gravy With Mutton.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Home Style",
+        "price": "₹560",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "price": "₹560",
+        "description": "Kashmiri Delicacy !!",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Rara",
+        "price": "₹560",
+        "description": "Mutton Khaema, Succulent Mutton pcs, Thick Gravy",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Daab Chicgri",
+        "price": "₹560",
+        "description": "South East Style with Fresh Prawns.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Konkani Jhinga",
+        "price": "₹560",
+        "description": "Coconut Based Gravy.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Prawns Handi",
+        "price": "₹560",
+        "description": "Thick Onion Gravy With Prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawns Kadhai",
+        "price": "₹560",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala With Prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawns Khade Masala",
+        "price": "₹560",
+        "description": "Whole Garam Masala, Dry Thick Gravy With Prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Prawns Cheittinad",
+        "price": "₹560",
+        "description": "Homemade Coconut Masala, Thick Gravy With Prawns.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pomfret Curry Malwani",
+        "price": "₹900",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Teekhi Tamatar Macchi",
+        "price": "₹520",
+        "description": "Heavy on Mace, Sole Fish.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fish Handi",
+        "price": "₹520",
+        "description": "Thick Onion Gravy With Fish.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fish Kadhai",
+        "price": "₹520",
+        "description": "Thick Onion Gravy, Coarse Kadhai  Garam Masala With Fish.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Egg Masala",
+        "price": "₹380",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Egg Bhurji",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Palak Khichdi",
+        "price": "₹350",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Steam Rice",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Daal Khichdi",
+        "price": "₹300",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Pulao",
+        "price": "₹340",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Ki Taheri",
+        "price": "₹400",
+        "description": "Exotic Rice with Cashew and Yellow Fried Onion.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chutney Wali Khumb Ki Biryani",
+        "price": "₹460",
+        "description": "Spicy Mushroom Biryani.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Teekhi Paneer Lucknowi Biryani",
+        "price": "₹480",
+        "description": "Spicy Biryani with Saffron.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Dum Biryani",
+        "price": "₹400",
+        "description": "",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Pudina Ki Biryani",
+        "price": "₹480",
+        "description": "Mint Marinated Chicken Cooked with Rice.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Tikka Biryani",
+        "price": "₹500",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dindigul Thalappakatti Murgh Biryani",
+        "price": "₹500",
+        "description": "Short grain Samba Rice, Succulent  Chicken pieces Mixed with Spices",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hyderabadi Kalyani Ghost Biryani",
+        "price": "₹580",
+        "description": "Mutton Cooked with Rice flavored with Saffron.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kolambi Biryani",
+        "price": "₹580",
+        "description": "Spicy Maharashtrian Style Biryani.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Steam Rice (h)",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jeera Rice ( H )",
+        "price": "₹150",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roti",
+        "price": "₹40",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laccha Paratha",
+        "price": "₹60",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Onion And Chilli Laccha",
+        "price": "₹80",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Naan",
+        "price": "₹50",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kulcha",
+        "price": "₹50",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Taftan",
+        "price": "₹80",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rosemary And Olive Naan",
+        "price": "₹90",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laal Naan",
+        "price": "₹119",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Delhi Naan",
+        "price": "₹119",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Assorted Bread Basket",
+        "price": "₹250",
+        "description": "Taftan , Rosemary & Olive Naan , Onion & Chilly Laccha Paratha.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Aloo - Paratha",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Aloo Kulcha",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kheema Naan",
+        "price": "₹200",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "24 Ghante Ki Dal",
+        "price": "₹280",
+        "description": "Rich Creamy  Black Lentil !!!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Tadka",
+        "price": "₹260",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Fry",
+        "price": "₹260",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Palak",
+        "price": "₹260",
+        "description": "Dal Palak.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mix Veg Raita",
+        "price": "₹120",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tadke Wala Dahi",
+        "price": "₹120",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pineapple Raita",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Boondi Raita",
+        "price": "₹120",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kaffir Lime Coconut Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Puranpoli Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sheer Qhurma Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vanilla Ice Cream",
+        "price": "₹180",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate 3 Way",
+        "price": "₹380",
+        "description": "Walnut Brownie , 2 Scoop of Chocolate Mousse, 1 Scoop of Ulta dark ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Warm Brownie",
+        "price": "₹180",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Warm Brownie With Vanilla Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate Mousse",
+        "price": "₹220",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fried Oreo",
+        "price": "₹320",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Baked Rabdi Tukda",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dates And Almond Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ultra Dark Chocolate Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chikkamagaluru Coffee Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Salted Caramel Popcorn Ice Cream",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Blueberry Milkshake",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Caramel Popcorn Milkshake",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Elderflower Cucumis",
+        "price": "₹260",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry Cheesecake Milkshake",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "price": "₹280",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tropical Delight",
+        "price": "₹260",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Guava Chilly",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Blue Logoon",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Virgin Mojito",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Virgin Pinacolda",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Orange & Basil",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fruit Punch",
+        "price": "₹240",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peach Ice - Tea",
+        "price": "₹180",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemon Ice Tea",
+        "price": "₹160",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fresh Lime Soda",
+        "price": "₹140",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fresh Lime Water",
+        "price": "₹120",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Salt And Spice",
+        "price": "₹240",
+        "description": "Orange Juice With Green Chilly & Black salt.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paan Mojito",
+        "price": "₹240",
+        "description": "अपना  \"Dessertif\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dr. Rupas Gingerale",
+        "price": "₹240",
+        "description": "Home Made Gingerale, Jaljeera.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Mojito",
+        "price": "₹240",
+        "description": "Mojito With Some Achari Twist.",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "The Bombay Curry- Biryani & Kebabs",
+    "location": "Shop 1, Cosmos Commercial Centre, 3rd Road, Near Khar Railway Station, Khar, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/the-bombay-curry-biryani-kebabs-khar/info",
+    "address": "Shop 1, Cosmos Commercial Centre, 3rd Road, Near Khar Railway Station, Khar, Mumbai",
+    "contact": "+917400009949",
+    "description": "The Bombay Curry- Biryani & Kebabs is a restaurant located at Shop 1, Cosmos Commercial Centre, 3rd Road, Near Khar Railway Station, Khar, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Egg Masala Biryani [3 Egg's Serves 1]",
+        "price": "₹399",
+        "description": "[650 ML-Freshly made, (3 eggs) accompanied by Kachumber Raita & Sliced Onion in ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Tikka Biryani [Boneless, Serves 1]",
+        "price": "₹429",
+        "description": "[650 ML-Freshly made, accompanied by Kachumber Raita & Sliced Onion in a hygienic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hydrabadi Murgh Biryani Boneless",
+        "price": "₹429",
+        "description": "[650 ML-Freshly made, accompanied by Kachumber Raita & Sliced Onion in a hygienic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lucknowi Murgh Biryani Boneless",
+        "price": "₹429",
+        "description": "[650 ML-Freshly made, accompanied by Kachumber Raita & Sliced Onion in a hygienic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Biryani [serves 1]",
+        "price": "₹409",
+        "description": "[650 ML-Accompanied with Onion & Raita] \"Single-Serving Paneer Tikka Dum Biryani",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Masala Biryani [serves 1]",
+        "price": "₹409",
+        "description": "[650 ML-Accompanied with Onion & Raita] \"Single-Serving Subz Masala Dum Biryani a Veggie-Delight\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hara Kebab Awadhi",
+        "price": "₹449",
+        "description": "[6 Pc's standard] (healthy and delicious mildly spiced melt in mouth snack made ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Galouti Kebab",
+        "price": "₹449",
+        "description": "[6 pc's standard] A melt in mouth Lucknowi mushroom galouti kabab.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Malai Tikka",
+        "price": "₹525",
+        "description": "[PREMIUM MALAI PANEER](Pieces of cottage cheese marinated with yoghurt and cream; mildly spiced ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Ajwaini Tikka",
+        "price": "₹525",
+        "description": "[PREMIUM MALAI PANEER]Soft paneer cubes marinated in yogurt, flavored with ajwain chargrilled.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Hari Mirch Tikka",
+        "price": "₹525",
+        "description": "[PREMIUM MALAI PANEER] Soft paneer cubes in a green chilly paste marinade. Slightly ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tandoori Tikka",
+        "price": "₹525",
+        "description": "[PREMIUM MALAI PANEER] Soft paneer cubes marinated with tandoori masala and in house ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Afghani Chicken",
+        "price": "₹499",
+        "description": "A fully resplendent classic grilled chicken marinated in traditional spices, cream and yogurt",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hari Mirch Tandoori Murgh",
+        "price": "₹499",
+        "description": "(A Fully Resplendent whole chicken marinated in fresh coriander, mint, green chilies & ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Burrah Tandoori",
+        "price": "₹499",
+        "description": "Classic grilled chicken marinated in yoghurt, ginger, garlic, cashew nut paste and selected ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Kalmi Tangdi",
+        "price": "₹525",
+        "description": "(4pc Chicken drumsticks marinated in yoghurt flavoured with lemon, cream and crushed black ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Peshawari Tikka",
+        "price": "₹525",
+        "description": "Boneless Chicken kebabs marinated with in house special in house grounded peshawari masala ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Rezala Kabab",
+        "price": "₹525",
+        "description": "Boneless chunk of chicken marinated in yoghurt, ginger, garlic and a special paste ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Murgh",
+        "price": "₹499",
+        "description": "A fully resplendent chicken marinated in a special tandoori masala flavored yogurt chargrilled",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Murgh Tikka",
+        "price": "₹525",
+        "description": "Our Classic Murgh Tikka is a culinary masterpiece, featuring tender boneless chicken pieces ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Hari Mirch Tikka",
+        "price": "₹525",
+        "description": "Our Murgh Hari Mirch Tikka is a celebration of flavors that packs a ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Achari Tikka",
+        "price": "₹525",
+        "description": "Tantalizing Deluxe Boneless Chicken kebabs marinated in pickle flavored yogurt char-grilled in tanddor.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Angara Tikka",
+        "price": "₹525",
+        "description": "A flavour explosion with our Murgh Angara Tikka. Tender chicken pieces, marinated to ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Banjara Tikka",
+        "price": "₹525",
+        "description": "Boneless Chicken kebabs; spicy & fully loaded with selected lucknowi spices, cilantro, mint, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Irani Tikka",
+        "price": "₹525",
+        "description": "Boneless Chicken kebabs (Non-Spicy), marinated in selected spices, yogurt and chargrilled to perfection.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Ke Sule",
+        "price": "₹645",
+        "description": "Boneless Chicken kebab marinated with BHOOT JHOLOKIA (Ghost pepper) giving a mindblowing fiery ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Malai Tikka",
+        "price": "₹525",
+        "description": "Boneless Chicken kebabs marinated in tandoori malai masala flavored yogurt chargrilled",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Seekh Kabab",
+        "price": "₹525",
+        "description": "Mildly spiced chicken mince seekh, chargrilled",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Peshawari Tangdi",
+        "price": "₹525",
+        "description": "(4 pc Chicken drumsticks marinated with in house special peshawari masala grilled in ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Rogani Tangdi",
+        "price": "₹525",
+        "description": "(4 pc Chicken drumsticks marinated with in house special Kashmiri wazwan masala grilled ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "price": "₹750",
+        "description": "Mutton mince, blended with fresh coriander, mint, ginger root, onion subtle spices, skewered ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Banjara Tikka Roll",
+        "price": "₹349",
+        "description": "\"Indulge in Flavorful Delights: Murgh Banjara Tikka Roll in Wholewheat Rumali\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Malai Tikka Roll",
+        "price": "₹349",
+        "description": "\"Indulge in Creamy Delight: Paneer Malai Tikka in Wholewheat Rumali\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Roll",
+        "price": "₹349",
+        "description": "\"Paneer Tikka Bliss: Wrapped in Wholewheat Rumali Roll\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Bhurji Roll",
+        "price": "₹349",
+        "description": "\"Flavorful and Wholesome: Egg Bhurji Roll in Wholewheat Rumali\"",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Angara Tikka Roll",
+        "price": "₹349",
+        "description": "\"Murgh Angara Tikka Roll: A Spicy Delight in Wholewheat Rumali\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Irani Tikka Roll",
+        "price": "₹349",
+        "description": "\"Indulge in Excellence: Murgh Irani Tikka Roll in Wholewheat Rumali\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Malai Tikka Roll",
+        "price": "₹349",
+        "description": "\"Indulge in Creamy Delight: Murgh Malai Tikka Roll in Wholewheat Rumali\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Seekh Roll",
+        "price": "₹349",
+        "description": "\"Murgh Seekh Sensation: Wrapped in Wholewheat Rumali Roll\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Tikka Roll",
+        "price": "₹349",
+        "description": "\"Murgh Tikka Delight: Wrapped in Wholewheat Rumali Roll\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chole Masala Curry",
+        "price": "₹350",
+        "description": "Classic Punjabi pindi chole masala goes well with jeera rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadai Subzi",
+        "price": "₹439",
+        "description": "(Garden fresh vegetables cauliflower, carrots, beans & peas tossed with onion, tomato & ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lasooni Palak Paneer",
+        "price": "₹488",
+        "description": "Garlic flavoured combination of iconic spinach and cottage cheese garnished with fried garlic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Methi Mattar Malai",
+        "price": "₹448",
+        "description": "(A smooth, rich and delicious curry made in a white gravy along with ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Do Pyaza",
+        "price": "₹488",
+        "description": "(Fresh malai paneer tempered with cumin and  spices, tossed with cubes of ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Aloo Jeera Hing Tadka",
+        "price": "₹349",
+        "description": "Simply prepared, very tasty skillet tossed boiled potatoes, tempered with cumin and asafoetida",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Subzi Handi",
+        "price": "₹439",
+        "description": "(Pieces of Cauliflower, Beans, Carrots, green peas & mushrooms braised in a onion ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadai Mushroom",
+        "price": "₹448",
+        "description": "Button mushrooms stir fried with capsicum, tomatoes, onions and spring onions and seasoned ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lahori Aloo",
+        "price": "₹349",
+        "description": "Potatoes cooked in a tangy sauce of tomatoes, yoghurt, red chilli powder, ginger ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": "₹488",
+        "description": "Fresh cottage cheese stirfried with onion, Capsicum, tomatoes  & spring onions, seasoned ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Matar Paneer",
+        "price": "₹488",
+        "description": "Fresh button mushrooms, green peas, cubes of cottage cheese in a medium spiced ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Bhurjee",
+        "price": "₹488",
+        "description": "Chopped cottage cheese tempered with spices cooked with chopped onion, tomatoes and green ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Makhanwala",
+        "price": "₹488",
+        "description": "Soft and tender paneer cubes with aromatic spices in a rich and delicious ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Masala",
+        "price": "₹488",
+        "description": "[ 4 pc Paneer tikkas laced with a gravy made of tomato, cashewnut ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bhuna Murgh",
+        "price": "₹525",
+        "description": "Boneless Chicken diced into small pieces cooked with onions, tomatoes, ginger garlic paste ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Changezi",
+        "price": "₹525",
+        "description": "[Boneless chicken north indian delicacy known for its delicious and unique taste that ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Dhaniwal Korma",
+        "price": "₹525",
+        "description": "[BONELESS CHICKEN]([Dhaniwal :-Coriander boneless chicken] A dish of boneless chicken delicately flavored with ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Do Pyaza",
+        "price": "₹525",
+        "description": "[BONELESS CHICKEN]Boneless pieces of chicken tempered with Onion, ginger, garlic and spices, tossed ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Methi Malai",
+        "price": "₹525",
+        "description": "[BONELESS CHICKEN](A dish of boneless chicken delicately flavoured with fenugreek/ methi in a ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Noorani Korma",
+        "price": "₹525",
+        "description": "[Boneless Chicken Noorani Korma is a rich and flavorful dish that originates from ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Saag Murgh Lasooni",
+        "price": "₹525",
+        "description": "[ BONELESS CHICKEN]Chicken boneless cubes in a garlic-infused spinach gravy, flavoured with nutmeg ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tangdi Butter Chicken",
+        "price": "₹525",
+        "description": "( TANGDI BUTTER CHICKEN our way of making where 3 chicken Drumsticks is ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murgh Achari",
+        "price": "₹525",
+        "description": "[ BONELESS CHICKEN]( Murgh Achari is a popular North Indian dish known for ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Handi Lazeez",
+        "price": "₹525",
+        "description": "[BONELESS CHICKEN](In house Lucknowi masala marinated boneless chicken cooked in a cardamom scented ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Murgh Keema",
+        "price": "₹525",
+        "description": "[ Minced chicken cooked with onions, tomatoes, ginger garlic paste and special ground ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lucknowi Murgh Makhni",
+        "price": "₹525",
+        "description": "[BONELESS BUTTER CHICKEN]  Lucknowi Murgh Makhani, also known as Lucknowi Butter Chicken, ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Tikka Masala",
+        "price": "₹525",
+        "description": "[ BONELESS CHICKEN TIKKA MASALA](Tantalizing grilled chicken tikka (boneless) pieces simmered in mildly ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tawa Murgh Masala",
+        "price": "₹525",
+        "description": "[BONELESS CHICKEN](Succulent boneless chicken marinated in yoghurt and spices cooked in a onion ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bhuna Gosht",
+        "price": "₹899",
+        "description": "(Tender mutton cubes stirred with onions, tomato, ginger garlic paste and red chili ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Gosht",
+        "price": "₹899",
+        "description": "(Comfort dish cooked to perfection a delicious combination of chana dal and gosht ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Ka Mutton Keema",
+        "price": "₹999",
+        "description": "(Mutton mince along with is cooked a variety of whole and dried spices.)",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Gosht Banjara",
+        "price": "₹899",
+        "description": "(Boneless Mutton curry with selected spices, garlic, cloves, ginger,chillies and red onion cooked ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Korma",
+        "price": "₹899",
+        "description": "(Mutton cubes cooked in saffron tinted sauce of yoghurt, coconut milk, caramelised onion ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laal Maas",
+        "price": "₹899",
+        "description": "(Rajasthani mutton curry prepared in a sauce of yoghurt and hot spices. flavoured ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roganjosh",
+        "price": "₹899",
+        "description": "(A Kashmiri delight, boneless cubes of mutton cooked using the slow cooking method ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Bhurjee",
+        "price": "₹349",
+        "description": "(6 Eggs bhurjee)",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Egg Curry",
+        "price": "₹349",
+        "description": "3 Whole eggs Fried with added lucknowi spices and than stewed in a ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tawa Anda Masala",
+        "price": "₹349",
+        "description": "3 Whole eggs Fried cooked  in semi-dry Indian masala with selected lucknowi ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Fry",
+        "price": "₹349",
+        "description": "Boiled and softened dal added to a seasoning of onion, tomato and spices ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Tadka",
+        "price": "₹349",
+        "description": "Cooked lentils which are lastly tempered with ghee fried spices and herbs.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Makhani",
+        "price": "₹399",
+        "description": "Patiently cooked whole urad lentils with tomatoes, red kidney beans, cream & home ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Biryani",
+        "price": "₹499",
+        "description": "Chargrilled paneer tikka cubes cooked with sauce, spices, basmati rice on dum. )",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Hydrabadi Biryani",
+        "price": "₹449",
+        "description": "(SPICY) Basmati rice cooked with garden fresh vegetables (Paneer/Caluliflower/Carrot/French Breans) in special masala ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Masala Biryani (6 EGG's)",
+        "price": "₹599",
+        "description": "(Serves 2) Basmati rice cooked with sauce 6 fried eggs spiced with masala ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Subzi Masala Biryani",
+        "price": "₹449",
+        "description": "Our Subzi Masala Biryani is a vegetarian masterpiece that combines the goodness of ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Afgahni Tikka Biryani",
+        "price": "₹499",
+        "description": "Savor the fusion of flavors with our Murgh Afghani Tikka Biryani. Succulent pieces ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Malai Kabab Biryani",
+        "price": "₹499",
+        "description": "Dive into culinary bliss with our Murgh Malai Kabab Biryani. Tender chunks of ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Nizami Biryani",
+        "price": "₹499",
+        "description": "Embark on a culinary journey with our Delhi's version of Biryani Murgh Nizami ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hydrabadi Murgh Biryani",
+        "price": "₹499",
+        "description": "Enjoy the best of both worlds with our Hyderabadi Murgh Dum Biryani. Succulent ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lucknowi Murgh Biryani",
+        "price": "₹499",
+        "description": "Experience the royal flavours of North India with our Lucknowi Murgh Dum Biryani ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Seekh Biryani",
+        "price": "₹499",
+        "description": "Our Seekh Biryani is a savoury delight that combines the best of flavours ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Tikka Dum Biryani",
+        "price": "₹499",
+        "description": "Our Murgh Tikka Dum Biryani is an explosion of flavours that you won't ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Hyderabadi Biryani",
+        "price": "₹899",
+        "description": "(SPICY) (Boneless Mutton pieces marinated in a special Hyderabadi masala, layered with aromatic ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Lucknowi Dum Biryani",
+        "price": "₹899",
+        "description": "(Serves 2) Awadhi biryani, its a cooked biryani. both the meat and rice ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Roganjosh Biryani",
+        "price": "₹899",
+        "description": "(Serves 2)(Boneless Mutton Roganjosh Layered with aromatic basmati rice; cooked on dum)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Yakhni Pulao",
+        "price": "₹899",
+        "description": "(Serves 2) Fragrant basmati rice slow-cooked on dum in a mildly spiced boneless ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Khichdi Tadka",
+        "price": "₹349",
+        "description": "(Basmati Rice cooked with Yellow Lentils, Pure Ghee & tempered with cumin red ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lasooni Dal Khichdi",
+        "price": "₹349",
+        "description": "(Basmati Rice cooked with Yellow Lentils, Pure Ghee & tempered with Garlic, cumin ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peas Pulao",
+        "price": "₹349",
+        "description": "(Basmati Rice mixed with green Peas and tempered with cashew nuts [Serving:- 650 ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Steamed Rice",
+        "price": "₹250",
+        "description": "(Plain steamed white basmati rice.)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": "₹279",
+        "description": "(Aromatic basmati rice tempered with cumin seeds.)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Tandoori Roti",
+        "price": "₹99",
+        "description": "(Whole-Wheat Tandoori Roti topped with Garlic)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": "₹59",
+        "description": "(Whole-wheat bread)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tawa Roti",
+        "price": "₹49",
+        "description": "(Whole-wheat Phulka)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rumali Roti",
+        "price": "₹99",
+        "description": "(Maida Rumali)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Wholewheat Rumali Roti",
+        "price": "₹99",
+        "description": "(Whole-wheat Rumali)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Naan",
+        "price": "₹119",
+        "description": "(Naan)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": "₹149",
+        "description": "(Naan topped with Garlic)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Khasta Roti",
+        "price": "₹59",
+        "description": "(Whole wheat flour bread cooked in tandoor, flavoured with ajwain.)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": "₹99",
+        "description": "(Whole-Wheat lachha paratha)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Phudina Naan",
+        "price": "₹129",
+        "description": "(Naan Topped with mint leaves)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Tikka Dum Biryani-xxxl",
+        "price": "₹2000",
+        "description": "[Serving :- 1kg Boneless Chicken : 1 kg Rice] [Serving :- 1kg Boneless ...read more",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Gosht Hyderabadi Dum Biryani - Xxxl",
+        "price": "₹3500",
+        "description": "[Serving :- 1kg Boneless Mutton : 1kg Rice] A XXX Large biryani that ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Lucknowi Dum Biryani-xxxl",
+        "price": "₹3500",
+        "description": "[Serving :- 1kg Boneless Mutton : 1kg Rice] A XXX Large biryani that ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gosht Yakhni Pulao-xxxl",
+        "price": "₹3500",
+        "description": "[Serving :- 1kg Boneless Mutton : 1kg Rice] The X'tra, X'tra, X'tra, large ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hyderabadi Murgh Dum Biryani -xxxl",
+        "price": "₹2000",
+        "description": "[Serving :- 1kg Boneless Chicken : 1 kg Rice] (SPICY) A XXX large ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lucknowi Murgh Dum Biryani -xxxl",
+        "price": "₹2000",
+        "description": "[Serving :- 1kg Boneless Chicken : 1 kg Rice] A XXXL biryani that ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Malai Kebab Biryani Xxxl",
+        "price": "₹2000",
+        "description": "[Serving :- 1kg Boneless Chicken : 1 kg Rice] Delicately flavoured & very ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murgh Afghani Tikka Biryani - Xxxl",
+        "price": "₹2000",
+        "description": "[Serving :- 1kg Boneless Chicken : 1 kg Rice] Delicately flavoured chargrilled afghani ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Biryani Xxxl",
+        "price": "₹2000",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Hyderabadi Biryani - Xxxl",
+        "price": "₹1500",
+        "description": "(SPICY)The X'tra, X'tra, X'tra, large biryani that serves 4 - 6 people along ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Masala Biryani- Xxxl",
+        "price": "₹1500",
+        "description": "The X'tra, X'tra, X'tra, large biryani that serves 4 - 6 people along ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gulab Jamun [2 PCs]",
+        "price": "₹148",
+        "description": "(double Pc Deep fried milk dumplings dipped in sugar syrup)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Special Moong Dal Halwa",
+        "price": "₹400",
+        "description": "(250 gms Rich & satisfying Delicacy From AJMER SHARIF, Infused with Kesar and ...read more",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coke",
+        "price": "₹89",
+        "description": "[650 Ml]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mineral Water (bisleri)",
+        "price": "₹50",
+        "description": "[1 Litre]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thums Up",
+        "price": "₹89",
+        "description": "[650 Ml]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Burhani Raita",
+        "price": "₹145",
+        "description": "Garlic-infused yoghurt.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Extra Green Chutney",
+        "price": "₹45",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Extra Onion",
+        "price": "₹40",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Plain Dahi",
+        "price": "₹145",
+        "description": "Plain yoghurt.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Pickle",
+        "price": "₹45",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kachumbar Raita",
+        "price": "₹145",
+        "description": "Spiced yoghurt with onion tomatoes and coriander",
+        "food_type": "Veg"
+      }
+    ]
+  },
+  {
+    "name": "Tamak",
+    "location": "6, Plot 53, Ahiya Apartments, Main Avenue, 16th Road Junction, Santacruz West, Mumbai",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.9",
+    "url": "https://www.zomato.com/mumbai/tamak-santacruz-west/info",
+    "address": "6, Plot 53, Ahiya Apartments, Main Avenue, 16th Road Junction, Santacruz West, Mumbai",
+    "contact": "+919029995555",
+    "description": "Tamak is a restaurant located at 6, Plot 53, Ahiya Apartments, Main Avenue, 16th Road Junction, Santacruz West, Mumbai.",
+    "cuisines": [
+      "Contemporary"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Truffle Essence, Mushroom, Cheese, Sea Salt, Kulcha",
+        "price": "₹335",
+        "description": "Truffle essence, mushroom cheese kulcha",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Chicken Tikka, Chur Chur Kulcha",
+        "price": "₹285",
+        "description": "Chopped chicken tikka, crushed kulcha",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoked Chicken Tikka Kulcha",
+        "price": "₹285",
+        "description": "Smoked sauce, ginger, chilli, cheese stuffed",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Our \"pizza\" Kulcha",
+        "price": "₹305",
+        "description": "Seasoning, herbs",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sooji Ke Golgappe",
+        "price": "₹205",
+        "description": "“Ambarsariye wale” crispy shells, potato filling, mint water, imli chutney",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Karari Tawa Aloo Tikki",
+        "price": "₹245",
+        "description": "Stuffed potato patties, chana dal, curd, tamarind chutney, raddish laccha",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dilli Papri Chaat",
+        "price": "₹265",
+        "description": "special Delhi masala, laccha adrak, chutney",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rajasthani Papad Churri",
+        "price": "₹215",
+        "description": "Crushed papad, brown onion, coriander",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Punjabi Paneer Tikka",
+        "price": "₹415",
+        "description": "Chargrilled soft paneer, onion, tomato, kasoori methi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Purani Dilli Da Paneer Tikka",
+        "price": "₹405",
+        "description": "Chargrilled & tawa grilled paneer, brown onion, yellow chilli",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Soya Chaap",
+        "price": "₹385",
+        "description": "“Punjab & Delhi’s favorite”, onion stuffed, chaat masala",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Broccoli Kebab",
+        "price": "₹345",
+        "description": "Char grilled, cheese, cream, cardamom, mace",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sweet Potato & Potato Tandoori",
+        "price": "₹375",
+        "description": "Tamarind marinated, chatpate spices, sev, anar, chutneys",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jalapeno Dahi Ke Kebab",
+        "price": "₹405",
+        "description": "Tawa grilled, pickled jalapeno",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cashew Vegetable Seekh",
+        "price": "₹375",
+        "description": "Skewered seasonal veggies, crushed cashew nut",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Micro Bharwan Aloo Tandoori",
+        "price": "₹375",
+        "description": "Baby potatoes, “our way of tandoori aloo”, papad churri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Porcini & Button Mushroom Galouti",
+        "price": "₹435",
+        "description": "Melt in mouth mince, rare spices, kewra, rose petals",
+        "food_type": "Veg"
+      },
+      {
+        "name": "G.o.a.t. Galouti Kebab",
+        "price": "₹615",
+        "description": "Mouth melting mutton mince, smoked, aromatic spices",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "price": "₹615",
+        "description": "Skewers of mutton mince, garlic, brown onion, mint, cinnamon",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Burrah Kebab",
+        "price": "₹635",
+        "description": "Tenderized mutton chop, black pepper, cardamom",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Highway Chicken Tikka",
+        "price": "₹435",
+        "description": "Chicken leg boneless, onion, coriander stem, mustard oil",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Parmesan Murg Malai Tikka",
+        "price": "₹455",
+        "description": "Chicken leg boneless, cardamom, mace, chives (mild on spice)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pure Hariyali Chicken Tikka",
+        "price": "₹435",
+        "description": "Puree of roasted greens, parsley, chilli, garlic, mustard oil",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tandoori Chicken \"the Original\"",
+        "price": "₹395",
+        "description": "Half tandoori chicken, kasoori methi, chaat masala",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Pickled Murg Seekh Kebab",
+        "price": "₹395",
+        "description": "Chicken mince, achaar flavour, coriander",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Murg Shammi Kebab",
+        "price": "₹435",
+        "description": "Tawa grilled, chicken mince, onion, whole spice, black cardamom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Jheenga Lehsuni",
+        "price": "₹615",
+        "description": "Medium prawn, yellow chilli, garlic, lime",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Tandoori Jheenga",
+        "price": "₹615",
+        "description": "Medium prawns, home ground peri peri marinade",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sarson ka saag",
+        "price": "₹435",
+        "description": "Made in pure ghee & white butter",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ranjit Shahi Paneer",
+        "price": "₹485",
+        "description": "cottage Cheese slices & mince, spinach leaves layered",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Lababdar",
+        "price": "₹485",
+        "description": "“Different version” silken paneer roundels, onion, tomato gravy",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadhai Paneer",
+        "price": "₹485",
+        "description": "Cottage cheese, peppers, tomato, onion",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ker Sangri",
+        "price": "₹465",
+        "description": "Rajasthani delicacy, dried berries & beans, pickle",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Khumb Matar Di Subzi",
+        "price": "₹435",
+        "description": "Home pounded garam masala spice, onion, tomato",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soya Chaap Tak-a-tak",
+        "price": "₹485",
+        "description": "Tandoori soya chaap, onion, tomato, butter, kasoori methi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Malai Kofta \"not Sweet\"",
+        "price": "₹485",
+        "description": "Round dumpling, cashewnut & tomato, white pepper",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lehsuni Palak",
+        "price": "₹405",
+        "description": "Spinach puree, garlic, onion, kasoori methi, red chilli",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetable Jhalfrazie",
+        "price": "₹405",
+        "description": "Spicy preparation, vegetables, peppers, ginger julienne",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Basil Subz Makhwala",
+        "price": "₹405",
+        "description": "Vegetables, tomato gravy, butter, basil leaves",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subz Punjratni",
+        "price": "₹405",
+        "description": "Baby corn, cauliflower, carrot, beans, peas",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Aloo",
+        "price": "₹405",
+        "description": "Stuffed baby potatoes, onion, tomato, curd, garam masala",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Amritsari Chole",
+        "price": "₹405",
+        "description": "Pindi chana, chana masala, imli chutney",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Saag Paneer",
+        "price": "₹485",
+        "description": "Spinach puree, chopped spinach, cottage cheese, desi ghee, garlic \"no cream & butter\"",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cooker Dal Tamak",
+        "price": "₹435",
+        "description": "“Our signature dal makhni”, urad dal, butter, cream, kasoori methi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Tarka",
+        "price": "₹345",
+        "description": "Toor dal, cumin, ghee tarka",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nihari Ghost",
+        "price": "₹635",
+        "description": "Spicy slow cooked mutton curry cut, home pounded spices, green chilli, ginger, mint",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bhuna Gosht Masala",
+        "price": "₹625",
+        "description": "Famous mutton dish, onion, tomato, garlic, hand pounded spices",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tawa Mutton Seekh",
+        "price": "₹615",
+        "description": "Punjabi griddle cooked, diced mutton skewers, butter, black pepper, ginger",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Dal Meat",
+        "price": "₹575",
+        "description": "Mutton boneless, yellow lentil, pudina, brown onion",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ambala Chicken Curry",
+        "price": "₹485",
+        "description": "famous leg curry from Grand Trunk Road",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Butter Chicken",
+        "price": "₹515",
+        "description": "“Delhi style” not sweet, chicken leg boneless, tomato, butter, cream, fenugreek",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Basil Butter Chicken",
+        "price": "₹515",
+        "description": "Our new take on traditional butter chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Murg Kadhai Khurchan",
+        "price": "₹505",
+        "description": "Chicken tikka, peppers, onion, tomato gravy, crushed coriander seeds",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tamak Chicken Tikka Masala",
+        "price": "₹505",
+        "description": "we call it “TCTM” apna wala chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Ludhianawi Cream Chicken",
+        "price": "₹515",
+        "description": "Punjab’s famous, chicken leg boneless, milk, cream, kasoori methi, black pepper powder",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Masaledar Prawns",
+        "price": "₹615",
+        "description": "Medium prawns, ajwain, onion, tomato, corriander",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Makai ki roti",
+        "price": "₹105",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": "₹75",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Multigrain Roti",
+        "price": "₹115",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laccha Paratha",
+        "price": "₹115",
+        "description": "Choice of Butter, Pudina, Green Chilli, Ajwaini",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Naan",
+        "price": "₹105",
+        "description": "choice of Plain Naan, Butter Naan, Kalonji Naan, Garlic Naan",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pyaaz Ki Tandoori Roti",
+        "price": "₹105",
+        "description": "Whole wheat, onion, red chilli, ghee",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Missi Roti",
+        "price": "₹115",
+        "description": "Flat bread, gramflour, chilli, coriander, ajwain",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Masala Laccha Parantha",
+        "price": "₹115",
+        "description": "Ajwain, pudina, fresh coriander",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Delhi Butter Naan",
+        "price": "₹105",
+        "description": "triangular naan, Amritsari till & dhaniya",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Amritsari Kulcha",
+        "price": "₹155",
+        "description": "Potato, coriander seeds, chilli, fenugreek",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Khamiri Roti",
+        "price": "₹95",
+        "description": "Leavened bread, refined flour, topped with poppy seeds",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chur Chur Paratha",
+        "price": "₹135",
+        "description": "Tandoori whole wheat, crushed, desi ghee",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Tandoori Roti",
+        "price": "₹85",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Steamed Basmati Rice",
+        "price": "₹175",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dal Khichdi",
+        "price": "₹350",
+        "description": "Desi ghee, tadka, vegetables, churra papad ,plain raita",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Matar Pulao",
+        "price": "₹245",
+        "description": "",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Murg Biryani",
+        "price": "₹555",
+        "description": "Long grain basmati, boneless chicken",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Gosht Biryani",
+        "price": "₹625",
+        "description": "Long grain basmati, mutton boneless",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dum Subz Biryani",
+        "price": "₹455",
+        "description": "Long grain basmati, vegetables",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Chicken Masala Biryani",
+        "price": "₹555",
+        "description": "Long grain basmati, boneless butter chicken, dum cooked",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Paneer Tikka Masala Biryani",
+        "price": "₹485",
+        "description": "Long grain basmati, paneer tikka masala, dum cooked",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Boondi Raita",
+        "price": "₹125",
+        "description": "Curd, gramflour fritters",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kachumber Raita",
+        "price": "₹125",
+        "description": "Curd, onion, tomato, cucumber",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pudina Raita",
+        "price": "₹125",
+        "description": "Curd, dry pudina powder",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jalebi Rabri",
+        "price": "₹325",
+        "description": "Mini jalebi, desi ghee, saffron, reduced milk",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Baked Gulab Jamun",
+        "price": "₹335",
+        "description": "Rabri, boondi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Moong Dal Halwa",
+        "price": "₹375",
+        "description": "Lentil, ghee, nuts (serving size 200gms)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kesari Rasmalai",
+        "price": "₹315",
+        "description": "Cottage cheese dumpling, saffron flavoured reduced milk",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Shahi Tukda",
+        "price": "₹375",
+        "description": "Milk cooked bread pudding, reduced milk, charoli",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Malai Kulfi (matka)",
+        "price": "₹175",
+        "description": "House Made Frozen Reduced Milk",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Alphanso Mango Kulfi (Matka)",
+        "price": "₹175",
+        "description": "Frozen reduced milk, alphonso mango puree",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sugar Free Kesar Pista Kulfi (Matka)",
+        "price": "₹175",
+        "description": "House Made Frozen Reduced Milk, Saffron, Pistachio (Sugar free)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Aerated Beverages (can)",
+        "price": "₹105",
+        "description": "choice of Coke, Diet Coke, Thumsup & Gingerale",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Packaged Drinking Water",
+        "price": "₹95",
+        "description": "",
+        "food_type": "Veg"
+      }
+    ]
+  }
+]

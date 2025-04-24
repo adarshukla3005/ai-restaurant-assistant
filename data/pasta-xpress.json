@@ -1,0 +1,540 @@
+{
+    "name": "Pasta-Xpress",
+    "location": "Sector 11, Dwarka, Sector 12, Dwarka, New Delhi.",
+    "cost_for_two": "Cost for two: ₹500",
+    "rating": "4.1",
+    "url": "https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/",
+    "address": "G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi",
+    "contact": "+911147015393",
+    "description": "Pasta Xpress is a F&amp;B-Casual Dining outlet that offers a wide variety of Italian-inspired dishes. The menu features a selection of pastas, pizzas, salads, and sandwiches, as well as a variety of desserts. The atmosphere is relaxed and inviting, with a focus on providing a comfortable and enjoyable dining experience. The staff is friendly and attentive, and the prices are reasonable. Whether you&#39;re looking for a quick bite or a leisurely meal, Pasta Xpress is the perfect spot for a delicious Italian-style meal.",
+    "cuisines": [
+        "Pasta",
+        "Pizza",
+        "Burger"
+    ],
+    "operational_hours": {
+        "MONDAY": "11:00:00 - 23:00:00",
+        "TUESDAY": "11:00:00 - 23:00:00",
+        "WEDNESDAY": "11:00:00 - 23:00:00",
+        "THURSDAY": "11:00:00 - 23:00:00",
+        "FRIDAY": "11:00:00 - 23:00:00",
+        "SATURDAY": "11:00:00 - 23:00:00",
+        "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Classic Vada Pav Burger",
+            "price": "₹49",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese & Corn Treat",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese &capsicum Treat",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese &onion Treat",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Fries",
+            "price": "₹80",
+            "description": "Deep-fried potato batons, seasoned with salt",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Potato Burger",
+            "price": "₹85",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Corn And Cheese",
+            "price": "₹89",
+            "description": "Corn and cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veggie Burger",
+            "price": "₹99",
+            "description": "Baked sliced bun stuffed with a vegetable patty, chopped vegetables an",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veggie Mint Burger",
+            "price": "₹99",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken & Tikka Treat",
+            "price": "₹109",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheese & Spicy Chicken Treat",
+            "price": "₹109",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken & Salami Treat",
+            "price": "₹109",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheese & Sausage Treat",
+            "price": "₹109",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Bbq Burger",
+            "price": "₹110",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Burger",
+            "price": "₹110",
+            "description": "Baked sliced bun stuffed with a chicken patty, onion, tomato and mayon",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Margherita Pizza",
+            "price": "₹120",
+            "description": "Made cheese with 100% real mozzarella cheese, plain cheese pizza.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Makhni Sandwich",
+            "price": "₹120",
+            "description": "Makhani sauce, onion, corn and paneer.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Burger",
+            "price": "₹125",
+            "description": "Baked sliced bun stuffed with a cottage cheese patty, onion, tomato an",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Chicken Burger",
+            "price": "₹125",
+            "description": "[Spicy]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheese & Tomato Pizza",
+            "price": "₹130",
+            "description": "Cheese and tomato.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese & Onion Pizza",
+            "price": "₹130",
+            "description": "Onion and cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pizza Sandwich",
+            "price": "₹130",
+            "description": "Onion, capsicum, mushroom, corn, mozzarella cheese and pizza sauce.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken And Corn Cheese Sandwich",
+            "price": "₹130",
+            "description": "Chicken, corn and cheese.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Garlic Bread With Cheese",
+            "price": "₹140",
+            "description": "Bread baked in oven, infused with garlic flavour and topped with chees",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Delight Pizza",
+            "price": "₹149",
+            "description": "Sweet corn and chicken ham.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Golden Delight Pasta",
+            "price": "₹129",
+            "description": "Creamy white sauce, golden sweet corn, chicken, cheese",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "N V Extravaganza Pasta",
+            "price": "₹250",
+            "description": "Onion, capsicum, mushroom, chicken, chicken ham & extra cheese choose",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non Veg Achari Pasta",
+            "price": "₹240",
+            "description": "Homemade achari sauce, onion, capsicum, broccoli and spicy chicken.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mutton Pasta",
+            "price": "₹240",
+            "description": "Mutton kabab, onion, red paprika, broccoli and extra cheese, choose an",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Egg Pasta",
+            "price": "₹185",
+            "description": "Double egg, onion, capsicum, broccoli, cheese, red sauce.",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Bar Be Que Pasta",
+            "price": "₹250",
+            "description": "our homemade spl. BBQ sauce, onion, green pepper, chicken & extra chee",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Creamolatta Pasta",
+            "price": "₹240",
+            "description": "Onion, capsicum, yellow pepper, red pepper, mushroom, chicken, extra c",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Penne Al Forno Pasta",
+            "price": "₹210",
+            "description": "Chicken, mushroom & extra cheese choose any sauce (red, white, pink)",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Gamboroni Pasta",
+            "price": "₹240",
+            "description": "Pink sauce, chicken, mushroom, olive, broccoli, extra cheese",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "N V Makhani Pasta",
+            "price": "₹240",
+            "description": "Onion, capsicum, spicy chicken serve with delicious makhani sauce.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "N V Tandoori Pasta",
+            "price": "₹240",
+            "description": "Onion, mushroom, chicken ham serve with royal tandoori sauce.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non Veg Manchurian Pasta",
+            "price": "₹210",
+            "description": "Homemade manchurian sauce, (no MSG added), onion, capsicum, mushroom &",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spaghetti Bolognaise Pasta",
+            "price": "₹240",
+            "description": "Red pepper, yellow pepper, capsicum, chicken, extra cheese, red sauce",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Meat Lover's Pasta",
+            "price": "₹270",
+            "description": "Creamy white sauce, chicken, minced lamb, chicken ham, onon, black oli",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Makhani Paneer Pizza",
+            "price": "₹199",
+            "description": "Cottage cheese, jalapenos, onion, served with rich makhani sauce.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Px Delight Pizza",
+            "price": "₹199",
+            "description": "Onion, sweet corn, jalapeno and broccoli.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Fantasy Pizza",
+            "price": "₹180",
+            "description": "Jalapeno, sweet corn, black olives and extra cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Salsa Pizza",
+            "price": "₹199",
+            "description": "Onion, capsicum, mushroom and tomato served with royal tandoori sauce.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Philly Cheese Stix Pizza",
+            "price": "₹180",
+            "description": "Onion, capsicum, mushroom and red paprika, liquid cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Supreme Pizza",
+            "price": "₹220",
+            "description": "Onion, capsicum, mushroom, tomato, sweet corn and black olives.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Bbq Pizza",
+            "price": "₹180",
+            "description": "Onion, capsicum and cottage cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Fresh Veggie Pizza",
+            "price": "₹180",
+            "description": "Made with fresh and crunchy vegetables, onion, capsicum, tomatoes and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Px Deluxe Pizza",
+            "price": "₹180",
+            "description": "Onion, capsicum, sweet corn and cottage cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mutton Pizza",
+            "price": "₹210",
+            "description": "Onion, capsicum, red paprika and mutton kabab.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non-Veg Supreme Pizza",
+            "price": "₹250",
+            "description": "Onion, capsicum, mushroom, chicken ham, chicken sausage, spicy chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non-Veg Px Delight Pizza",
+            "price": "₹210",
+            "description": "Onion, capsicum, chicken ham and spicy chicken.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Fajita Pizza",
+            "price": "₹199",
+            "description": "Onion, capsicum, chicken sausage, spicy chicken, served with royal tan",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Maytte Meati Pizza",
+            "price": "₹210",
+            "description": "Onion, chicken ham, chicken sausage and spicy chicken.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Tikka Pizza",
+            "price": "₹199",
+            "description": "Onion, jalapenos and double topping of crunchy chicken.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Butter Chicken Pizza",
+            "price": "₹199",
+            "description": "Onion, triple topping of spicy chicken, served with makhani sauce.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non-Veg Philly Cheese Stix Pizza",
+            "price": "₹220",
+            "description": "Onion, capsicum, mushroom, chicken salami and red paprika.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non-Veg Bbq Pizza",
+            "price": "₹210",
+            "description": "Onion, capsicum, broccoli, chicken and chicken sausage.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "N.v.bbq Burger",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Non Veg Mint Burger",
+            "price": "₹125",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Non Veg Double Decker Burger",
+            "price": "₹190",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Chatkara Fries",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese Corn Triangles [8 Pieces",
+            "price": "₹140",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Fries",
+            "price": "₹150",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Garlic Bread Stix",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Exotic Garlic Bread",
+            "price": "₹170",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pizza Pouch",
+            "price": "₹170",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Garlic Bread Stix",
+            "price": "₹170",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Garlic Bread",
+            "price": "₹95",
+            "description": "Bread baked in oven, infused with garlic flavour",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Nuggets [8 Pieces]",
+            "price": "₹150",
+            "description": "Eight pieces",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Amchi Mumbai",
+            "price": "₹120",
+            "description": "Mashed Potato , Cucumber ,  Tomato Slice , Home Made Mint Chutney",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Magic",
+            "price": "₹110",
+            "description": "Onion, capsicum, jalapeno and cheese, peri peri seasoning.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Sanwich",
+            "price": "₹110",
+            "description": "Onion, capsicum, paneer and cheese.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Top In The Town Sandwich",
+            "price": "₹150",
+            "description": "Mayo, onion, capsicum, chicken tikka, chicken salami, chicken kabab an",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non Veg Makhani Sandwich",
+            "price": "₹140",
+            "description": "Makhani sauce, onion, chicken tikka and spicy chicken.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non Veg Pizza Sandwich",
+            "price": "₹160",
+            "description": "Pizza sauce, onion, capsicum, mushroom, chicken tikka, chicken kabab a",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Meat Hi Meat Sandwich",
+            "price": "₹150",
+            "description": "Mayo, onion, chicken tikka, chicken salami, chicken kabab and cheese.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Non Veg Jumbo Sandwich",
+            "price": "₹140",
+            "description": "Mayo, onion, capsicum, chicken kabab, chicken tikka with cheese.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mint Dip",
+            "price": "₹30",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Rosa Dip",
+            "price": "₹30",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Red Bull",
+            "price": "₹180",
+            "description": "[Not eligible for coupons]<br>FLAVOURED ENERGY DRINK",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Extra Mozrella",
+            "price": "₹70",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Extra Ketchup",
+            "price": "₹2",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Dip",
+            "price": "₹30",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese &tomato Treat",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/cVLxek-mJ8F8miH9ZgNhqyaDM4Z3YoxA3dum2IOmpt5kViE_Rfe_cScrW5u7tc9UtfxIgfpL2qjUtDD8w6uPj5OoD8XGnSlnMI927TJK=w192-rw",
+            "alt_text": "Pasta Xpress photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/DyJ81D77kUphf9gkGaNC0YZY9Em9RvyWgUS1iqwx7Fti87_K5qtGuGIML8jlGlLy6L5MtAri1kc8XEl-aX9cZWVa36eT3yLSBw8umdEv=w192-rw",
+            "alt_text": "Pasta Xpress photo 2"
+        }
+    ]
+}

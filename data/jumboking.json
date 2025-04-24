@@ -1,0 +1,271 @@
+{
+    "name": "Jumboking",
+    "location": "Sarojini Nagar, New Delhi.",
+    "cost_for_two": "Cost for two: ₹250",
+    "rating": "3.9",
+    "url": "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Jumboking/store/1676565/",
+    "address": "Paid Area, Sarojini Nagar Metro Station, Sarojini Nagar, New Delhi, Sarojini Nagar, New Delhi, New Delhi",
+    "contact": "+918383912125",
+    "description": "Jumboking is a F&amp;B-Casual Dining outlet that offers a wide variety of delicious and affordable Indian cuisine. The menu includes a variety of vegetarian and non-vegetarian dishes, as well as a selection of desserts. The restaurant has a relaxed and inviting atmosphere, with comfortable seating and friendly staff. The food is freshly prepared and served with a smile. Jumboking is the perfect place to enjoy a delicious meal with family and friends.",
+    "cuisines": [
+        "Burger"
+    ],
+    "operational_hours": {
+        "MONDAY": "08:45:00 - 22:00:00",
+        "TUESDAY": "08:45:00 - 22:00:00",
+        "WEDNESDAY": "08:45:00 - 22:00:00",
+        "THURSDAY": "08:45:00 - 22:00:00",
+        "FRIDAY": "08:45:00 - 22:00:00",
+        "SATURDAY": "08:45:00 - 22:30:00",
+        "SUNDAY": "08:45:00 - 22:30:00"
+    },
+    "menu_items": [
+        {
+            "name": "Mumbai Burger",
+            "price": "₹69",
+            "description": "Serve 1 (150gm) | Calories 378 |  India?s favorite irresistible potato",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Big Crunch Burger",
+            "price": "₹149",
+            "description": "Serve 1 (172gm) | Calories 395 | A fully loaded veg patty, topped with",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Cheese Burst Burger",
+            "price": "₹219",
+            "description": "Serve 1 (152gm) | Calories 486 | An extraordinary classic burger, over",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Crispy Veg Burger",
+            "price": "₹149",
+            "description": "Serve 1 (151gm) | Calories 312 | A crisp veggie patty, slathered with",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Macaroni Delight Burger",
+            "price": "₹149",
+            "description": "Serves 1 (192gm) | Calories 523| This saucy burger has a macaroni patt",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Nachos Burger",
+            "price": "₹149",
+            "description": "Serve 1 | A tantalizing fusion of flavors that will ignite your taste",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Schezwan Burger",
+            "price": "₹149",
+            "description": "Serve 1 | Indulge in the bold and fiery flavors of the Jumboking Schez",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zesty Paneer Burger",
+            "price": "₹219",
+            "description": "Serve 1 (196gm) | Calories 515 | A juicy cottage cheese patty coated w",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Fries",
+            "price": "₹99",
+            "description": "Serve 1 (155gm) | Calories 438 | Golden and crispy, these slender stic",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Loaded Fries",
+            "price": "₹149",
+            "description": "Serve 1 (194gm) | Calories 698 | Long Strips Of Potatoes Fried To Gold",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Loaded Fries",
+            "price": "₹149",
+            "description": "Serve 1 (199gm) | Calories 698| Golden Brown Strips Of Potato Dusted W",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chocolate Thick Shake (250 Ml)",
+            "price": "₹149",
+            "description": "Serve 1 (250 ml) | Calories 270 | Chocolate ice cream & chocolate syru",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Oreo Thick Shake(250 Ml)",
+            "price": "₹149",
+            "description": "Serve 1 (250 ml) | Calories 400 | A combination of ice cream, milk, ch",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Strawberry Thick Shake(250 Ml)",
+            "price": "₹149",
+            "description": "Serve 1 (250 ml) | Calories 400 | A combination of strawberries, ice c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Loaded Potato Popcorn",
+            "price": "₹105",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Big Crunch Burger + Fries + Coke (300 Ml)",
+            "price": "₹300",
+            "description": "Serve 1 | Calories 1109 | Enjoy a Big Crunch Burger + Fries + Cold Dri",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Cheese Burst Burger + Fries + Coke (300 Ml)",
+            "price": "₹369",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Crispy Veg Burger+ Fries + Coke (300 Ml)",
+            "price": "₹300",
+            "description": "Serve 1 | Calories 976 | Enjoy a crispy Veg Burger + Fries + Cold Drin",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Macaroni Delight Burger + Fries + Coke (300 Ml)",
+            "price": "₹300",
+            "description": "Serve 1 | Calories 1187 | Enjoy a Big Macaroni & Cheese Burger + Fries",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mumbai Burger + Fries + Coke (300 Ml)",
+            "price": "₹219",
+            "description": "Serve 1 | Calories 1042 |  India?s favorite irresistible potato patty",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Nachos Burger + Fries + Coke (300 Ml)",
+            "price": "₹300",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Schezwan Burger + Fries + Coke (300 Ml)",
+            "price": "₹300",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zesty Paneer Burger + Fries + Coke (300 Ml)",
+            "price": "₹369",
+            "description": "Serve 1 | Calories 1179 | A juicy cottage cheese patty coated with Ind",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Big Crunch Burger + Fries",
+            "price": "₹239",
+            "description": "Serve 1 (327 gm) Calories 833 |  Enjoy a Big Crunch Burger + Fries.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Cheese Burst Burger + Fries",
+            "price": "₹267",
+            "description": "Serve 1 (307 gm) Calories 924 | An extraordinary classic burger, overl",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Crispy Veg Burger + Fries",
+            "price": "₹239",
+            "description": "Serve 1 (306 gm) | Calories 750 | Enjoy a Crispy Veg Burger + Fries on",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Macaroni Delight Burger + Fries",
+            "price": "₹239",
+            "description": "Serve 1 ( 347 gm) | Calories 961 | Treat yourself with a Big Macaroni",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mumbai Burger + Fries",
+            "price": "₹159",
+            "description": "Serve 1 (305 gm) | Calories 816 | India?s favorite irresistible potato",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Nachos Burger + Fries",
+            "price": "₹239",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Schezwan Burger + Fries",
+            "price": "₹239",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zesty Paneer Burger + Fries",
+            "price": "₹267",
+            "description": "Serve 1 (351 gm) | 953 | A juicy cottage cheese patty coated with Indi",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Big Crunch + Fries + Thick Shake(250 Ml)",
+            "price": "₹389",
+            "description": "Serve 1 | Calories 1233 | Enjoy a Big Crunch Burger + Fries + Thicksha",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Cheese Burst Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹459",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Crispy Veg Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹389",
+            "description": "Serve 1 | Calories 1150 | Enjoy a crispy Veg Burger + Fries + Thicksha",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Macaroni Delight Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹389",
+            "description": "Serve 1 | Calories 1361 | Enjoy a Big Macaroni & Cheese Burger + Fries",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mumbai Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹309",
+            "description": "Serve 1 | Calories 1216 |  India?s favorite irresistible potato patty",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Nachos Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹389",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Schezwan Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹389",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zesty Paneer Burger + Fries + Thick Shake(250 Ml)",
+            "price": "₹459",
+            "description": "Serve 1 | Calories 1353 | A juicy cottage cheese patty coated with Ind",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Nachos Burger !",
+            "price": "₹149",
+            "description": "Serve 1 | A tantalizing fusion of flavors that will ignite your taste",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Schezwan Burger !",
+            "price": "₹149",
+            "description": "Serve 1 | Indulge in the bold and fiery flavors of the Jumboking Schez",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": []
+}

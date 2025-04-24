@@ -1,0 +1,448 @@
+{
+    "name": "Subway",
+    "location": "Connaught Place (Cp), Rajiv Chowk, New Delhi.",
+    "cost_for_two": "Cost for two: ₹400",
+    "rating": "4",
+    "url": "https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/",
+    "address": "(P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi",
+    "contact": "+919311994106",
+    "description": "Subway is a F&amp;B-QSR Indian outlet that offers a wide variety of delicious and healthy food options. It has a wide range of sandwiches, salads, wraps, and other items that are made with fresh ingredients. The food is prepared quickly and served in a friendly and welcoming atmosphere. The staff is friendly and helpful, and the prices are very reasonable. Subway also offers catering services for special occasions and events. The restaurant is clean and well-maintained, and the food is always fresh and delicious. Subway is a great place to enjoy a quick and tasty meal.",
+    "cuisines": [
+        "Healthy Food"
+    ],
+    "operational_hours": {
+        "MONDAY": "09:00:00 - 23:30:00",
+        "TUESDAY": "09:00:00 - 23:30:00",
+        "WEDNESDAY": "09:00:00 - 23:30:00",
+        "THURSDAY": "09:00:00 - 23:30:00",
+        "FRIDAY": "09:00:00 - 23:30:00",
+        "SATURDAY": "09:00:00 - 23:30:00",
+        "SUNDAY": "09:00:00 - 23:30:00"
+    },
+    "menu_items": [
+        {
+            "name": "Iced Green Tea- Mint Mojito 245ml",
+            "price": "₹95",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veggie & Cheese Toastie",
+            "price": "₹114",
+            "description": "The perfect on-the-go snack, enriched with mozzarella cheese, Tomatoes",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Veggie Craver (10cm)",
+            "price": "₹169",
+            "description": "A delicious veggie patty made with chickpeas and green peas tossed in",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Paneer Craver (10cm)",
+            "price": "₹169",
+            "description": "A crispy paneer patty with tangy mint and smoky tandoori mayo, topped",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Chicken Craver (10cm)",
+            "price": "₹169",
+            "description": "A Middle Eastern-inspired chicken patty with a garlic sauce, topped wi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veggie Delite Sandwich",
+            "price": "₹229",
+            "description": "Delicious combination of fresh lettuce, tomatoes, green peppers, cucum",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Aloo Patty Sandwich",
+            "price": "₹249",
+            "description": "Aloo patty seasoned with special herbs and spices, paired with your ch",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Corn & Peas Sandwich",
+            "price": "₹249",
+            "description": "A delicious assortment of green peas, golden corn and diced carrots, d",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Tikka Sandwich",
+            "price": "₹259",
+            "description": "A tangy twist to your favourite cottage cheese cubes marinated in tand",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Shammi Sandwich",
+            "price": "₹259",
+            "description": "Experience authentic flavours with kebab made of lentils and enriched",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilli Bean Patty Sandwich",
+            "price": "₹259",
+            "description": "A refreshing filling of red and black kidney beans patty topped with a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Tikka Signature Wrap",
+            "price": "₹299",
+            "description": "Double the yum with double portion of spicy, Paneer marinated in tando",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Seekh Craver (10cm)",
+            "price": "₹169",
+            "description": "An authentic chicken seekh kebab tossed in a tandoori mayo sauce, topp",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Chicken Craver (10cm)",
+            "price": "₹169",
+            "description": "A perfectly spiced chicken patty blended with fresh herbs, topped with",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Potato Chilli Cheese",
+            "price": "₹309",
+            "description": "Hot toasted sub loaded with 1.5x potato patty and real mozz cheese, to",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Paneer Tikka",
+            "price": "₹339",
+            "description": "Double the paneer, with real mozz cheese. Indulge in hot cheesy paneer",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Mexican",
+            "price": "₹329",
+            "description": "Hot and cheesy toasted sub with 1.5x chili bean patty, real mozz chees",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Chicken Tikka",
+            "price": "₹339",
+            "description": "Double the chicken, with real mozz cheese. Indulge in hot cheesy chick",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheesy American BBQ",
+            "price": "₹329",
+            "description": "Hot toasted sub loaded with 1.5x filling and real mozz cheese, topped",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Egg'n Chicken Melt",
+            "price": "₹309",
+            "description": "Hot toasted sub with a generous 1.5x filling of delicious egg and chic",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Keema Melt",
+            "price": "₹309",
+            "description": "Hot and cheesy toasted sub with 1.5x chicken keema, real mozz cheese,",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheesy Lamb Pepperoni",
+            "price": "₹349",
+            "description": "Hot toasted sub filled with 1.5x lamb pepperoni (100% NZ quality), rea",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Subs + Side + Coke (Save Upto Rs199)",
+            "price": "₹360",
+            "description": "Enjoy a veg Create Your Own sub of your choice, with your favourite dr",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Non-Veg Subs + Side + Coke (Save Upto Rs155)",
+            "price": "₹398",
+            "description": "Enjoy any non-veg sub of your choice, with your favourite drink and a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "2 Veg Subs + Coke (Save Upto Rs169)",
+            "price": "₹439",
+            "description": "Combo of two freshly made veg subs of your choice with a drink. Offers",
+            "food_type": "Veg"
+        },
+        {
+            "name": "2 Veg Premium Subs + Coke (Save Upto Rs179)",
+            "price": "₹489",
+            "description": "Combo of two freshly made veg subs of your choice from our premium ran",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Any 2 Veg/Non-Veg Subs + Coke (Save Upto Rs200)",
+            "price": "₹539",
+            "description": "Combo of any two freshly made veg/non-veg subs of your choice with a d",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Meatball Sandwich",
+            "price": "₹269",
+            "description": "Authentic indian meatballs perfectly seasoned and spiced served along",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Slice Sandwich",
+            "price": "₹269",
+            "description": "Sliced smoked chicken with your choice of nutritious vegetables, serve",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Teriyaki Sandwich",
+            "price": "₹299",
+            "description": "Chicken strips glazed with teriyaki sauce, combined with your favourit",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "B.M.T Sandwich",
+            "price": "₹319",
+            "description": "Protein-enriched classic Italian B.M.T. sub with a mix of tasty chicke",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Chicken Sandwich",
+            "price": "₹279",
+            "description": "Let your tastebuds travel the world with African peri-peri flavoured c",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tandoori Chicken Tikka Sandwich",
+            "price": "₹279",
+            "description": "Hearty chicken marinated with flavorful ingredients like yogurt, garli",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tuna Sandwich",
+            "price": "₹319",
+            "description": "Flaked light tuna mixed with eggless mayo and heaped onto your choice",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Roasted Chicken Strip Sandwich",
+            "price": "₹279",
+            "description": "Classic preparation of succulent strips of smoked chicken served with",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Chicken Keema Sandwich",
+            "price": "₹269",
+            "description": "Spicy & juicy chicken keema served along with wholesome veggies and pa",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Italian B.M.T (Lamb)",
+            "price": "₹316",
+            "description": "Protein-enriched classic Italian B.M.T. sub with a mix of lamb peppero",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Lamb Pepperoni",
+            "price": "₹316",
+            "description": "Indulge in 100% NZ quality lamb pepperoni with real mozz cheese, your",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Slice Salad",
+            "price": "₹319",
+            "description": "Simple. Delicious. Smoked chicken slices topped on wholesome and nutri",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoked Chicken Strips Salad",
+            "price": "₹319",
+            "description": "Classic preparation of succulent smoked chicken strips, along with you",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Teriyaki Salad",
+            "price": "₹319",
+            "description": "Enjoy our teriyaki flavours in a salad. Chicken strips glazed with ter",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "B.M.T. Salad",
+            "price": "₹319",
+            "description": "Who said salads have to be boring! Turn your favourite sub into a sala",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Chicken Salad",
+            "price": "₹319",
+            "description": "Let your tastebuds travel the world with African peri-peri flavoured c",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Meatball Salad",
+            "price": "₹319",
+            "description": "The chicken meatball salad is the ultimate craving crusher. Authentic",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tuna Salad",
+            "price": "₹319",
+            "description": "Flaked light tuna mixed with eggless mayo and added to your choice of",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Chicken Tikka Salad",
+            "price": "₹319",
+            "description": "Hearty chicken marinated with Indian spices and cooked to perfection.",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Chicken Keema Salad",
+            "price": "₹319",
+            "description": "Spicy & juicy chicken keema served along with wholesome veggies. Servi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Italian B.M.T (Lamb) Salad",
+            "price": "₹335",
+            "description": "Protein-enriched classic Italian B.M.T. salad with a mix of lamb peppe",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Lamb Pepperoni Salad",
+            "price": "₹335",
+            "description": "Let your tastebuds travel the world with 100% n NZ quality lamb pepper",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoked Chicken Strips Signature Wrap",
+            "price": "₹319",
+            "description": "A classic that packs the goodness of double the filling. Double portio",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Slice Signature Wrap",
+            "price": "₹319",
+            "description": "Get an explosion of yumminess! Double portion of sliced chicken combin",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken Signature Wrap",
+            "price": "₹319",
+            "description": "Double portion of African peri-peri flavoured chicken, along with high",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Meatball Sig. Wrap",
+            "price": "₹319",
+            "description": "Enjoy twice the amount of filling with this wrap. Double portion of au",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Teriyaki Signature Wrap",
+            "price": "₹319",
+            "description": "Get double the goodness. Double portion of teriyaki glazed chicken str",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tuna Signature Wrap",
+            "price": "₹319",
+            "description": "Yummmy, its the tuna wrap! Double portion of flaked tuna mixed with ma",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Chicken Tikka Signature Wrap",
+            "price": "₹319",
+            "description": "Enjoy double the filling in this hearty wrap. Double portion of chicke",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Chicken Keema Signature Wrap",
+            "price": "₹329",
+            "description": "Spicy & juicy chicken keema served along with wholesome veggies and pa",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Lamb Pepperoni Sig. Wrap",
+            "price": "₹344",
+            "description": "Get an explosion of yumminess! Try our new lamb pepperoni (100% NZ qua",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Italian B.M.T (Lamb) Sig. Wrap",
+            "price": "₹344",
+            "description": "A protein overload that's balanced to perfection. Get a double portion",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Sizzling Jalapeno Cornitos",
+            "price": "₹33",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese & Herbs Cornitos",
+            "price": "₹33",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Bingo Chips - Salt",
+            "price": "₹25",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Raw Choco Mint Protein Shake 195ml",
+            "price": "₹124",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Raw Coconut Water 200ml",
+            "price": "₹95",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Iced Green Tea - Peach 245ml",
+            "price": "₹95",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Smoothie 200ml",
+            "price": "₹95",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Oatmeal Raisin Cookie (eggless)",
+            "price": "₹75",
+            "description": "Like something extra and sweet add some sweetness with your favourite",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Double Dark Chunk Chocolate Cookie (eggless)",
+            "price": "₹75",
+            "description": "Tasty & chocolatey. Now enjoy your favourite double dark chocolate chu",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Dark Chunk Chocolate Cookie (eggless)",
+            "price": "₹75",
+            "description": "Craving for chocolate, now enjoy your favourite dark chunk chocolate c",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/tsMcy4pJwo5sBVcLEzP6JIMkdUwccaaB7iWJTMVtAGRFAiC-yAlrY6K0c3aehPBqWO4FePidXjmVgX2EqN5nkCf8aRYzqdAMxwqRqLOy=w192-rw",
+            "alt_text": "Subway photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/eQy3nlU124CZcnxRn8a5l7gwRpAjP-OAln8pRi49zprSnHTsLDysQJrUGo0hPe54LMIphCL93W7W7LQ60p4C25saHvt6e2F2-7e4kdgm=w192-rw",
+            "alt_text": "Subway photo 2"
+        }
+    ]
+}

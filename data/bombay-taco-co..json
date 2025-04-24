@@ -1,0 +1,224 @@
+{
+    "name": "Bombay-Taco-Co.",
+    "location": "Pali Hill, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.5",
+    "url": "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Bombay-Taco-Co./store/637073/",
+    "address": "Shop 08, Ground Floor, Rafi Mansion, Guru Nanak Park, Pali Hill, Pali Hill, Mumbai, Mumbai",
+    "contact": "+918591174660",
+    "description": "Bombay Taco Co. is a F&amp;B-Casual Dining outlet that serves up delicious Mexican-Indian fusion cuisine. The restaurant offers a wide variety of tacos, burritos, quesadillas, and other Mexican-inspired dishes. The menu also features a selection of Indian-inspired dishes such as curries, tandoori, and biryani. The restaurant has a vibrant atmosphere with colorful decor and upbeat music. The staff is friendly and attentive, and the food is always fresh and flavorful. Bombay Taco Co. is the perfect spot for a casual lunch or dinner with friends and family.",
+    "cuisines": [
+        "Mexican",
+        "Salad",
+        "Fast Food",
+        "Juices",
+        "Light Bites"
+    ],
+    "operational_hours": {
+        "MONDAY": "12:00:00 - 00:00:00",
+        "TUESDAY": "12:00:00 - 00:00:00",
+        "WEDNESDAY": "12:00:00 - 00:00:00",
+        "THURSDAY": "12:00:00 - 00:00:00",
+        "FRIDAY": "12:00:00 - 00:00:00",
+        "SATURDAY": "12:00:00 - 00:00:00",
+        "SUNDAY": "12:00:00 - 00:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Cheese Saucy Nachos",
+            "price": "₹259",
+            "description": "Masala flavoured & layered with cheese & sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheese Saucy Fries",
+            "price": "₹259",
+            "description": "Masala flavoured & layered with cheese sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pineapple Kombucha",
+            "price": "₹336",
+            "description": "Pineapple Kombucha is our fermented, lightly effervescent, sweetened b",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Delhi Fried Chicken Taco",
+            "price": "₹382",
+            "description": "Laccha Onion Slaw,  Chaas Ranch, Thecha, 2 Taco per serving Mayo, 2 So",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "BTC Popcorn Chicken Nachos",
+            "price": "₹539",
+            "description": "Our specialty homemade nachos sprinkled with our secret masala. Loaded",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Beetroot Falafel Taco",
+            "price": "₹269",
+            "description": "Kachumbar Slaw, Garlic Sour Cream, Hot Sauce, 2 Soft Taco per serving",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Makhani Taco",
+            "price": "₹337",
+            "description": "Smoked Makhani Gravy, Lacha Onions, Lime Sour Cream, 2 Soft Taco per s",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Kanda Bhaji Taco",
+            "price": "₹269",
+            "description": "Shredded Iceberg, Avocado Chutney, Thecha Mayo, 2 Soft Taco per servin",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cauliflower And Mushroom 65 Taco",
+            "price": "₹292",
+            "description": "Raw Mango Kachumar, Homemade Guacamole, Thecha Mayo, 2 Soft Taco per s",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Kothimbir Vadi Taco",
+            "price": "₹292",
+            "description": "Raw Mango Kachumbar, Avocado Chutney, 2 Soft Taco per serving",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chile Relleno",
+            "price": "₹399",
+            "description": "Sauted Jalapeno pepper and melted cheese bites served with spicy chipo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chili Corn Cheese Quesadilla",
+            "price": "₹579",
+            "description": "Mozzarella cheese, bell peppers, fried corn, pickled onions",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilli Lime Corn Ribs",
+            "price": "₹399",
+            "description": "Chili lime desi bhutta served with chipotle mayo and our hot sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mexican Habanero Corn Ribs",
+            "price": "₹399",
+            "description": "Mexican habanero flavoured bhutta served with oregano and our hot sauc",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Kolhapuri Thecha Corn Ribs",
+            "price": "₹433",
+            "description": "Kolhapuri laal thecha butter bhutta served with our hot sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "BTC Veggieful Nachos",
+            "price": "₹449",
+            "description": "Our specialty homemade nachos sprinkled with our homemade masala. Load",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Desi Chilaquiles",
+            "price": "₹399",
+            "description": "Totilla Chips Tossed with Salsa Sauce Softened with Cheese and Egg",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Popcorn Chicken Mexican Rice",
+            "price": "₹429",
+            "description": "A sweet & savory Arroz Rojo of basmati rice simmered in a tangy 🍅 tom",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veggieful Chipotle Mexican Rice",
+            "price": "₹469",
+            "description": "A sweet & savory Arroz Rojo of basmati rice simmered in a tangy 🍅 tom",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Kheema Mex-Pizza",
+            "price": "₹499",
+            "description": "Cheese Tortilla Dual Stack of Bell Peppers, Beans, Desi Bhutta and Jal",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "BTC Mex Veggie Thali",
+            "price": "₹499",
+            "description": "Veggie Rice | Churros | Soup | Chocolate Sauce | Nachos | Mex-rice Gra",
+            "food_type": "Veg"
+        },
+        {
+            "name": "BTC Mex Chicken Thali",
+            "price": "₹599",
+            "description": "Chicken Rice | Churros | Soup | Chocolate Sauce | Nachos | Mex-rice Gr",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veggieful Chipotle Thali",
+            "price": "₹499",
+            "description": "Veggie Rice | Churros | Taco | Chocolate Sauce | Nachos | Mex-rice Gra",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Popcorn Chicken Thali",
+            "price": "₹599",
+            "description": "Chicken Rice | Churros | Taco | Chocolate Sauce | Nachos | Mex-rice Gr",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Steak Chili Fries",
+            "price": "₹454",
+            "description": "Red meat and layered with cheese sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Lavender Lemonade [JG]",
+            "price": "₹279",
+            "description": "Full of floral and bright, zesty flavor, it's our refreshing spin on a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Dark Cacao Honey Churros",
+            "price": "₹299",
+            "description": "Mini pocket of crunchy pâte à choux dough rolled in cinnamon sugar and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Crème Caramel Churros",
+            "price": "₹299",
+            "description": "Mini pocket of crunchy pâte à choux dough rolled in cinnamon sugar and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cookie Dough",
+            "price": "₹299",
+            "description": "Sweet, ready-to-eat, egg-free & ridiculously tasty dough rolled with c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Fool",
+            "price": "₹399",
+            "description": "Aamras and Greek Yogurt",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ras Kombucha",
+            "price": "₹399",
+            "description": "Aamrus & Fermented fizzy tea drink, shaded with Pineapple Juice",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/xlpVartZ8R_GgvwZKMw1vQzEbqEjSWCMM7sBn5vRI_e6k0uvbtAcWgsMx7nfqRHv_d49QxwAm-SV7fwYpY0TL5vTV9gqcyvUpaX5Bmk=w192-rw",
+            "alt_text": "Bombay Taco Co. photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/NLtozuSpVoqovpZaBaLUpdz2Ny6nt2yoyfDwLgxtNBmGWiv_UT1whicnkbPkaoNxTo8JShrO6NoN1kXEi_OcCZkX7vSwqcO8Rz8NcPAu=w192-rw",
+            "alt_text": "Bombay Taco Co. photo 2"
+        }
+    ]
+}

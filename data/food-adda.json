@@ -1,0 +1,571 @@
+{
+    "name": "Food-Adda",
+    "location": "Lajpat Nagar, Lajpat Nagar 4, New Delhi.",
+    "cost_for_two": "Cost for two: ₹200",
+    "rating": "3.5",
+    "url": "https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/",
+    "address": "Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi",
+    "contact": "+919910864965",
+    "description": "Food Adda is a F&amp;B-Casual Dining outlet that offers a wide variety of delicious and mouth-watering dishes. It is a perfect place to enjoy a meal with family and friends. The restaurant has a cozy and inviting atmosphere with comfortable seating and a friendly staff. The menu features a variety of Indian, Chinese, and Continental dishes. The food is freshly prepared and cooked to perfection. The restaurant also offers a variety of beverages and desserts. Food Adda is the perfect place to enjoy a delicious meal in a relaxed and comfortable setting.",
+    "cuisines": [
+        "Desserts"
+    ],
+    "operational_hours": {
+        "MONDAY": "10:00:00 - 21:00:00",
+        "TUESDAY": "10:00:00 - 21:00:00",
+        "WEDNESDAY": "10:00:00 - 21:00:00",
+        "THURSDAY": "10:00:00 - 21:00:00",
+        "FRIDAY": "10:00:00 - 21:00:00",
+        "SATURDAY": "10:00:00 - 21:00:00",
+        "SUNDAY": "10:00:00 - 21:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Boondi Raita",
+            "price": "₹80",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Curd",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Papad",
+            "price": "₹10",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pineapple Raita",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mixed Veg Raita",
+            "price": "₹80",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Roll",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilli Paneer Roll",
+            "price": "₹140",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Egg Roll",
+            "price": "₹150",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Roll",
+            "price": "₹130",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Egg Roll",
+            "price": "₹70",
+            "description": "N/A",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Chilli Chicken Roll",
+            "price": "₹150",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Butter Chicken Qtr + Tawa Butter Roti (2 Pc)",
+            "price": "₹270",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Kadai Chicken Qtr + Tawa Butter Roti (2 Pc)",
+            "price": "₹270",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Tandoori [Quarter] With Coke [250 Ml]",
+            "price": "₹220",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Shahi Paneer + Tawa Butter Roti (2 Pcs)",
+            "price": "₹200",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Curry Qtr + Tawa Butter Roti (2pcs)",
+            "price": "₹270",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cheese Burger",
+            "price": "₹70",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Burger",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Burger",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Sweet Lassi",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Masala Lassi",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Hakka Noodles",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Singapuri Chowmein",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mixed Hakka Noodles",
+            "price": "₹130",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Chowmein And Rice",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mixed Chowmein",
+            "price": "₹130",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Chowmein",
+            "price": "₹110",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Malai Tikka",
+            "price": "₹519",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mutton Seekh Kabab",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Tikka",
+            "price": "₹299",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Seekh Kebab",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Afgani Chicken",
+            "price": "₹299",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tandoori Aloo [4 Pieces]",
+            "price": "₹149",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Chicken",
+            "price": "₹229",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hariyali Chicken Tikka",
+            "price": "₹299",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Soya Chaap Tandoori",
+            "price": "₹169",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Tikka [6 Pieces]",
+            "price": "₹199",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Achari Chicken",
+            "price": "₹299",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Double Egg Paratha",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Rumali Roti",
+            "price": "₹18",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Stuffed Naan",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Onion Paratha",
+            "price": "₹59",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Paratha",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Gobi Paratha (Seasonal)",
+            "price": "₹59",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Butter Naan",
+            "price": "₹35",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Butter Roti",
+            "price": "₹15",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Egg Paratha",
+            "price": "₹59",
+            "description": "N/A",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Aloo Paratha",
+            "price": "₹49",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Plain Naan",
+            "price": "₹25",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Laccha Paratha",
+            "price": "₹39",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Butter Roti",
+            "price": "₹15",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Kadai Paneer + Tawa Butter Roti (2 Pcs)",
+            "price": "₹250",
+            "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chole Bhature",
+            "price": "₹100",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Spring Roll",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Spring Roll",
+            "price": "₹90",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Ginger",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Lollipop",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Lemon",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Sweet And Sour Gravy",
+            "price": "₹169",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chilli Chicken",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Garlic",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Manchurian Gravy",
+            "price": "₹299",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Lollipop Masala",
+            "price": "₹189",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Pulao",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Matar Pulao",
+            "price": "₹149",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Jeera Rice",
+            "price": "₹119",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Plain Rice",
+            "price": "₹99",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Curry",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Masala",
+            "price": "₹399",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Lababdar",
+            "price": "₹399",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tawa Chicken",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Rara",
+            "price": "₹399",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Handi",
+            "price": "₹399",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Kadai Chicken",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Butter Chicken",
+            "price": "₹249",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Do Pyaza",
+            "price": "₹399",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Tomato Soup",
+            "price": "₹89",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Manchow Soup",
+            "price": "₹129",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Hot And Sour Soup",
+            "price": "₹119",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Sweet Corn Soup",
+            "price": "₹119",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Noodles Soup",
+            "price": "₹99",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Thukpa Soup",
+            "price": "₹129",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Fried Momos",
+            "price": "₹70",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Kurkure Momos",
+            "price": "₹90",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Kurkure Momos",
+            "price": "₹150",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Paneer Kurkure Momos",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Fried Momos",
+            "price": "₹130",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Steamed Momos",
+            "price": "₹120",
+            "description": "N/A",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Paneer Steamed Momos",
+            "price": "₹90",
+            "description": "Half 4 pieces.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Fried Momos",
+            "price": "₹100",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Steamed Momos",
+            "price": "₹60",
+            "description": "N/A",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": []
+}

@@ -1,0 +1,546 @@
+{
+    "name": "Poetry-By-Love-and-Cheesecake",
+    "location": "Link Square Mall, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.4",
+    "url": "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/Poetry-By-Love-and-Cheesecake/store/8b485/",
+    "address": "Shop 1 And 2, Ground Floor, Kamal Vishrantee Kutir, 24Th Road, Opposite St Theresa School, Pali Hill, Bandra West, Mumbai, Link Square Mall, Mumbai, Mumbai",
+    "contact": "+918291295412",
+    "description": "Poetry By Love And Cheesecake is a F&amp;B-Fine Dining restaurant that offers a unique dining experience. The restaurant serves a variety of dishes, from classic comfort food to modern fusion cuisine. The atmosphere is cozy and inviting, with a warm and inviting ambiance. The menu features a selection of appetizers, entrees, desserts, and drinks. The restaurant also offers a variety of special events, such as wine tastings and live music. The staff is friendly and attentive, and the service is top-notch. Poetry By Love And Cheesecake is the perfect place to enjoy a delicious meal with friends and family.",
+    "cuisines": [
+        "Desserts",
+        "Cafe",
+        "Bakery",
+        "Continental",
+        "Juices",
+        "Light Bites",
+        "Pasta",
+        "Finger Food",
+        "Coffee"
+    ],
+    "operational_hours": {
+        "MONDAY": "08:00:00 - 00:00:00",
+        "TUESDAY": "08:00:00 - 00:00:00",
+        "WEDNESDAY": "08:00:00 - 00:00:00",
+        "THURSDAY": "08:00:00 - 00:00:00",
+        "FRIDAY": "08:00:00 - 00:00:00",
+        "SATURDAY": "08:00:00 - 00:00:00",
+        "SUNDAY": "08:00:00 - 00:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Chocolate Tiramisu (Slice)",
+            "price": "₹216",
+            "description": "If youre a fan of the classic italian tiramisu dessert, then youre rea",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Original Ny Style Cheesecake (Slice)",
+            "price": "₹244",
+            "description": "Light and fluffy this cheesecake whispers with a hint of lemon zest an",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Club Sandwich",
+            "price": "₹440",
+            "description": "Ettuce, tomato, gherkin, dijon mustard, egg,\nmelted cheddar on toasted",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Turkish Eggs",
+            "price": "₹350",
+            "description": "Poached eggs, creamy garlic yogurt,\nspiced olive oil dressing, sourdou",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Roasted Tomato & Basil Soup",
+            "price": "₹220",
+            "description": "Indulge in the comforting flavors of our Roasted Tomato & Basil Soup.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Milkshakes",
+            "price": "₹370",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Loaded Classic Nachos",
+            "price": "₹420",
+            "description": "A delicious and satisfying appetizer featuring a generous portion of c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Blueberry Banana Smoothie Bowl",
+            "price": "₹360",
+            "description": "Blueberries, banana, yogurt, granola, almonds",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Brownie & Nutella Milkshake",
+            "price": "₹295",
+            "description": "Indulge in the ultimate chocolate lover's dream with our Brownie & Nut",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spaghetti Pomodoro",
+            "price": "₹440",
+            "description": "Cherry tomato, parmesan cheese, basil",
+            "food_type": "Veg"
+        },
+        {
+            "name": "California Club Panini",
+            "price": "₹510",
+            "description": "Avocado, lettuce, cream cheese, tomato, pesto, parmesan\non a herbed pa",
+            "food_type": "Veg"
+        },
+        {
+            "name": "The Brunch Burger",
+            "price": "₹450",
+            "description": "chicken burger patty, sunny side egg, iceberg,\nhollandaise sauce, toma",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Paprika Spiced Roast Chicken",
+            "price": "₹420",
+            "description": "W/sauteed vegetables, potato mash, arugula",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mango & Mascarpone Crepes",
+            "price": "₹545",
+            "description": "Delight in our Mango & Mascarpone Crepes: delicate, thin crepes filled",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Avo Chilli Cheese Scrambled Egg Croissant",
+            "price": "₹470",
+            "description": "Avocado, arugula, bell pepper, cheddar, fries",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Bbq Smothered Chicken Sandwich",
+            "price": "₹510",
+            "description": "On an open-faced herb panini",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Risotto Alla Paprika",
+            "price": "₹635",
+            "description": "Paprika sauce - chicken, mushroom, parmesan",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Pocket",
+            "price": "₹500",
+            "description": "Grilled chicken, stuffed with spinach\nherbed mushrooms & mozzarella, s",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Black Peppercorn Chicken Steak",
+            "price": "₹570",
+            "description": "Chicken steak, carrot, broccoli, french beans,\nmustard, potato mash, b",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Vegetarian Stroganoff",
+            "price": "₹420",
+            "description": "Grilled vegetables, smothered in sour cream stroganoff\nsauce with mush",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pink Sauce Pasta",
+            "price": "₹440",
+            "description": "Equal parts of red sauce and white alfredo sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Mojito",
+            "price": "₹260",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Parfait",
+            "price": "₹545",
+            "description": "Granola, mango , yogurt",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Pancakes",
+            "price": "₹480",
+            "description": "Golden, fluffy pancakes bursting with juicy alphonso mango chunks, dri",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango Waffles",
+            "price": "₹515",
+            "description": "Our Mango Waffles are golden, crispy waffles infused with sweet mango",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mangoes & Cream",
+            "price": "₹445",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mango French Toast",
+            "price": "₹595",
+            "description": "Savor the tropical delight of our Mango French Toast: thick slices of",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Club Sandwich Combo",
+            "price": "₹519",
+            "description": "(Sandwich, Fries, Salad & Choice of Beverage) Indulge in our Veg Club",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mushroom Swiss Burger Combo",
+            "price": "₹719",
+            "description": "(Burger + Fries + Salad + Choice of Beverage) Indulge in our Mushroom",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Club Sandwich Combo",
+            "price": "₹529",
+            "description": "(Sandwich, Fries, Salad & Choice of Beverage) Indulge in our mouthwate",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Italian Chicken Wrap Combo",
+            "price": "₹619",
+            "description": "(Wrap, Fries, Salad & Choice of Beverage) Savory grilled chicken meets",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Buffalo Chicken Burger Combo",
+            "price": "₹719",
+            "description": "(Burger + Fries + Salad + Choice of Beverage) Savor the fiery flavor o",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Sriracha Chicken Burger Combo",
+            "price": "₹719",
+            "description": "(Burger + Fries + Salad + Choice of Beverage) ndulge in a succulent sr",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Continental Breakfast",
+            "price": "₹420",
+            "description": "Seasonal sliced fruits + Bread basket - freshly baked butter croissant",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Full English Breakfast",
+            "price": "₹760",
+            "description": "Seasonal Sliced Fruits + Bread Basket - Freshly Baked Assortment Of Br",
+            "food_type": "Veg"
+        },
+        {
+            "name": "All American Breakfast 1",
+            "price": "₹760",
+            "description": "Seasonal Sliced Fruits + Bread Basket -Freshly Baked Assortment Of Bre",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Vegetarian Breakfast 1",
+            "price": "₹795",
+            "description": "Smashed avocado on sourdough, avocado, feta, pickled onion , on multig",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Vegetarian Breakfast 3",
+            "price": "₹750",
+            "description": "Hash Brown Potato Pancakes, served with a house favorite diavolo spice",
+            "food_type": "Veg"
+        },
+        {
+            "name": "All American Breakfast 2",
+            "price": "₹750",
+            "description": "House favorite blueberry pancake server with maple syrup ,seasonal sli",
+            "food_type": "Egg"
+        },
+        {
+            "name": "All American Breakfast 3",
+            "price": "₹795",
+            "description": "Belgian Chocolate Waffle,chocolate truffle, melted callebout chocolate",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Vegetarian Breakfast 2",
+            "price": "₹750",
+            "description": "Breakfast Burrito, guocamole, black beans,  sprouts, bell pepper, mozz",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Stuffed Omelette",
+            "price": "₹400",
+            "description": "Mushrooms, onions, sun-dried tomatoes,\nspinach, mozzarella, served wit",
+            "food_type": "Veg"
+        },
+        {
+            "name": "The Popeye",
+            "price": "₹400",
+            "description": "Scrambled eggs, spinach, onion, yellow cheddar",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Skinny Omelette",
+            "price": "₹420",
+            "description": "Egg whites, mushrooms, roasted peppers, goat cheese",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Scrambled Eggs",
+            "price": "₹470",
+            "description": "Arugula, truffe oil on multigrain sourdough",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Loaded Omelette",
+            "price": "₹470",
+            "description": "chicken sausage, bacon, cheddar, salsa, caramelised\nonions, BBQ sauce,",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Build Your Own Eggs (Choice Of Four)",
+            "price": "₹470",
+            "description": "Create your ultimate breakfast experience with our build-your-own eggs",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Eggs Benny",
+            "price": "₹520",
+            "description": "ham, spinach, mushrooms, iceberg, hashbrown,\ntomato, poached eggs on a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Fluffy Banana Pancake",
+            "price": "₹340",
+            "description": "Enjoy a stack of fluffy banana pancakes for breakfast! Made with ripe",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Old School Pancake",
+            "price": "₹340",
+            "description": "Made with fluffy buttermilk batter and cooked to golden perfection, th",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Blueberry Pancake",
+            "price": "₹360",
+            "description": "A house favourite! Fluffy buttermilk pancakes filled with juicy bluebe",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Toast - Classic",
+            "price": "₹440",
+            "description": "N/A",
+            "food_type": "Egg"
+        },
+        {
+            "name": "Belgian Chocolate Waffle",
+            "price": "₹460",
+            "description": "A deliciously crispy belgian waffle infused with rich, decadent chocol",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Nutella Pancake",
+            "price": "₹470",
+            "description": "A deliciously fluffy pancake made with a homemade batter, topped with",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Nutella French Toast",
+            "price": "₹480",
+            "description": "Indulge in the ultimate breakfast delight with our Nutella French Toas",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Smoked Paprika Hummus & Pita",
+            "price": "₹340",
+            "description": "Smoky and spicy, our Smoked Paprika Hummus is made with chickpeas, tah",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Sourdough Cheese Garlic Bread",
+            "price": "₹395",
+            "description": "Freshly baked sourdough bread, slathered with garlic butter and topped",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Avocado Bruschetta Tartine",
+            "price": "₹410",
+            "description": "Avocado bruschetta tartine is a delicious appetizer or light meal that",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Tikka Roll",
+            "price": "₹395",
+            "description": "Experience the flavorful delight of our Chicken Tikka Roll—a tantalizi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Meatballs In Chimichuri Sauce",
+            "price": "₹420",
+            "description": "Tender chicken meatballs, crafted with care and simmered in a vibrant",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cajun Spiced Potato Fries",
+            "price": "₹260",
+            "description": "Cajun spiced potato fries are crispy, golden-brown potato fries that a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken & Cheese Sticks In Marinara Sauce",
+            "price": "₹425",
+            "description": "Introducing our Paneer Akuri: A delightful twist on the classic Parsi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Club Sandwich",
+            "price": "₹470",
+            "description": "Avocado, bell pepper, zucchini, tomato, mushroom,\nlettuce, dijon musta",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Portobello Panino Sandwich",
+            "price": "₹490",
+            "description": "Mushroom, mozzarella, lettuce, pesto mayo, herb panini",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Black Bean Quinoa Burger",
+            "price": "₹510",
+            "description": "W/lettuce, tomato, chipotle, caramelised onion, gherkin,\nmelted chedda",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Roasted Chicken Pesto Melt On Sourdough",
+            "price": "₹420",
+            "description": "With caramelised onions",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Spicy Sriracha Chicken Burger",
+            "price": "₹430",
+            "description": "Sriracha fried chicken, w/caramelised onions, tomato,\niceberg, cheddar",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Grilled Chicken Pesto Wrap",
+            "price": "₹470",
+            "description": "W/iceberg, cheddar, tomato, onion, in a tortilla wrap",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Ham & Cheese Croissant Sandwich",
+            "price": "₹510",
+            "description": "W/lettuce, gherkin, honey mustard glaze on butter croissant",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pesto Risotto",
+            "price": "₹595",
+            "description": "Arugula, basil pesto, sauteed mushroom",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spaghetti Red Pasta",
+            "price": "₹595",
+            "description": "truffle tomato sauce spinach & Herbed parmesan balls",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spaghetti Aglio E Olio",
+            "price": "₹420",
+            "description": "Fresh garlic, olive oil, chilli flakes, parmesan",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Red Sauce Pasta",
+            "price": "₹420",
+            "description": "Classic Italian tomato sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Alfredo",
+            "price": "₹460",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pesto Pasta",
+            "price": "₹495",
+            "description": "Fresh basil,pine nuts,garlic,olive olive oil & cheese",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Honey Roasted Carrots & Veggies In Turkish Hyadiri Sauce",
+            "price": "₹420",
+            "description": "Carrots, zucchini, bell peppers, pita bread",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Sauted Mushrooms With Creamy Mash",
+            "price": "₹420",
+            "description": "Garlic-kissed plump mushrooms over a  fluffy potato mash",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spinach Croquettes In A Caramelized Onion Gratin",
+            "price": "₹495",
+            "description": "Golden, crisp spinach & cheese fritters, nestled in a bed of creamy ca",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Vegetarian Lasagne",
+            "price": "₹495",
+            "description": "Layers of fresh, seasonal vegetables, creamy béchamel & melty cheese b",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken In Spicy Honey Orange Glaze",
+            "price": "₹470",
+            "description": "Honey glazed breast of chicken, stuffed with\nspinach & peppers, cooked",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Bacon And Cheddar Chicken",
+            "price": "₹495",
+            "description": "Served with a veggie-bacon sauce",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken & Mushroom Stroganoff",
+            "price": "₹495",
+            "description": "Golden seared chicken breast, smothered in\nsour cream stroganoff sauce",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Toasted Quinoa & Eggplant Balls In Marinara Sauce",
+            "price": "₹495",
+            "description": "Served with multigrain sourdough bread",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Coffee Frappe",
+            "price": "₹240",
+            "description": "A popular iced coffee beverage that combines coffee, milk, and ice, bl",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/QHJx2DKcd7ARCDEWtMqx9KqZxA8fR6d8xgIupy9QfGxeRhydBDuCx0mP5cXzLpZ9DZMTJRiPmp5FLk-IADNCofcKyEc=w192-rw",
+            "alt_text": "Poetry By Love & Cheesecake photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/RHCAWJhew9xFmv9SWXx7OBUmgVbnF-o8j4BUoAN23JihHasgibHG_xZdTPxzod25mtG1LXtDnrzLt05OwRdw37-3ZdM=w192-rw",
+            "alt_text": "Poetry By Love & Cheesecake photo 2"
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "name": "Kfc",
+    "location": "Sarojini Nagar, New Delhi.",
+    "cost_for_two": "Cost for two: ₹400",
+    "rating": "4.2",
+    "url": "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/",
+    "address": "Sarojini Nagar ,Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market,  Delhi-110023, Sarojini Nagar, New Delhi, New Delhi",
+    "contact": "+918700234862",
+    "description": "KFC, the home of the legendary Original Recipe chicken, offers a delightful dining experience with its signature blend of 11 herbs and spices. Known for its crispy, golden fried chicken and a variety of mouthwatering sides, KFC promises a flavorful feast for all. Whether dining in or ordering out, enjoy the perfect combination of taste and convenience, making every meal a memorable occasion. Savor the irresistible flavors at KFC today!",
+    "cuisines": [
+        "Burger",
+        "Fast Food",
+        "Desserts",
+        "Juices",
+        "Light Bites"
+    ],
+    "operational_hours": {
+        "MONDAY": "10:00:00 - 03:00:00",
+        "TUESDAY": "10:00:00 - 03:00:00",
+        "WEDNESDAY": "10:00:00 - 03:00:00",
+        "THURSDAY": "10:00:00 - 03:00:00",
+        "FRIDAY": "10:00:00 - 03:00:00",
+        "SATURDAY": "10:00:00 - 03:00:00",
+        "SUNDAY": "10:00:00 - 03:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Double Chicken Roll",
+            "price": "₹169",
+            "description": "Double fun with double chicken strip filling, layerful parantha onions",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Classic Chicken Roll",
+            "price": "₹119",
+            "description": "Street style roll with single chicken strip, onions and two spicy sauc",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Double Chicken Roll Meal For 1",
+            "price": "₹379",
+            "description": "Save Rs. 24 with a Double Chicken Roll with servings of 1 Large Fries,",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Classic Chicken Roll Meal For 2",
+            "price": "₹479",
+            "description": "2 units of The classic KFC Chicken Roll with servings of 1 Large Fries",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Thai Spicy Chicken Roll",
+            "price": "₹139",
+            "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken st",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Indian Tandoori Chicken Roll",
+            "price": "₹139",
+            "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Korean Tangy Chicken Roll",
+            "price": "₹139",
+            "description": "Delicious new roll featuring tangy Korean kimchi, vegetables and crunc",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Indian Spicy Veg Roll",
+            "price": "₹119",
+            "description": "Veg special spicy indian sauce and veggie roll",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Korean & Thai Roll Chicken Meal",
+            "price": "₹569",
+            "description": "Rs. 114 Off on Korean Tangy Roll & Thai Spicy Roll, Large Popcorn, Lar",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Indian Tandoori Roll Chicken Meal",
+            "price": "₹419",
+            "description": "Save Rs. 75 on Indian Tandoori Roll, Classic Zinger Burger, Medium Fri",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Korean Tangy Roll & Popcorn Chicken Meal",
+            "price": "₹319",
+            "description": "Save Rs. 56 with Korean Tangy Chicken Roll, Medium Popcorn and Pepsi P",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Thai Spicy Roll & Zinger Chicken Meal",
+            "price": "₹419",
+            "description": "Save Rs. 75 with Thai Spicy Roll with Classic Zinger Burger, Medium Fr",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "American Roll & Popcorn Chicken Meal",
+            "price": "₹299",
+            "description": "Save Rs. 56 with American Nashville Chicken Roll, Medium Popcorn and P",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Thai Spicy Roll & Popcorn Chicken Meal",
+            "price": "₹319",
+            "description": "Save Rs. 56 with Thai Spicy Chicken Roll, Medium Popcorn and Pepsi PET",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Korean Tangy Roll & Zinger Chicken Meal",
+            "price": "₹419",
+            "description": "Save Rs. 75 with Korean Tangy Roll with Classic Zinger Burger, Medium",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "All Chicken Box",
+            "price": "₹399",
+            "description": "Save Rs. 107 with special Chicken Box of 2 Pc Hot & Crispy, 2 Pc Peri",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Rice Box Meal",
+            "price": "₹399",
+            "description": "Save Rs. 106 with special Rice Box Meal of a Popcorn Rice Bowl, 2 Pc P",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Roll Meal Box",
+            "price": "₹399",
+            "description": "Save Rs. 95 with special Roll Box Meal of a Classic Chicken Roll , 2 P",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Box Meal",
+            "price": "₹399",
+            "description": "Enjoy special Veg Box Meal with savings of Rs. 101 on Veg Zinger Burge",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Zinger Burger",
+            "price": "₹209",
+            "description": "It's Back! Crunchy Indian Paneer Patty Burger with tangy sauce and Veg",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Zinger Burger And Popcorn Meal",
+            "price": "₹439",
+            "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Zinger Burger",
+            "price": "₹219",
+            "description": "New Caribbean Spicy Zinger Burger with Spicy Bun & Spicy chilli sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Zinger Burger And Chicken Meal",
+            "price": "₹379",
+            "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Zinger Pro Burger & Popcorn Meal",
+            "price": "₹469",
+            "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zinger Pro Burger",
+            "price": "₹249",
+            "description": "New premium zinger with crunchy zinger fillet,cheese,lettuce,tomatoes,",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mexican Zinger Pro Pepsi Bottle Combo",
+            "price": "₹329",
+            "description": "Get Pepsi 330ml Reusable Bottle with Mexican Zinger Pro Burger",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Zinger Pro Burger & Chicken Meal",
+            "price": "₹409",
+            "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Burger Buddy Meal",
+            "price": "₹529",
+            "description": "Save Rs. 28 & Share 2 American Classic Chicken Zinger Burgers & a Medi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Mixed Chicken Zinger Burger Doubles",
+            "price": "₹369",
+            "description": "Save Rs.41 on Best-seller combo of classic chicken Zinger & Tandoori z",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Zinger Burger - Classic With Cheese",
+            "price": "₹224",
+            "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Zinger Burger - Tandoori With Cheese",
+            "price": "₹214",
+            "description": "Chicken zinger with delicious tandoori sauce & cheese slice",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "American Classic Zinger Mojito Combo",
+            "price": "₹297",
+            "description": "Get All New Mojito Reusable Bottle with American Classic Chicken Zinge",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Zinger Burger With Cheese",
+            "price": "₹214",
+            "description": "Signature veg burger with crispy patties, cheese slice, veggies & a ta",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Zinger Burger - Classic",
+            "price": "₹199",
+            "description": "Signature burger made with a crunchy chicken fillet, veggies & a delic",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Zinger Burger",
+            "price": "₹189",
+            "description": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Zinger Burger - Tandoori",
+            "price": "₹209",
+            "description": "Chicken zinger with a  delicious tandoori sauce",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "2 X Veg Krisper Burgers",
+            "price": "₹189",
+            "description": "2 delicious veg value burgers - at a deal price",
+            "food_type": "Veg"
+        },
+        {
+            "name": "2 Classic Chicken Krisper Burgers",
+            "price": "₹290",
+            "description": "2 units of delicious chicken value burgers featuring delicious sauce &",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Cricket Crunch Meal",
+            "price": "₹449",
+            "description": "Crunchy Savings of Rs. 75 & Enjoy 2pc Hot & Crispy Chicken, 4 chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Dream Team Meal",
+            "price": "₹599",
+            "description": "Enjoy Special 11 meal by saving Rs. 164 on 3 Pc Chicken Leg Piece, 4 P",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Clean Bowled Combo",
+            "price": "₹666",
+            "description": "Hitter huge savings of Rs. 132 on 5 Pc Chicken Leg Piece & 5 Pc Hot Wi",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Super Over Meal",
+            "price": "₹329",
+            "description": "Favorite combo of Classic Chicken Zinger Burger, Medium French Fries &",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Super 6s Chicken Bucket",
+            "price": "₹799",
+            "description": "Sixer Savings of Rs. 249 off on Special Bucket of 6 Pc Chicken Leg Pie",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Rolls Super Kings",
+            "price": "₹399",
+            "description": "Super Savings of Rs. 75 on 2 Classic chicken Roll, 4 Pc Hot Wings and",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Green Pitch Meal",
+            "price": "₹499",
+            "description": "Veg Lovers now save Rs. 252 on Veg meal of 2 Veg Zinger Burgers, 2 Veg",
+            "food_type": "Veg"
+        },
+        {
+            "name": "LBW Chicken Bucket",
+            "price": "₹899",
+            "description": "Leg Piece before any wicket! Deal savings of Rs. 308 on 10 Pc Chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken 5 Leg Piece Meal",
+            "price": "₹659",
+            "description": "Leg before any wicket! Save Rs. 131 on 5 Spicy Peri Peri Leg Pieces, 2",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+            "price": "₹519",
+            "description": "Howzatt Deal!! Save Rs. 122 with the indulging 10 Piece Peri Peri Bone",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken 5 Leg Piece Bucket",
+            "price": "₹529",
+            "description": "Save Rs 104 on 5 Spicy Peri Peri Leg Pieces",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+            "price": "₹599",
+            "description": "Get Pepsi 330ml Reusable Bottle with 5 Pc Peri Per Chicken Leg Piece a",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken 10 Leg Pc & 4 Dips",
+            "price": "₹969",
+            "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [se",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken Strips - 6 Pc",
+            "price": "₹309",
+            "description": "Save 13% with on savouring 6 Spicy Peri Peri chicken boneless strips [",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "6 Pc Strips & Pepsi Bottle Combo",
+            "price": "₹379",
+            "description": "Get Pepsi 330ml Reusable Bottle with 6 Pc Spicy Peri Peri Strips",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Chicken Krisper Burger Combo",
+            "price": "₹580",
+            "description": "Deal combo of 2 chicken krispers burgers, 2 pc Hot & Crispy, 2 dips (2",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Mingles Bucket Meal",
+            "price": "₹519",
+            "description": "Save Rs. 43 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Per",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "4 Pc Hot & Crispy Pepsi Bottle Combo",
+            "price": "₹519",
+            "description": "Get Pepsi 330ml Reusable Bottle with 4 Pc Chicken Hot & Crispy",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Mingles Bucket",
+            "price": "₹399",
+            "description": "Mingle with 4 Chicken Hot Wings, 2 Chicken peri peri boneless strips &",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Classic Roll Mojito Meal",
+            "price": "₹343",
+            "description": "Get All New Mojito Reusable 330ml Bottle with Large Fries and Classic",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chicken Popcorn & French Fries Bucket",
+            "price": "₹329",
+            "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "2 X Veg Krispers Burger Meal",
+            "price": "₹299",
+            "description": "Save Rs. 39 with 2 veg value burgers, crispy Medium French Fries & 2 d",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Classic Zinger Pepsi Bottle Combo",
+            "price": "₹279",
+            "description": "Get Pepsi 330ml reusable bottle with Classic chicken Zinger Burger",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "All In One Chicken Bucket",
+            "price": "₹569",
+            "description": "Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 S",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Ultimate Savings Chicken Bucket",
+            "price": "₹729",
+            "description": "Savings of 32% on signature bucket of 4pc Hot & crispy chicken, 6 Pc W",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Stay Home Chicken Bucket",
+            "price": "₹819",
+            "description": "Save Rs. 232 & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Big 12 - Chicken Bucket",
+            "price": "₹769",
+            "description": "Save 24% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each)",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Big 8 - Chicken Bucket",
+            "price": "₹729",
+            "description": "2pc Hot & Crispy, 2 Strips & 4pc Smoky Red chicken updated",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "HC Rice Bowlz",
+            "price": "₹230",
+            "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoky Red Chicken Rice Bowl",
+            "price": "₹230",
+            "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "PC Rice Bowlz",
+            "price": "₹230",
+            "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Veg Rice Bowlz",
+            "price": "₹199",
+            "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Plain Rice Bowl",
+            "price": "₹139",
+            "description": "New Plain Rice Bowlz",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hot & Crispy Chicken - 8 Pcs",
+            "price": "₹799",
+            "description": "Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hot & Crispy Chicken -6pc",
+            "price": "₹629",
+            "description": "Flat 10% off on 6pc signature Hot & crispy chicken [serves 2-3]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hot & Crispy Chicken-4pc",
+            "price": "₹439",
+            "description": "Save Rs. 24 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hot & Crispy Chicken -2pc",
+            "price": "₹230",
+            "description": "Signature Hot & crispy chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hot Chicken Wings - 4pc",
+            "price": "₹179",
+            "description": "Seasoned, signature KFC chicken wings",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Hot & Crispy Chicken-1pc",
+            "price": "₹115",
+            "description": "Signature Hot & crispy chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Popcorn - Large",
+            "price": "₹249",
+            "description": "Signature bite-sized boneless chicken, with special spices in Large Si",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Saucy Popcorn X CarryMinati",
+            "price": "₹229",
+            "description": "Special limited time Signature bite sized Boneless Chicken Popcorn in",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Popcorn - Medium",
+            "price": "₹179",
+            "description": "Signature bite-sized boneless chicken, with special spices in Medium S",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Chicken Popcorn - Regular",
+            "price": "₹115",
+            "description": "Signature bite-sized boneless chicken, with special spices",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoky Red Grilled Chicken - 5 Pc",
+            "price": "₹539",
+            "description": "Save Rs. 85 on 5pc Smoky red grilled chicken [serves 2]",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "5 Pc Smoky Chicken Mojito Combo",
+            "price": "₹628",
+            "description": "Get All New Mojito Reusable Bottle with 5 Pc Smoky Red Grilled Chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoky Red Grilled Chicken - 2 Pc",
+            "price": "₹249",
+            "description": "Spicy, red, grilled chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Smoky Red Grilled Chicken - 1 Pc",
+            "price": "₹125",
+            "description": "Spicy, red, grilled chicken",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "Peri Peri Chicken Strips - 3 Pc",
+            "price": "₹179",
+            "description": "3 Pieces Spicy Peri Peri chicken boneless strips",
+            "food_type": "Non-Veg"
+        },
+        {
+            "name": "2 Pc Veg Patty",
+            "price": "₹155",
+            "description": "Delicious, crispy, veg add-on",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Mix French Fries - Large",
+            "price": "₹139",
+            "description": "Crispy french fries with a spicy chilli lime sprinkle",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Fries - Large",
+            "price": "₹119",
+            "description": "Jazz up your meal with crispy large fries!",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spicy Mix French Fries - Medium",
+            "price": "₹114",
+            "description": "Crispy french fries with a spicy chilli lime sprinkle",
+            "food_type": "Veg"
+        },
+        {
+            "name": "French Fries - Medium",
+            "price": "₹99",
+            "description": "Jazz up your meal with crispy french fries",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pack Of 4 Dips -20gm Each",
+            "price": "₹110",
+            "description": "Adding dips is always a good idea! (Save Rs. 5)",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pack Of 2 Dips-20gm Each",
+            "price": "₹57",
+            "description": "Adding dips is always a good idea!",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tandoori Flavour Dip - 20 Gm",
+            "price": "₹29",
+            "description": "Special tandoori flavored dip, to add a twist to your meal!",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chocolate Lava Cake",
+            "price": "₹109",
+            "description": "New Soft Chocolate cake with a gooey center- perfect chocolaty end to",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Virgin Mojito Reusable Bottle",
+            "price": "₹105",
+            "description": "A refreshing drink with lime and soda to beat the heat",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pepsi Reusable Bottle",
+            "price": "₹99",
+            "description": "[Not eligible for coupons]<br>Pepsi in a KFC reusable bottle",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Choco Mud Pie",
+            "price": "₹129",
+            "description": "Chocolate lovers unite! Say hello to our delicious, new, creamy chocol",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mousse Cake (Coffee Flavoured",
+            "price": "₹129",
+            "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new d",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pepsi PET 475ml",
+            "price": "₹57",
+            "description": "[Not eligible for coupons]<br>Cheers to fizz that makes you Rise Up Ba",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pepsi Can 300 Ml",
+            "price": "₹57",
+            "description": "[Not eligible for coupons]<br>Cheers to fizz that makes you Rise Up Ba",
+            "food_type": "Veg"
+        },
+        {
+            "name": "7UP Can 300 Ml",
+            "price": "₹57",
+            "description": "[Not eligible for coupons]<br>7UP is the ultimate Super-Duper Refreshe",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pepsi Black Can 300 Ml",
+            "price": "₹57",
+            "description": "[Not eligible for coupons]<br>Enjoy Pepsi Black to make your food rise",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mirinda Can 300 Ml",
+            "price": "₹57",
+            "description": "[Not eligible for coupons]<br>Great orange taste and sparking bubbles",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/j8W1Tva5V_BajwoeneYQ8wKdoaKP7Gl0TeIuIavtEwdVJ8IiGY68tQl6MTdTtnYM1yK4uBnCJmWv_59gYcmJzeXZMvmT83HKzm__Bt8P=w192-rw",
+            "alt_text": "KFC photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/PnwQjjCtIVGW20FU7HXlLbT6doPmrYsS-t88_SrfKDvMqQ114_e9yosx-v4g9STlLJj74beMLjfXE_luhHmBGNzPXhKaRDcs6z8bv5QB=w192-rw",
+            "alt_text": "KFC photo 2"
+        }
+    ]
+}

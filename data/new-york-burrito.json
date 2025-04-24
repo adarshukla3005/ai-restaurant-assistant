@@ -1,0 +1,413 @@
+{
+    "name": "New-York-Burrito",
+    "location": "Link Square Mall, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹600",
+    "rating": "4.7",
+    "url": "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/New-York-Burrito/store/2b9877/",
+    "address": "Opposite Hawaiian shack, Shop no. 1, Kalpitam Apartments, 16th Rd, Pali village, Link Square Mall, Mumbai, Mumbai",
+    "contact": "+917785005001",
+    "description": "New York Burrito Company is a F&amp;B-Casual Dining Indian outlet that offers a wide variety of delicious and authentic Indian dishes. The restaurant has a cozy and inviting atmosphere, and the staff is friendly and attentive. The menu features a variety of vegetarian and non-vegetarian dishes, as well as a selection of desserts. The restaurant also offers catering services for special occasions. The food is freshly prepared and the prices are reasonable. The restaurant is a great place to enjoy a delicious meal with friends and family.",
+    "cuisines": [
+        "Mexican",
+        "Fast Food"
+    ],
+    "operational_hours": {
+        "MONDAY": "10:00:00 - 00:00:00",
+        "TUESDAY": "10:00:00 - 00:00:00",
+        "WEDNESDAY": "10:00:00 - 00:00:00",
+        "THURSDAY": "10:00:00 - 00:00:00",
+        "FRIDAY": "10:00:00 - 00:00:00",
+        "SATURDAY": "10:00:00 - 00:00:00",
+        "SUNDAY": "10:00:00 - 00:00:00"
+    },
+    "menu_items": [
+        {
+            "name": "Smart Water (750 ml)",
+            "price": "₹70",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Thums Up (330 ml)",
+            "price": "₹79",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ginger Ale (300 ml)",
+            "price": "₹79",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Sprite (330 ml)",
+            "price": "₹79",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cucumber Mint Lemonade 250 ml",
+            "price": "₹99",
+            "description": "Fresh soothing beverage with a blend of cucumber pulp and mint.",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Dragon Fruit Lemonade 250 ml",
+            "price": "₹99",
+            "description": "A refreshing beverage which is a blend of fresh dragon fruit, lemon an",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Ice Tea 250 ml",
+            "price": "₹99",
+            "description": "A cold refreshing beverages made with extraction  of homemade tea and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hibiscus Mint Lemonade",
+            "price": "₹99",
+            "description": "Hibiscus Mint is a sharp blend of Hibiscus flower and mint that gives",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chocolate Walnut Brownie",
+            "price": "₹99",
+            "description": "Ooey-gooey chocolate and walnut brownie. The perfect end to your perfe",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tres Leches Cake",
+            "price": "₹149",
+            "description": "A traditional mexican dessert of soft sponge cake immersed in 3 types",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Red Bull (250 ml)",
+            "price": "₹160",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Veg Delight Panini",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pesto Pomodoro Panini",
+            "price": "₹229",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Maxican Panini",
+            "price": "₹229",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hard-Shell Tacos",
+            "price": "₹249",
+            "description": "a traditional Mexican treat, is a palm-sized tortilla in a crescent cr",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Gordita (Jain)",
+            "price": "₹249",
+            "description": "A Gordita is a round Mexican bread stuffed with refried beans, cheese,",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Gordita (Regular)",
+            "price": "₹249",
+            "description": "A Gordita is a round Mexican bread stuffed with refried beans, cheese,",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilly Cheese Quesadillas",
+            "price": "₹279",
+            "description": "Hand made tortillas, stuffed with orange cheddar cheese, chillies and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Quesadilla's",
+            "price": "₹279",
+            "description": "It doesn’t get more Mexican than this, a lot of beans, a lot of cheese",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Guacamole Burger",
+            "price": "₹299",
+            "description": "Crispy Black bean patty topped very own fresh guacamole with nachos fo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Make your own Mexican Bowl",
+            "price": "₹329",
+            "description": "(100% imported hass avocado guacamole is included) Make your own bowl",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mushroom Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included)  Mushroom burrito i",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Paneer burrito is a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tex Mex Veg Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Tex mex veg burrito",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Soya Chaap Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Soya chaap burrito",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cranberry Almond Crisps",
+            "price": "₹214",
+            "description": "Tangy taste of cranberries is clubbed with the goodness of almonds, ri",
+            "food_type": "Veg"
+        },
+        {
+            "name": "California Pistachio Crunch",
+            "price": "₹285",
+            "description": "The energy packed California pistachios with pink salt and brown rice",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Pistachio Crunch",
+            "price": "₹29",
+            "description": "The energy packed California pistachios with pink salt and brown rice",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Soft Tacos- 2 Pcs",
+            "price": "₹299",
+            "description": "Wrapped in two soft tortillas is a perfect blend of fajitas, tex- mex",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Queesadillas",
+            "price": "₹279",
+            "description": "It doesn’t get more Mexican than this, a lot of beans, a lot of cheese",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Tofu burrito is a s",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Peri Peri Potatoes Burrito",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Peri peri potatoes",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Spinach Burrito",
+            "price": "₹369",
+            "description": "(100% imported hass avocado guacamole is included) Spinach burrito is",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Whole Wheat Burrito",
+            "price": "₹369",
+            "description": "(100% imported hass avocado guacamole is included) Wheat burrito is a",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Habenaro Grilled Paneer Burrito",
+            "price": "₹339",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mushroom Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Mushroom burrito bo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Paneer burrito Bowl",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tofu Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Tofu burrito bowl i",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Potatoes Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included)Peri peri potatoes b",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Soya Chaap Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included)  Soya chaap burrito",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Tex Mex Veg Mexican Bowl",
+            "price": "₹339",
+            "description": "(100% imported hass avocado guacamole is included) Tex mex veg burrito",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Habenaro Grilled Paneer Mexican Bowl",
+            "price": "₹339",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mucho Meal",
+            "price": "₹449",
+            "description": "A regular Burrito with nacho pockets and salsas and our very own lemon",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Hass Avocado Milkshake (190 ML)",
+            "price": "₹199",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Salsa And Queso With Chips",
+            "price": "₹649",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Amigo Guac Bowl with Chips",
+            "price": "₹949",
+            "description": "2 Big Bowls of Fresh Guacamole made at the outlet served with super se",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Make your own Burrito",
+            "price": "₹329",
+            "description": "(100% imported hass avocado guacamole is included) Make your own burri",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Super Nachos",
+            "price": "₹349",
+            "description": "A traditional North Mexican treat, is a platter of heated tortilla chi",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Nachos",
+            "price": "₹279",
+            "description": "Nacho chips made of 100% natural corn loaded with creamy cheese topped",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chilly Cheese Quesadilla",
+            "price": "₹279",
+            "description": "Hand made tortillas, stuffed with orange cheddar cheese, chillies and",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Soft Taco- 2 Pcs",
+            "price": "₹329",
+            "description": "Wrapped in two soft tortillas is a perfect blend of fajitas, tex- mex",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Make your own Burrito +Cooler",
+            "price": "₹389",
+            "description": "Tasty meal wrapped in a  hot tortilla, paired with heavenly cooler. Oh",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Make your own Mexican Bowl+Coolers",
+            "price": "₹389",
+            "description": "a symphony of flavour, taste and health. need we say more about this c",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mexican Pizza- 8 Inches",
+            "price": "₹479",
+            "description": "Delicious handmade crisssssspyyy tortillas topped with savory toppings",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "price": "₹479",
+            "description": "8 Inches",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Paneer Pizza",
+            "price": "₹479",
+            "description": "8 Inches",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Super Guacamole-150Grams",
+            "price": "₹399",
+            "description": "OH MY Word! This bowl on serene happiness is freshly prepared after yo",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Cheesy Potatoes",
+            "price": "₹179",
+            "description": "N/A",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Chips with Guacamole & Salsa",
+            "price": "₹279",
+            "description": "Crunchy nacho chips served with salsa and guacamole made from 100% Has",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Coke (330 ml)",
+            "price": "₹79",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Diet Coke",
+            "price": "₹79",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Red Bull Sugarfree (250 ML)",
+            "price": "₹160",
+            "description": "[Not eligible for coupons]",
+            "food_type": "Veg"
+        },
+        {
+            "name": "Coolberg Cranberry (330 ML)",
+            "price": "₹149",
+            "description": "N/A",
+            "food_type": "Veg"
+        }
+    ],
+    "photos": [
+        {
+            "url": "https://lh3.googleusercontent.com/K_dz_7HS64Nz1VP9v17S66_-FfxmMWah4tpBbWjdRf9a1B9KqpVRPUmuRcv6h0T7g_Eo4jUagMwnj_btkS_6_3A6bLsL_1bJLMdMrsU=w192-rw",
+            "alt_text": "New York Burrito photo 1"
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/QVkuddXDxVZgvbDtilQNHx7JAMpkKgW86GPmeGYRG_DwJLPM0yxJRSi7BGDxtXzUhhImPxdipySkFMJ_UpIAuik1JLbCaMhxMnji0zFu=w192-rw",
+            "alt_text": "New York Burrito photo 2"
+        }
+    ]
+}

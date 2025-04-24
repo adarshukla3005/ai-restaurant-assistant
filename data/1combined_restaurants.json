@@ -1,0 +1,4497 @@
+[
+  {
+    "name": "Bombay-Taco-Co.",
+    "location": "Pali Hill, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.5",
+    "url": "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Bombay-Taco-Co./store/637073/",
+    "address": "Shop 08, Ground Floor, Rafi Mansion, Guru Nanak Park, Pali Hill, Pali Hill, Mumbai, Mumbai",
+    "contact": "+918591174660",
+    "description": "Bombay Taco Co. is a F&amp;B-Casual Dining outlet that serves up delicious Mexican-Indian fusion cuisine. The restaurant offers a wide variety of tacos, burritos, quesadillas, and other Mexican-inspired dishes. The menu also features a selection of Indian-inspired dishes such as curries, tandoori, and biryani. The restaurant has a vibrant atmosphere with colorful decor and upbeat music. The staff is friendly and attentive, and the food is always fresh and flavorful. Bombay Taco Co. is the perfect spot for a casual lunch or dinner with friends and family.",
+    "cuisines": [
+      "Mexican",
+      "Salad",
+      "Glueten Free",
+      "Fast Food",
+      "Juices",
+      "Light Bites"
+    ],
+    "operational_hours": {
+      "MONDAY": "12:00:00 - 00:00:00",
+      "TUESDAY": "12:00:00 - 00:00:00",
+      "WEDNESDAY": "12:00:00 - 00:00:00",
+      "THURSDAY": "12:00:00 - 00:00:00",
+      "FRIDAY": "12:00:00 - 00:00:00",
+      "SATURDAY": "12:00:00 - 00:00:00",
+      "SUNDAY": "12:00:00 - 00:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Cheese Saucy Nachos",
+        "price": "₹259",
+        "description": "Masala flavoured & layered with cheese & sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese Saucy Fries",
+        "price": "₹259",
+        "description": "Masala flavoured & layered with cheese sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pineapple Kombucha",
+        "price": "₹336",
+        "description": "Pineapple Kombucha is our fermented, lightly effervescent, sweetened b",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Delhi Fried Chicken Taco",
+        "price": "₹382",
+        "description": "Laccha Onion Slaw,  Chaas Ranch, Thecha, 2 Taco per serving Mayo, 2 So",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "BTC Popcorn Chicken Nachos",
+        "price": "₹539",
+        "description": "Our specialty homemade nachos sprinkled with our secret masala. Loaded",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Beetroot Falafel Taco",
+        "price": "₹269",
+        "description": "Kachumbar Slaw, Garlic Sour Cream, Hot Sauce, 2 Soft Taco per serving",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Makhani Taco",
+        "price": "₹337",
+        "description": "Smoked Makhani Gravy, Lacha Onions, Lime Sour Cream, 2 Soft Taco per s",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kanda Bhaji Taco",
+        "price": "₹269",
+        "description": "Shredded Iceberg, Avocado Chutney, Thecha Mayo, 2 Soft Taco per servin",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cauliflower And Mushroom 65 Taco",
+        "price": "₹292",
+        "description": "Raw Mango Kachumar, Homemade Guacamole, Thecha Mayo, 2 Soft Taco per s",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kothimbir Vadi Taco",
+        "price": "₹292",
+        "description": "Raw Mango Kachumbar, Avocado Chutney, 2 Soft Taco per serving",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chile Relleno",
+        "price": "₹399",
+        "description": "Sauted Jalapeno pepper and melted cheese bites served with spicy chipo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chili Corn Cheese Quesadilla",
+        "price": "₹579",
+        "description": "Mozzarella cheese, bell peppers, fried corn, pickled onions",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Lime Corn Ribs",
+        "price": "₹399",
+        "description": "Chili lime desi bhutta served with chipotle mayo and our hot sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mexican Habanero Corn Ribs",
+        "price": "₹399",
+        "description": "Mexican habanero flavoured bhutta served with oregano and our hot sauc",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kolhapuri Thecha Corn Ribs",
+        "price": "₹433",
+        "description": "Kolhapuri laal thecha butter bhutta served with our hot sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "BTC Veggieful Nachos",
+        "price": "₹449",
+        "description": "Our specialty homemade nachos sprinkled with our homemade masala. Load",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Desi Chilaquiles",
+        "price": "₹399",
+        "description": "Totilla Chips Tossed with Salsa Sauce Softened with Cheese and Egg",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Popcorn Chicken Mexican Rice",
+        "price": "₹429",
+        "description": "A sweet & savory Arroz Rojo of basmati rice simmered in a tangy 🍅 tom",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veggieful Chipotle Mexican Rice",
+        "price": "₹469",
+        "description": "A sweet & savory Arroz Rojo of basmati rice simmered in a tangy 🍅 tom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Kheema Mex-Pizza",
+        "price": "₹499",
+        "description": "Cheese Tortilla Dual Stack of Bell Peppers, Beans, Desi Bhutta and Jal",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "BTC Mex Veggie Thali",
+        "price": "₹499",
+        "description": "Veggie Rice | Churros | Soup | Chocolate Sauce | Nachos | Mex-rice Gra",
+        "food_type": "Veg"
+      },
+      {
+        "name": "BTC Mex Chicken Thali",
+        "price": "₹599",
+        "description": "Chicken Rice | Churros | Soup | Chocolate Sauce | Nachos | Mex-rice Gr",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veggieful Chipotle Thali",
+        "price": "₹499",
+        "description": "Veggie Rice | Churros | Taco | Chocolate Sauce | Nachos | Mex-rice Gra",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Popcorn Chicken Thali",
+        "price": "₹599",
+        "description": "Chicken Rice | Churros | Taco | Chocolate Sauce | Nachos | Mex-rice Gr",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Steak Chili Fries",
+        "price": "₹454",
+        "description": "Red meat and layered with cheese sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lavender Lemonade [JG]",
+        "price": "₹279",
+        "description": "Full of floral and bright, zesty flavor, it's our refreshing spin on a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dark Cacao Honey Churros",
+        "price": "₹299",
+        "description": "Mini pocket of crunchy pâte à choux dough rolled in cinnamon sugar and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crème Caramel Churros",
+        "price": "₹299",
+        "description": "Mini pocket of crunchy pâte à choux dough rolled in cinnamon sugar and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cookie Dough",
+        "price": "₹299",
+        "description": "Sweet, ready-to-eat, egg-free & ridiculously tasty dough rolled with c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Fool",
+        "price": "₹399",
+        "description": "Aamras and Greek Yogurt",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ras Kombucha",
+        "price": "₹399",
+        "description": "Aamrus & Fermented fizzy tea drink, shaded with Pineapple Juice",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/xlpVartZ8R_GgvwZKMw1vQzEbqEjSWCMM7sBn5vRI_e6k0uvbtAcWgsMx7nfqRHv_d49QxwAm-SV7fwYpY0TL5vTV9gqcyvUpaX5Bmk=w192-rw",
+        "alt_text": "Bombay Taco Co. photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NLtozuSpVoqovpZaBaLUpdz2Ny6nt2yoyfDwLgxtNBmGWiv_UT1whicnkbPkaoNxTo8JShrO6NoN1kXEi_OcCZkX7vSwqcO8Rz8NcPAu=w192-rw",
+        "alt_text": "Bombay Taco Co. photo 2"
+      }
+    ],
+    "source_file": "bombay-taco-co..json"
+  },
+  {
+    "name": "Food-Adda",
+    "location": "Lajpat Nagar, Lajpat Nagar 4, New Delhi.",
+    "cost_for_two": "Cost for two: ₹200",
+    "rating": "3.5",
+    "url": "https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/",
+    "address": "Shop 2, Dda Market, Hudson Lane, Lajpat Nagar, New Delhi, New Delhi",
+    "contact": "+919910864965",
+    "description": "Food Adda is a F&amp;B-Casual Dining outlet that offers a wide variety of delicious and mouth-watering dishes. It is a perfect place to enjoy a meal with family and friends. The restaurant has a cozy and inviting atmosphere with comfortable seating and a friendly staff. The menu features a variety of Indian, Chinese, and Continental dishes. The food is freshly prepared and cooked to perfection. The restaurant also offers a variety of beverages and desserts. Food Adda is the perfect place to enjoy a delicious meal in a relaxed and comfortable setting.",
+    "cuisines": [
+      "Desserts"
+    ],
+    "operational_hours": {
+      "MONDAY": "10:00:00 - 21:00:00",
+      "TUESDAY": "10:00:00 - 21:00:00",
+      "WEDNESDAY": "10:00:00 - 21:00:00",
+      "THURSDAY": "10:00:00 - 21:00:00",
+      "FRIDAY": "10:00:00 - 21:00:00",
+      "SATURDAY": "10:00:00 - 21:00:00",
+      "SUNDAY": "10:00:00 - 21:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Boondi Raita",
+        "price": "₹80",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Curd",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Papad",
+        "price": "₹10",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pineapple Raita",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mixed Veg Raita",
+        "price": "₹80",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Roll",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Paneer Roll",
+        "price": "₹140",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Egg Roll",
+        "price": "₹150",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Roll",
+        "price": "₹130",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Egg Roll",
+        "price": "₹70",
+        "description": "N/A",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Chilli Chicken Roll",
+        "price": "₹150",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Butter Chicken Qtr + Tawa Butter Roti (2 Pc)",
+        "price": "₹270",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kadai Chicken Qtr + Tawa Butter Roti (2 Pc)",
+        "price": "₹270",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tandoori [Quarter] With Coke [250 Ml]",
+        "price": "₹220",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Shahi Paneer + Tawa Butter Roti (2 Pcs)",
+        "price": "₹200",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Curry Qtr + Tawa Butter Roti (2pcs)",
+        "price": "₹270",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheese Burger",
+        "price": "₹70",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Burger",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Burger",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sweet Lassi",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Masala Lassi",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Hakka Noodles",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Singapuri Chowmein",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mixed Hakka Noodles",
+        "price": "₹130",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Chowmein And Rice",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mixed Chowmein",
+        "price": "₹130",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Chowmein",
+        "price": "₹110",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Malai Tikka",
+        "price": "₹519",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Seekh Kabab",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tikka",
+        "price": "₹299",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Seekh Kebab",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Afgani Chicken",
+        "price": "₹299",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tandoori Aloo [4 Pieces]",
+        "price": "₹149",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Chicken",
+        "price": "₹229",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hariyali Chicken Tikka",
+        "price": "₹299",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Soya Chaap Tandoori",
+        "price": "₹169",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka [6 Pieces]",
+        "price": "₹199",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Achari Chicken",
+        "price": "₹299",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Double Egg Paratha",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Rumali Roti",
+        "price": "₹18",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stuffed Naan",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Onion Paratha",
+        "price": "₹59",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Paratha",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gobi Paratha (Seasonal)",
+        "price": "₹59",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Naan",
+        "price": "₹35",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Butter Roti",
+        "price": "₹15",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg Paratha",
+        "price": "₹59",
+        "description": "N/A",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Aloo Paratha",
+        "price": "₹49",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Plain Naan",
+        "price": "₹25",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Laccha Paratha",
+        "price": "₹39",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Butter Roti",
+        "price": "₹15",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadai Paneer + Tawa Butter Roti (2 Pcs)",
+        "price": "₹250",
+        "description": "Feeling little hungry but don't want to go for a full meal?? \nthen thi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chole Bhature",
+        "price": "₹100",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Spring Roll",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Spring Roll",
+        "price": "₹90",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Ginger",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Lollipop",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Lemon",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Sweet And Sour Gravy",
+        "price": "₹169",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chilli Chicken",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Garlic",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Manchurian Gravy",
+        "price": "₹299",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Lollipop Masala",
+        "price": "₹189",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Pulao",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Matar Pulao",
+        "price": "₹149",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": "₹119",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Plain Rice",
+        "price": "₹99",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Curry",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Masala",
+        "price": "₹399",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Lababdar",
+        "price": "₹399",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tawa Chicken",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Rara",
+        "price": "₹399",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Handi",
+        "price": "₹399",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Kadai Chicken",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Butter Chicken",
+        "price": "₹249",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Do Pyaza",
+        "price": "₹399",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tomato Soup",
+        "price": "₹89",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Manchow Soup",
+        "price": "₹129",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Hot And Sour Soup",
+        "price": "₹119",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Sweet Corn Soup",
+        "price": "₹119",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Noodles Soup",
+        "price": "₹99",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Thukpa Soup",
+        "price": "₹129",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Fried Momos",
+        "price": "₹70",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Kurkure Momos",
+        "price": "₹90",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Kurkure Momos",
+        "price": "₹150",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Paneer Kurkure Momos",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Fried Momos",
+        "price": "₹130",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Steamed Momos",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Paneer Steamed Momos",
+        "price": "₹90",
+        "description": "Half 4 pieces.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Fried Momos",
+        "price": "₹100",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Steamed Momos",
+        "price": "₹60",
+        "description": "N/A",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [],
+    "source_file": "food-adda.json"
+  },
+  {
+    "name": "Jumboking",
+    "location": "Sarojini Nagar, New Delhi.",
+    "cost_for_two": "Cost for two: ₹250",
+    "rating": "3.9",
+    "url": "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Jumboking/store/1676565/",
+    "address": "Paid Area, Sarojini Nagar Metro Station, Sarojini Nagar, New Delhi, Sarojini Nagar, New Delhi, New Delhi",
+    "contact": "+918383912125",
+    "description": "Jumboking is a F&amp;B-Casual Dining outlet that offers a wide variety of delicious and affordable Indian cuisine. The menu includes a variety of vegetarian and non-vegetarian dishes, as well as a selection of desserts. The restaurant has a relaxed and inviting atmosphere, with comfortable seating and friendly staff. The food is freshly prepared and served with a smile. Jumboking is the perfect place to enjoy a delicious meal with family and friends.",
+    "cuisines": [
+      "Burger",
+      "Glueten Free"
+    ],
+    "operational_hours": {
+      "MONDAY": "08:45:00 - 22:00:00",
+      "TUESDAY": "08:45:00 - 22:00:00",
+      "WEDNESDAY": "08:45:00 - 22:00:00",
+      "THURSDAY": "08:45:00 - 22:00:00",
+      "FRIDAY": "08:45:00 - 22:00:00",
+      "SATURDAY": "08:45:00 - 22:30:00",
+      "SUNDAY": "08:45:00 - 22:30:00"
+    },
+    "menu_items": [
+      {
+        "name": "Mumbai Burger",
+        "price": "₹69",
+        "description": "Serve 1 (150gm) | Calories 378 |  India?s favorite irresistible potato",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Big Crunch Burger",
+        "price": "₹149",
+        "description": "Serve 1 (172gm) | Calories 395 | A fully loaded veg patty, topped with",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Cheese Burst Burger",
+        "price": "₹219",
+        "description": "Serve 1 (152gm) | Calories 486 | An extraordinary classic burger, over",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Veg Burger",
+        "price": "₹149",
+        "description": "Serve 1 (151gm) | Calories 312 | A crisp veggie patty, slathered with",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Macaroni Delight Burger",
+        "price": "₹149",
+        "description": "Serves 1 (192gm) | Calories 523| This saucy burger has a macaroni patt",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Nachos Burger",
+        "price": "₹149",
+        "description": "Serve 1 | A tantalizing fusion of flavors that will ignite your taste",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Burger",
+        "price": "₹149",
+        "description": "Serve 1 | Indulge in the bold and fiery flavors of the Jumboking Schez",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zesty Paneer Burger",
+        "price": "₹219",
+        "description": "Serve 1 (196gm) | Calories 515 | A juicy cottage cheese patty coated w",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fries",
+        "price": "₹99",
+        "description": "Serve 1 (155gm) | Calories 438 | Golden and crispy, these slender stic",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Loaded Fries",
+        "price": "₹149",
+        "description": "Serve 1 (194gm) | Calories 698 | Long Strips Of Potatoes Fried To Gold",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Loaded Fries",
+        "price": "₹149",
+        "description": "Serve 1 (199gm) | Calories 698| Golden Brown Strips Of Potato Dusted W",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate Thick Shake (250 Ml)",
+        "price": "₹149",
+        "description": "Serve 1 (250 ml) | Calories 270 | Chocolate ice cream & chocolate syru",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Oreo Thick Shake(250 Ml)",
+        "price": "₹149",
+        "description": "Serve 1 (250 ml) | Calories 400 | A combination of ice cream, milk, ch",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry Thick Shake(250 Ml)",
+        "price": "₹149",
+        "description": "Serve 1 (250 ml) | Calories 400 | A combination of strawberries, ice c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Loaded Potato Popcorn",
+        "price": "₹105",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Big Crunch Burger + Fries + Coke (300 Ml)",
+        "price": "₹300",
+        "description": "Serve 1 | Calories 1109 | Enjoy a Big Crunch Burger + Fries + Cold Dri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Cheese Burst Burger + Fries + Coke (300 Ml)",
+        "price": "₹369",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Veg Burger+ Fries + Coke (300 Ml)",
+        "price": "₹300",
+        "description": "Serve 1 | Calories 976 | Enjoy a crispy Veg Burger + Fries + Cold Drin",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Macaroni Delight Burger + Fries + Coke (300 Ml)",
+        "price": "₹300",
+        "description": "Serve 1 | Calories 1187 | Enjoy a Big Macaroni & Cheese Burger + Fries",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mumbai Burger + Fries + Coke (300 Ml)",
+        "price": "₹219",
+        "description": "Serve 1 | Calories 1042 |  India?s favorite irresistible potato patty",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Nachos Burger + Fries + Coke (300 Ml)",
+        "price": "₹300",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Burger + Fries + Coke (300 Ml)",
+        "price": "₹300",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zesty Paneer Burger + Fries + Coke (300 Ml)",
+        "price": "₹369",
+        "description": "Serve 1 | Calories 1179 | A juicy cottage cheese patty coated with Ind",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Big Crunch Burger + Fries",
+        "price": "₹239",
+        "description": "Serve 1 (327 gm) Calories 833 |  Enjoy a Big Crunch Burger + Fries.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Cheese Burst Burger + Fries",
+        "price": "₹267",
+        "description": "Serve 1 (307 gm) Calories 924 | An extraordinary classic burger, overl",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Veg Burger + Fries",
+        "price": "₹239",
+        "description": "Serve 1 (306 gm) | Calories 750 | Enjoy a Crispy Veg Burger + Fries on",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Macaroni Delight Burger + Fries",
+        "price": "₹239",
+        "description": "Serve 1 ( 347 gm) | Calories 961 | Treat yourself with a Big Macaroni",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mumbai Burger + Fries",
+        "price": "₹159",
+        "description": "Serve 1 (305 gm) | Calories 816 | India?s favorite irresistible potato",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Nachos Burger + Fries",
+        "price": "₹239",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Burger + Fries",
+        "price": "₹239",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zesty Paneer Burger + Fries",
+        "price": "₹267",
+        "description": "Serve 1 (351 gm) | 953 | A juicy cottage cheese patty coated with Indi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Big Crunch + Fries + Thick Shake(250 Ml)",
+        "price": "₹389",
+        "description": "Serve 1 | Calories 1233 | Enjoy a Big Crunch Burger + Fries + Thicksha",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Cheese Burst Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹459",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Crispy Veg Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹389",
+        "description": "Serve 1 | Calories 1150 | Enjoy a crispy Veg Burger + Fries + Thicksha",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Macaroni Delight Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹389",
+        "description": "Serve 1 | Calories 1361 | Enjoy a Big Macaroni & Cheese Burger + Fries",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mumbai Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹309",
+        "description": "Serve 1 | Calories 1216 |  India?s favorite irresistible potato patty",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Nachos Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹389",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹389",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zesty Paneer Burger + Fries + Thick Shake(250 Ml)",
+        "price": "₹459",
+        "description": "Serve 1 | Calories 1353 | A juicy cottage cheese patty coated with Ind",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Nachos Burger !",
+        "price": "₹149",
+        "description": "Serve 1 | A tantalizing fusion of flavors that will ignite your taste",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Schezwan Burger !",
+        "price": "₹149",
+        "description": "Serve 1 | Indulge in the bold and fiery flavors of the Jumboking Schez",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [],
+    "source_file": "jumboking.json"
+  },
+  {
+    "name": "Kfc",
+    "location": "Sarojini Nagar, New Delhi.",
+    "cost_for_two": "Cost for two: ₹400",
+    "rating": "4.2",
+    "url": "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/",
+    "address": "Sarojini Nagar ,Shop No DSS 24,25,26,27,28,29 Ground Floor , DLF South Square , near Sarojini Nagar market,  Delhi-110023, Sarojini Nagar, New Delhi, New Delhi",
+    "contact": "+918700234862",
+    "description": "KFC, the home of the legendary Original Recipe chicken, offers a delightful dining experience with its signature blend of 11 herbs and spices. Known for its crispy, golden fried chicken and a variety of mouthwatering sides, KFC promises a flavorful feast for all. Whether dining in or ordering out, enjoy the perfect combination of taste and convenience, making every meal a memorable occasion. Savor the irresistible flavors at KFC today!",
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Desserts",
+      "Juices",
+      "Light Bites"
+    ],
+    "operational_hours": {
+      "MONDAY": "10:00:00 - 03:00:00",
+      "TUESDAY": "10:00:00 - 03:00:00",
+      "WEDNESDAY": "10:00:00 - 03:00:00",
+      "THURSDAY": "10:00:00 - 03:00:00",
+      "FRIDAY": "10:00:00 - 03:00:00",
+      "SATURDAY": "10:00:00 - 03:00:00",
+      "SUNDAY": "10:00:00 - 03:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Double Chicken Roll",
+        "price": "₹169",
+        "description": "Double fun with double chicken strip filling, layerful parantha onions",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Classic Chicken Roll",
+        "price": "₹119",
+        "description": "Street style roll with single chicken strip, onions and two spicy sauc",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Double Chicken Roll Meal For 1",
+        "price": "₹379",
+        "description": "Save Rs. 24 with a Double Chicken Roll with servings of 1 Large Fries,",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Classic Chicken Roll Meal For 2",
+        "price": "₹479",
+        "description": "2 units of The classic KFC Chicken Roll with servings of 1 Large Fries",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Thai Spicy Chicken Roll",
+        "price": "₹139",
+        "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken st",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Indian Tandoori Chicken Roll",
+        "price": "₹139",
+        "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Korean Tangy Chicken Roll",
+        "price": "₹139",
+        "description": "Delicious new roll featuring tangy Korean kimchi, vegetables and crunc",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Indian Spicy Veg Roll",
+        "price": "₹119",
+        "description": "Veg special spicy indian sauce and veggie roll",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Korean & Thai Roll Chicken Meal",
+        "price": "₹569",
+        "description": "Rs. 114 Off on Korean Tangy Roll & Thai Spicy Roll, Large Popcorn, Lar",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Indian Tandoori Roll Chicken Meal",
+        "price": "₹419",
+        "description": "Save Rs. 75 on Indian Tandoori Roll, Classic Zinger Burger, Medium Fri",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Korean Tangy Roll & Popcorn Chicken Meal",
+        "price": "₹319",
+        "description": "Save Rs. 56 with Korean Tangy Chicken Roll, Medium Popcorn and Pepsi P",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Thai Spicy Roll & Zinger Chicken Meal",
+        "price": "₹419",
+        "description": "Save Rs. 75 with Thai Spicy Roll with Classic Zinger Burger, Medium Fr",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "American Roll & Popcorn Chicken Meal",
+        "price": "₹299",
+        "description": "Save Rs. 56 with American Nashville Chicken Roll, Medium Popcorn and P",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Thai Spicy Roll & Popcorn Chicken Meal",
+        "price": "₹319",
+        "description": "Save Rs. 56 with Thai Spicy Chicken Roll, Medium Popcorn and Pepsi PET",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Korean Tangy Roll & Zinger Chicken Meal",
+        "price": "₹419",
+        "description": "Save Rs. 75 with Korean Tangy Roll with Classic Zinger Burger, Medium",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "All Chicken Box",
+        "price": "₹399",
+        "description": "Save Rs. 107 with special Chicken Box of 2 Pc Hot & Crispy, 2 Pc Peri",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Rice Box Meal",
+        "price": "₹399",
+        "description": "Save Rs. 106 with special Rice Box Meal of a Popcorn Rice Bowl, 2 Pc P",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roll Meal Box",
+        "price": "₹399",
+        "description": "Save Rs. 95 with special Roll Box Meal of a Classic Chicken Roll , 2 P",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Box Meal",
+        "price": "₹399",
+        "description": "Enjoy special Veg Box Meal with savings of Rs. 101 on Veg Zinger Burge",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Zinger Burger",
+        "price": "₹209",
+        "description": "It's Back! Crunchy Indian Paneer Patty Burger with tangy sauce and Veg",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Zinger Burger And Popcorn Meal",
+        "price": "₹439",
+        "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Zinger Burger",
+        "price": "₹219",
+        "description": "New Caribbean Spicy Zinger Burger with Spicy Bun & Spicy chilli sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Zinger Burger And Chicken Meal",
+        "price": "₹379",
+        "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Zinger Pro Burger & Popcorn Meal",
+        "price": "₹469",
+        "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zinger Pro Burger",
+        "price": "₹249",
+        "description": "New premium zinger with crunchy zinger fillet,cheese,lettuce,tomatoes,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mexican Zinger Pro Pepsi Bottle Combo",
+        "price": "₹329",
+        "description": "Get Pepsi 330ml Reusable Bottle with Mexican Zinger Pro Burger",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Zinger Pro Burger & Chicken Meal",
+        "price": "₹409",
+        "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Burger Buddy Meal",
+        "price": "₹529",
+        "description": "Save Rs. 28 & Share 2 American Classic Chicken Zinger Burgers & a Medi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mixed Chicken Zinger Burger Doubles",
+        "price": "₹369",
+        "description": "Save Rs.41 on Best-seller combo of classic chicken Zinger & Tandoori z",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Zinger Burger - Classic With Cheese",
+        "price": "₹224",
+        "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Zinger Burger - Tandoori With Cheese",
+        "price": "₹214",
+        "description": "Chicken zinger with delicious tandoori sauce & cheese slice",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "American Classic Zinger Mojito Combo",
+        "price": "₹297",
+        "description": "Get All New Mojito Reusable Bottle with American Classic Chicken Zinge",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Zinger Burger With Cheese",
+        "price": "₹214",
+        "description": "Signature veg burger with crispy patties, cheese slice, veggies & a ta",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Zinger Burger - Classic",
+        "price": "₹199",
+        "description": "Signature burger made with a crunchy chicken fillet, veggies & a delic",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Zinger Burger",
+        "price": "₹189",
+        "description": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Zinger Burger - Tandoori",
+        "price": "₹209",
+        "description": "Chicken zinger with a  delicious tandoori sauce",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "2 X Veg Krisper Burgers",
+        "price": "₹189",
+        "description": "2 delicious veg value burgers - at a deal price",
+        "food_type": "Veg"
+      },
+      {
+        "name": "2 Classic Chicken Krisper Burgers",
+        "price": "₹290",
+        "description": "2 units of delicious chicken value burgers featuring delicious sauce &",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cricket Crunch Meal",
+        "price": "₹449",
+        "description": "Crunchy Savings of Rs. 75 & Enjoy 2pc Hot & Crispy Chicken, 4 chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Dream Team Meal",
+        "price": "₹599",
+        "description": "Enjoy Special 11 meal by saving Rs. 164 on 3 Pc Chicken Leg Piece, 4 P",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Clean Bowled Combo",
+        "price": "₹666",
+        "description": "Hitter huge savings of Rs. 132 on 5 Pc Chicken Leg Piece & 5 Pc Hot Wi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Super Over Meal",
+        "price": "₹329",
+        "description": "Favorite combo of Classic Chicken Zinger Burger, Medium French Fries &",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Super 6s Chicken Bucket",
+        "price": "₹799",
+        "description": "Sixer Savings of Rs. 249 off on Special Bucket of 6 Pc Chicken Leg Pie",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Rolls Super Kings",
+        "price": "₹399",
+        "description": "Super Savings of Rs. 75 on 2 Classic chicken Roll, 4 Pc Hot Wings and",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Green Pitch Meal",
+        "price": "₹499",
+        "description": "Veg Lovers now save Rs. 252 on Veg meal of 2 Veg Zinger Burgers, 2 Veg",
+        "food_type": "Veg"
+      },
+      {
+        "name": "LBW Chicken Bucket",
+        "price": "₹899",
+        "description": "Leg Piece before any wicket! Deal savings of Rs. 308 on 10 Pc Chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken 5 Leg Piece Meal",
+        "price": "₹659",
+        "description": "Leg before any wicket! Save Rs. 131 on 5 Spicy Peri Peri Leg Pieces, 2",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+        "price": "₹519",
+        "description": "Howzatt Deal!! Save Rs. 122 with the indulging 10 Piece Peri Peri Bone",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken 5 Leg Piece Bucket",
+        "price": "₹529",
+        "description": "Save Rs 104 on 5 Spicy Peri Peri Leg Pieces",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+        "price": "₹599",
+        "description": "Get Pepsi 330ml Reusable Bottle with 5 Pc Peri Per Chicken Leg Piece a",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken 10 Leg Pc & 4 Dips",
+        "price": "₹969",
+        "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [se",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken Strips - 6 Pc",
+        "price": "₹309",
+        "description": "Save 13% with on savouring 6 Spicy Peri Peri chicken boneless strips [",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "6 Pc Strips & Pepsi Bottle Combo",
+        "price": "₹379",
+        "description": "Get Pepsi 330ml Reusable Bottle with 6 Pc Spicy Peri Peri Strips",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Chicken Krisper Burger Combo",
+        "price": "₹580",
+        "description": "Deal combo of 2 chicken krispers burgers, 2 pc Hot & Crispy, 2 dips (2",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Mingles Bucket Meal",
+        "price": "₹519",
+        "description": "Save Rs. 43 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Per",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "4 Pc Hot & Crispy Pepsi Bottle Combo",
+        "price": "₹519",
+        "description": "Get Pepsi 330ml Reusable Bottle with 4 Pc Chicken Hot & Crispy",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Mingles Bucket",
+        "price": "₹399",
+        "description": "Mingle with 4 Chicken Hot Wings, 2 Chicken peri peri boneless strips &",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Classic Roll Mojito Meal",
+        "price": "₹343",
+        "description": "Get All New Mojito Reusable 330ml Bottle with Large Fries and Classic",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Popcorn & French Fries Bucket",
+        "price": "₹329",
+        "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "2 X Veg Krispers Burger Meal",
+        "price": "₹299",
+        "description": "Save Rs. 39 with 2 veg value burgers, crispy Medium French Fries & 2 d",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Zinger Pepsi Bottle Combo",
+        "price": "₹279",
+        "description": "Get Pepsi 330ml reusable bottle with Classic chicken Zinger Burger",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "All In One Chicken Bucket",
+        "price": "₹569",
+        "description": "Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 S",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Ultimate Savings Chicken Bucket",
+        "price": "₹729",
+        "description": "Savings of 32% on signature bucket of 4pc Hot & crispy chicken, 6 Pc W",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Stay Home Chicken Bucket",
+        "price": "₹819",
+        "description": "Save Rs. 232 & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Big 12 - Chicken Bucket",
+        "price": "₹769",
+        "description": "Save 24% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each)",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Big 8 - Chicken Bucket",
+        "price": "₹729",
+        "description": "2pc Hot & Crispy, 2 Strips & 4pc Smoky Red chicken updated",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "HC Rice Bowlz",
+        "price": "₹230",
+        "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoky Red Chicken Rice Bowl",
+        "price": "₹230",
+        "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "PC Rice Bowlz",
+        "price": "₹230",
+        "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Rice Bowlz",
+        "price": "₹199",
+        "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Plain Rice Bowl",
+        "price": "₹139",
+        "description": "New Plain Rice Bowlz",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot & Crispy Chicken - 8 Pcs",
+        "price": "₹799",
+        "description": "Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hot & Crispy Chicken -6pc",
+        "price": "₹629",
+        "description": "Flat 10% off on 6pc signature Hot & crispy chicken [serves 2-3]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hot & Crispy Chicken-4pc",
+        "price": "₹439",
+        "description": "Save Rs. 24 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hot & Crispy Chicken -2pc",
+        "price": "₹230",
+        "description": "Signature Hot & crispy chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hot Chicken Wings - 4pc",
+        "price": "₹179",
+        "description": "Seasoned, signature KFC chicken wings",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Hot & Crispy Chicken-1pc",
+        "price": "₹115",
+        "description": "Signature Hot & crispy chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Popcorn - Large",
+        "price": "₹249",
+        "description": "Signature bite-sized boneless chicken, with special spices in Large Si",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Saucy Popcorn X CarryMinati",
+        "price": "₹229",
+        "description": "Special limited time Signature bite sized Boneless Chicken Popcorn in",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Popcorn - Medium",
+        "price": "₹179",
+        "description": "Signature bite-sized boneless chicken, with special spices in Medium S",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Popcorn - Regular",
+        "price": "₹115",
+        "description": "Signature bite-sized boneless chicken, with special spices",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoky Red Grilled Chicken - 5 Pc",
+        "price": "₹539",
+        "description": "Save Rs. 85 on 5pc Smoky red grilled chicken [serves 2]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "5 Pc Smoky Chicken Mojito Combo",
+        "price": "₹628",
+        "description": "Get All New Mojito Reusable Bottle with 5 Pc Smoky Red Grilled Chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoky Red Grilled Chicken - 2 Pc",
+        "price": "₹249",
+        "description": "Spicy, red, grilled chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoky Red Grilled Chicken - 1 Pc",
+        "price": "₹125",
+        "description": "Spicy, red, grilled chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken Strips - 3 Pc",
+        "price": "₹179",
+        "description": "3 Pieces Spicy Peri Peri chicken boneless strips",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "2 Pc Veg Patty",
+        "price": "₹155",
+        "description": "Delicious, crispy, veg add-on",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Mix French Fries - Large",
+        "price": "₹139",
+        "description": "Crispy french fries with a spicy chilli lime sprinkle",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Fries - Large",
+        "price": "₹119",
+        "description": "Jazz up your meal with crispy large fries!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Mix French Fries - Medium",
+        "price": "₹114",
+        "description": "Crispy french fries with a spicy chilli lime sprinkle",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Fries - Medium",
+        "price": "₹99",
+        "description": "Jazz up your meal with crispy french fries",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pack Of 4 Dips -20gm Each",
+        "price": "₹110",
+        "description": "Adding dips is always a good idea! (Save Rs. 5)",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pack Of 2 Dips-20gm Each",
+        "price": "₹57",
+        "description": "Adding dips is always a good idea!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Flavour Dip - 20 Gm",
+        "price": "₹29",
+        "description": "Special tandoori flavored dip, to add a twist to your meal!",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate Lava Cake",
+        "price": "₹109",
+        "description": "New Soft Chocolate cake with a gooey center- perfect chocolaty end to",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Virgin Mojito Reusable Bottle",
+        "price": "₹105",
+        "description": "A refreshing drink with lime and soda to beat the heat",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pepsi Reusable Bottle",
+        "price": "₹99",
+        "description": "[Not eligible for coupons]<br>Pepsi in a KFC reusable bottle",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choco Mud Pie",
+        "price": "₹129",
+        "description": "Chocolate lovers unite! Say hello to our delicious, new, creamy chocol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mousse Cake (Coffee Flavoured",
+        "price": "₹129",
+        "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new d",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pepsi PET 475ml",
+        "price": "₹57",
+        "description": "[Not eligible for coupons]<br>Cheers to fizz that makes you Rise Up Ba",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pepsi Can 300 Ml",
+        "price": "₹57",
+        "description": "[Not eligible for coupons]<br>Cheers to fizz that makes you Rise Up Ba",
+        "food_type": "Veg"
+      },
+      {
+        "name": "7UP Can 300 Ml",
+        "price": "₹57",
+        "description": "[Not eligible for coupons]<br>7UP is the ultimate Super-Duper Refreshe",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pepsi Black Can 300 Ml",
+        "price": "₹57",
+        "description": "[Not eligible for coupons]<br>Enjoy Pepsi Black to make your food rise",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mirinda Can 300 Ml",
+        "price": "₹57",
+        "description": "[Not eligible for coupons]<br>Great orange taste and sparking bubbles",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/j8W1Tva5V_BajwoeneYQ8wKdoaKP7Gl0TeIuIavtEwdVJ8IiGY68tQl6MTdTtnYM1yK4uBnCJmWv_59gYcmJzeXZMvmT83HKzm__Bt8P=w192-rw",
+        "alt_text": "KFC photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PnwQjjCtIVGW20FU7HXlLbT6doPmrYsS-t88_SrfKDvMqQ114_e9yosx-v4g9STlLJj74beMLjfXE_luhHmBGNzPXhKaRDcs6z8bv5QB=w192-rw",
+        "alt_text": "KFC photo 2"
+      }
+    ],
+    "source_file": "kfc.json"
+  },
+  {
+    "name": "New-York-Burrito",
+    "location": "Link Square Mall, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹600",
+    "rating": "4.7",
+    "url": "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/New-York-Burrito/store/2b9877/",
+    "address": "Opposite Hawaiian shack, Shop no. 1, Kalpitam Apartments, 16th Rd, Pali village, Link Square Mall, Mumbai, Mumbai",
+    "contact": "+917785005001",
+    "description": "New York Burrito Company is a F&amp;B-Casual Dining Indian outlet that offers a wide variety of delicious and authentic Indian dishes. The restaurant has a cozy and inviting atmosphere, and the staff is friendly and attentive. The menu features a variety of vegetarian and non-vegetarian dishes, as well as a selection of desserts. The restaurant also offers catering services for special occasions. The food is freshly prepared and the prices are reasonable. The restaurant is a great place to enjoy a delicious meal with friends and family.",
+    "cuisines": [
+      "Mexican",
+      "Fast Food"
+    ],
+    "operational_hours": {
+      "MONDAY": "10:00:00 - 00:00:00",
+      "TUESDAY": "10:00:00 - 00:00:00",
+      "WEDNESDAY": "10:00:00 - 00:00:00",
+      "THURSDAY": "10:00:00 - 00:00:00",
+      "FRIDAY": "10:00:00 - 00:00:00",
+      "SATURDAY": "10:00:00 - 00:00:00",
+      "SUNDAY": "10:00:00 - 00:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Smart Water (750 ml)",
+        "price": "₹70",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Thums Up (330 ml)",
+        "price": "₹79",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ginger Ale (300 ml)",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sprite (330 ml)",
+        "price": "₹79",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cucumber Mint Lemonade 250 ml",
+        "price": "₹99",
+        "description": "Fresh soothing beverage with a blend of cucumber pulp and mint.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dragon Fruit Lemonade 250 ml",
+        "price": "₹99",
+        "description": "A refreshing beverage which is a blend of fresh dragon fruit, lemon an",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ice Tea 250 ml",
+        "price": "₹99",
+        "description": "A cold refreshing beverages made with extraction  of homemade tea and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hibiscus Mint Lemonade",
+        "price": "₹99",
+        "description": "Hibiscus Mint is a sharp blend of Hibiscus flower and mint that gives",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate Walnut Brownie",
+        "price": "₹99",
+        "description": "Ooey-gooey chocolate and walnut brownie. The perfect end to your perfe",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tres Leches Cake",
+        "price": "₹149",
+        "description": "A traditional mexican dessert of soft sponge cake immersed in 3 types",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Red Bull (250 ml)",
+        "price": "₹160",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Delight Panini",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pesto Pomodoro Panini",
+        "price": "₹229",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Maxican Panini",
+        "price": "₹229",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hard-Shell Tacos",
+        "price": "₹249",
+        "description": "a traditional Mexican treat, is a palm-sized tortilla in a crescent cr",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gordita (Jain)",
+        "price": "₹249",
+        "description": "A Gordita is a round Mexican bread stuffed with refried beans, cheese,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Gordita (Regular)",
+        "price": "₹249",
+        "description": "A Gordita is a round Mexican bread stuffed with refried beans, cheese,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilly Cheese Quesadillas",
+        "price": "₹279",
+        "description": "Hand made tortillas, stuffed with orange cheddar cheese, chillies and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Quesadilla's",
+        "price": "₹279",
+        "description": "It doesn’t get more Mexican than this, a lot of beans, a lot of cheese",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Guacamole Burger",
+        "price": "₹299",
+        "description": "Crispy Black bean patty topped very own fresh guacamole with nachos fo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Make your own Mexican Bowl",
+        "price": "₹329",
+        "description": "(100% imported hass avocado guacamole is included) Make your own bowl",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included)  Mushroom burrito i",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Paneer burrito is a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tex Mex Veg Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Tex mex veg burrito",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soya Chaap Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Soya chaap burrito",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cranberry Almond Crisps",
+        "price": "₹214",
+        "description": "Tangy taste of cranberries is clubbed with the goodness of almonds, ri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "California Pistachio Crunch",
+        "price": "₹285",
+        "description": "The energy packed California pistachios with pink salt and brown rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pistachio Crunch",
+        "price": "₹29",
+        "description": "The energy packed California pistachios with pink salt and brown rice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soft Tacos- 2 Pcs",
+        "price": "₹299",
+        "description": "Wrapped in two soft tortillas is a perfect blend of fajitas, tex- mex",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Queesadillas",
+        "price": "₹279",
+        "description": "It doesn’t get more Mexican than this, a lot of beans, a lot of cheese",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Tofu burrito is a s",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Potatoes Burrito",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Peri peri potatoes",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spinach Burrito",
+        "price": "₹369",
+        "description": "(100% imported hass avocado guacamole is included) Spinach burrito is",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Whole Wheat Burrito",
+        "price": "₹369",
+        "description": "(100% imported hass avocado guacamole is included) Wheat burrito is a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Habenaro Grilled Paneer Burrito",
+        "price": "₹339",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Mushroom burrito bo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Paneer burrito Bowl",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Tofu burrito bowl i",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Potatoes Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included)Peri peri potatoes b",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soya Chaap Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included)  Soya chaap burrito",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tex Mex Veg Mexican Bowl",
+        "price": "₹339",
+        "description": "(100% imported hass avocado guacamole is included) Tex mex veg burrito",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Habenaro Grilled Paneer Mexican Bowl",
+        "price": "₹339",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mucho Meal",
+        "price": "₹449",
+        "description": "A regular Burrito with nacho pockets and salsas and our very own lemon",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hass Avocado Milkshake (190 ML)",
+        "price": "₹199",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Salsa And Queso With Chips",
+        "price": "₹649",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Amigo Guac Bowl with Chips",
+        "price": "₹949",
+        "description": "2 Big Bowls of Fresh Guacamole made at the outlet served with super se",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Make your own Burrito",
+        "price": "₹329",
+        "description": "(100% imported hass avocado guacamole is included) Make your own burri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Super Nachos",
+        "price": "₹349",
+        "description": "A traditional North Mexican treat, is a platter of heated tortilla chi",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nachos",
+        "price": "₹279",
+        "description": "Nacho chips made of 100% natural corn loaded with creamy cheese topped",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilly Cheese Quesadilla",
+        "price": "₹279",
+        "description": "Hand made tortillas, stuffed with orange cheddar cheese, chillies and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Soft Taco- 2 Pcs",
+        "price": "₹329",
+        "description": "Wrapped in two soft tortillas is a perfect blend of fajitas, tex- mex",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Make your own Burrito +Cooler",
+        "price": "₹389",
+        "description": "Tasty meal wrapped in a  hot tortilla, paired with heavenly cooler. Oh",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Make your own Mexican Bowl+Coolers",
+        "price": "₹389",
+        "description": "a symphony of flavour, taste and health. need we say more about this c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mexican Pizza- 8 Inches",
+        "price": "₹479",
+        "description": "Delicious handmade crisssssspyyy tortillas topped with savory toppings",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Pizza",
+        "price": "₹479",
+        "description": "8 Inches",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Pizza",
+        "price": "₹479",
+        "description": "8 Inches",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Super Guacamole-150Grams",
+        "price": "₹399",
+        "description": "OH MY Word! This bowl on serene happiness is freshly prepared after yo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Potatoes",
+        "price": "₹179",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chips with Guacamole & Salsa",
+        "price": "₹279",
+        "description": "Crunchy nacho chips served with salsa and guacamole made from 100% Has",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coke (330 ml)",
+        "price": "₹79",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Diet Coke",
+        "price": "₹79",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Red Bull Sugarfree (250 ML)",
+        "price": "₹160",
+        "description": "[Not eligible for coupons]",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coolberg Cranberry (330 ML)",
+        "price": "₹149",
+        "description": "N/A",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/K_dz_7HS64Nz1VP9v17S66_-FfxmMWah4tpBbWjdRf9a1B9KqpVRPUmuRcv6h0T7g_Eo4jUagMwnj_btkS_6_3A6bLsL_1bJLMdMrsU=w192-rw",
+        "alt_text": "New York Burrito photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/QVkuddXDxVZgvbDtilQNHx7JAMpkKgW86GPmeGYRG_DwJLPM0yxJRSi7BGDxtXzUhhImPxdipySkFMJ_UpIAuik1JLbCaMhxMnji0zFu=w192-rw",
+        "alt_text": "New York Burrito photo 2"
+      }
+    ],
+    "source_file": "new-york-burrito.json"
+  },
+  {
+    "name": "Pasta-Xpress",
+    "location": "Sector 11, Dwarka, Sector 12, Dwarka, New Delhi.",
+    "cost_for_two": "Cost for two: ₹500",
+    "rating": "4.1",
+    "url": "https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/",
+    "address": "G - 35,Manish Market, Pocket-2,Sector - 11, Sector 11, Dwarka, New Delhi, New Delhi",
+    "contact": "+911147015393",
+    "description": "Pasta Xpress is a F&amp;B-Casual Dining outlet that offers a wide variety of Italian-inspired dishes. The menu features a selection of pastas, pizzas, salads, and sandwiches, as well as a variety of desserts. The atmosphere is relaxed and inviting, with a focus on providing a comfortable and enjoyable dining experience. The staff is friendly and attentive, and the prices are reasonable. Whether you&#39;re looking for a quick bite or a leisurely meal, Pasta Xpress is the perfect spot for a delicious Italian-style meal.",
+    "cuisines": [
+      "Pasta",
+      "Pizza",
+      "Burger"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Classic Vada Pav Burger",
+        "price": "₹49",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese & Corn Treat",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese &capsicum Treat",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese &onion Treat",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Fries",
+        "price": "₹80",
+        "description": "Deep-fried potato batons, seasoned with salt",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Potato Burger",
+        "price": "₹85",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Corn And Cheese",
+        "price": "₹89",
+        "description": "Corn and cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veggie Burger",
+        "price": "₹99",
+        "description": "Baked sliced bun stuffed with a vegetable patty, chopped vegetables an",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veggie Mint Burger",
+        "price": "₹99",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken & Tikka Treat",
+        "price": "₹109",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheese & Spicy Chicken Treat",
+        "price": "₹109",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken & Salami Treat",
+        "price": "₹109",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheese & Sausage Treat",
+        "price": "₹109",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Bbq Burger",
+        "price": "₹110",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Burger",
+        "price": "₹110",
+        "description": "Baked sliced bun stuffed with a chicken patty, onion, tomato and mayon",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": "₹120",
+        "description": "Made cheese with 100% real mozzarella cheese, plain cheese pizza.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Makhni Sandwich",
+        "price": "₹120",
+        "description": "Makhani sauce, onion, corn and paneer.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Burger",
+        "price": "₹125",
+        "description": "Baked sliced bun stuffed with a cottage cheese patty, onion, tomato an",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Chicken Burger",
+        "price": "₹125",
+        "description": "[Spicy]",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheese & Tomato Pizza",
+        "price": "₹130",
+        "description": "Cheese and tomato.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese & Onion Pizza",
+        "price": "₹130",
+        "description": "Onion and cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pizza Sandwich",
+        "price": "₹130",
+        "description": "Onion, capsicum, mushroom, corn, mozzarella cheese and pizza sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken And Corn Cheese Sandwich",
+        "price": "₹130",
+        "description": "Chicken, corn and cheese.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Garlic Bread With Cheese",
+        "price": "₹140",
+        "description": "Bread baked in oven, infused with garlic flavour and topped with chees",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Delight Pizza",
+        "price": "₹149",
+        "description": "Sweet corn and chicken ham.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Golden Delight Pasta",
+        "price": "₹129",
+        "description": "Creamy white sauce, golden sweet corn, chicken, cheese",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "N V Extravaganza Pasta",
+        "price": "₹250",
+        "description": "Onion, capsicum, mushroom, chicken, chicken ham & extra cheese choose",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non Veg Achari Pasta",
+        "price": "₹240",
+        "description": "Homemade achari sauce, onion, capsicum, broccoli and spicy chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mutton Pasta",
+        "price": "₹240",
+        "description": "Mutton kabab, onion, red paprika, broccoli and extra cheese, choose an",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Egg Pasta",
+        "price": "₹185",
+        "description": "Double egg, onion, capsicum, broccoli, cheese, red sauce.",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Bar Be Que Pasta",
+        "price": "₹250",
+        "description": "our homemade spl. BBQ sauce, onion, green pepper, chicken & extra chee",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Creamolatta Pasta",
+        "price": "₹240",
+        "description": "Onion, capsicum, yellow pepper, red pepper, mushroom, chicken, extra c",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Penne Al Forno Pasta",
+        "price": "₹210",
+        "description": "Chicken, mushroom & extra cheese choose any sauce (red, white, pink)",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Gamboroni Pasta",
+        "price": "₹240",
+        "description": "Pink sauce, chicken, mushroom, olive, broccoli, extra cheese",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "N V Makhani Pasta",
+        "price": "₹240",
+        "description": "Onion, capsicum, spicy chicken serve with delicious makhani sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "N V Tandoori Pasta",
+        "price": "₹240",
+        "description": "Onion, mushroom, chicken ham serve with royal tandoori sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non Veg Manchurian Pasta",
+        "price": "₹210",
+        "description": "Homemade manchurian sauce, (no MSG added), onion, capsicum, mushroom &",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spaghetti Bolognaise Pasta",
+        "price": "₹240",
+        "description": "Red pepper, yellow pepper, capsicum, chicken, extra cheese, red sauce",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Meat Lover's Pasta",
+        "price": "₹270",
+        "description": "Creamy white sauce, chicken, minced lamb, chicken ham, onon, black oli",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Makhani Paneer Pizza",
+        "price": "₹199",
+        "description": "Cottage cheese, jalapenos, onion, served with rich makhani sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Px Delight Pizza",
+        "price": "₹199",
+        "description": "Onion, sweet corn, jalapeno and broccoli.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Fantasy Pizza",
+        "price": "₹180",
+        "description": "Jalapeno, sweet corn, black olives and extra cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Salsa Pizza",
+        "price": "₹199",
+        "description": "Onion, capsicum, mushroom and tomato served with royal tandoori sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Philly Cheese Stix Pizza",
+        "price": "₹180",
+        "description": "Onion, capsicum, mushroom and red paprika, liquid cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Supreme Pizza",
+        "price": "₹220",
+        "description": "Onion, capsicum, mushroom, tomato, sweet corn and black olives.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bbq Pizza",
+        "price": "₹180",
+        "description": "Onion, capsicum and cottage cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fresh Veggie Pizza",
+        "price": "₹180",
+        "description": "Made with fresh and crunchy vegetables, onion, capsicum, tomatoes and",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Px Deluxe Pizza",
+        "price": "₹180",
+        "description": "Onion, capsicum, sweet corn and cottage cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mutton Pizza",
+        "price": "₹210",
+        "description": "Onion, capsicum, red paprika and mutton kabab.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non-Veg Supreme Pizza",
+        "price": "₹250",
+        "description": "Onion, capsicum, mushroom, chicken ham, chicken sausage, spicy chicken",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non-Veg Px Delight Pizza",
+        "price": "₹210",
+        "description": "Onion, capsicum, chicken ham and spicy chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Fajita Pizza",
+        "price": "₹199",
+        "description": "Onion, capsicum, chicken sausage, spicy chicken, served with royal tan",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Maytte Meati Pizza",
+        "price": "₹210",
+        "description": "Onion, chicken ham, chicken sausage and spicy chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Tikka Pizza",
+        "price": "₹199",
+        "description": "Onion, jalapenos and double topping of crunchy chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Butter Chicken Pizza",
+        "price": "₹199",
+        "description": "Onion, triple topping of spicy chicken, served with makhani sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non-Veg Philly Cheese Stix Pizza",
+        "price": "₹220",
+        "description": "Onion, capsicum, mushroom, chicken salami and red paprika.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non-Veg Bbq Pizza",
+        "price": "₹210",
+        "description": "Onion, capsicum, broccoli, chicken and chicken sausage.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "N.v.bbq Burger",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Non Veg Mint Burger",
+        "price": "₹125",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Non Veg Double Decker Burger",
+        "price": "₹190",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Chatkara Fries",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese Corn Triangles [8 Pieces",
+        "price": "₹140",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Fries",
+        "price": "₹150",
+        "description": "N/A",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Garlic Bread Stix",
+        "price": "₹120",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Exotic Garlic Bread",
+        "price": "₹170",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pizza Pouch",
+        "price": "₹170",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Garlic Bread Stix",
+        "price": "₹170",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Garlic Bread",
+        "price": "₹95",
+        "description": "Bread baked in oven, infused with garlic flavour",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Nuggets [8 Pieces]",
+        "price": "₹150",
+        "description": "Eight pieces",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Amchi Mumbai",
+        "price": "₹120",
+        "description": "Mashed Potato , Cucumber ,  Tomato Slice , Home Made Mint Chutney",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Magic",
+        "price": "₹110",
+        "description": "Onion, capsicum, jalapeno and cheese, peri peri seasoning.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Sanwich",
+        "price": "₹110",
+        "description": "Onion, capsicum, paneer and cheese.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Top In The Town Sandwich",
+        "price": "₹150",
+        "description": "Mayo, onion, capsicum, chicken tikka, chicken salami, chicken kabab an",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non Veg Makhani Sandwich",
+        "price": "₹140",
+        "description": "Makhani sauce, onion, chicken tikka and spicy chicken.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non Veg Pizza Sandwich",
+        "price": "₹160",
+        "description": "Pizza sauce, onion, capsicum, mushroom, chicken tikka, chicken kabab a",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Meat Hi Meat Sandwich",
+        "price": "₹150",
+        "description": "Mayo, onion, chicken tikka, chicken salami, chicken kabab and cheese.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Non Veg Jumbo Sandwich",
+        "price": "₹140",
+        "description": "Mayo, onion, capsicum, chicken kabab, chicken tikka with cheese.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mint Dip",
+        "price": "₹30",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Rosa Dip",
+        "price": "₹30",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Red Bull",
+        "price": "₹180",
+        "description": "[Not eligible for coupons]<br>FLAVOURED ENERGY DRINK",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Extra Mozrella",
+        "price": "₹70",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Extra Ketchup",
+        "price": "₹2",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Dip",
+        "price": "₹30",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese &tomato Treat",
+        "price": "₹79",
+        "description": "N/A",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/cVLxek-mJ8F8miH9ZgNhqyaDM4Z3YoxA3dum2IOmpt5kViE_Rfe_cScrW5u7tc9UtfxIgfpL2qjUtDD8w6uPj5OoD8XGnSlnMI927TJK=w192-rw",
+        "alt_text": "Pasta Xpress photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DyJ81D77kUphf9gkGaNC0YZY9Em9RvyWgUS1iqwx7Fti87_K5qtGuGIML8jlGlLy6L5MtAri1kc8XEl-aX9cZWVa36eT3yLSBw8umdEv=w192-rw",
+        "alt_text": "Pasta Xpress photo 2"
+      }
+    ],
+    "source_file": "pasta-xpress.json"
+  },
+  {
+    "name": "Poetry-By-Love-and-Cheesecake",
+    "location": "Link Square Mall, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.4",
+    "url": "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/Poetry-By-Love-and-Cheesecake/store/8b485/",
+    "address": "Shop 1 And 2, Ground Floor, Kamal Vishrantee Kutir, 24Th Road, Opposite St Theresa School, Pali Hill, Bandra West, Mumbai, Link Square Mall, Mumbai, Mumbai",
+    "contact": "+918291295412",
+    "description": "Poetry By Love And Cheesecake is a F&amp;B-Fine Dining restaurant that offers a unique dining experience. The restaurant serves a variety of dishes, from classic comfort food to modern fusion cuisine. The atmosphere is cozy and inviting, with a warm and inviting ambiance. The menu features a selection of appetizers, entrees, desserts, and drinks. The restaurant also offers a variety of special events, such as wine tastings and live music. The staff is friendly and attentive, and the service is top-notch. Poetry By Love And Cheesecake is the perfect place to enjoy a delicious meal with friends and family.",
+    "cuisines": [
+      "Desserts",
+      "Cafe",
+      "Bakery",
+      "Continental",
+      "Juices",
+      "Light Bites",
+      "Pasta",
+      "Finger Food",
+      "Coffee"
+    ],
+    "operational_hours": {
+      "MONDAY": "08:00:00 - 00:00:00",
+      "TUESDAY": "08:00:00 - 00:00:00",
+      "WEDNESDAY": "08:00:00 - 00:00:00",
+      "THURSDAY": "08:00:00 - 00:00:00",
+      "FRIDAY": "08:00:00 - 00:00:00",
+      "SATURDAY": "08:00:00 - 00:00:00",
+      "SUNDAY": "08:00:00 - 00:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Chocolate Tiramisu (Slice)",
+        "price": "₹216",
+        "description": "If youre a fan of the classic italian tiramisu dessert, then youre rea",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Original Ny Style Cheesecake (Slice)",
+        "price": "₹244",
+        "description": "Light and fluffy this cheesecake whispers with a hint of lemon zest an",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Club Sandwich",
+        "price": "₹440",
+        "description": "Ettuce, tomato, gherkin, dijon mustard, egg,\nmelted cheddar on toasted",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Turkish Eggs",
+        "price": "₹350",
+        "description": "Poached eggs, creamy garlic yogurt,\nspiced olive oil dressing, sourdou",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roasted Tomato & Basil Soup",
+        "price": "₹220",
+        "description": "Indulge in the comforting flavors of our Roasted Tomato & Basil Soup.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Milkshakes",
+        "price": "₹370",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Loaded Classic Nachos",
+        "price": "₹420",
+        "description": "A delicious and satisfying appetizer featuring a generous portion of c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Blueberry Banana Smoothie Bowl",
+        "price": "₹360",
+        "description": "Blueberries, banana, yogurt, granola, almonds",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Brownie & Nutella Milkshake",
+        "price": "₹295",
+        "description": "Indulge in the ultimate chocolate lover's dream with our Brownie & Nut",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spaghetti Pomodoro",
+        "price": "₹440",
+        "description": "Cherry tomato, parmesan cheese, basil",
+        "food_type": "Veg"
+      },
+      {
+        "name": "California Club Panini",
+        "price": "₹510",
+        "description": "Avocado, lettuce, cream cheese, tomato, pesto, parmesan\non a herbed pa",
+        "food_type": "Veg"
+      },
+      {
+        "name": "The Brunch Burger",
+        "price": "₹450",
+        "description": "chicken burger patty, sunny side egg, iceberg,\nhollandaise sauce, toma",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Paprika Spiced Roast Chicken",
+        "price": "₹420",
+        "description": "W/sauteed vegetables, potato mash, arugula",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Mango & Mascarpone Crepes",
+        "price": "₹545",
+        "description": "Delight in our Mango & Mascarpone Crepes: delicate, thin crepes filled",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Avo Chilli Cheese Scrambled Egg Croissant",
+        "price": "₹470",
+        "description": "Avocado, arugula, bell pepper, cheddar, fries",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bbq Smothered Chicken Sandwich",
+        "price": "₹510",
+        "description": "On an open-faced herb panini",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Risotto Alla Paprika",
+        "price": "₹635",
+        "description": "Paprika sauce - chicken, mushroom, parmesan",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Pocket",
+        "price": "₹500",
+        "description": "Grilled chicken, stuffed with spinach\nherbed mushrooms & mozzarella, s",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Black Peppercorn Chicken Steak",
+        "price": "₹570",
+        "description": "Chicken steak, carrot, broccoli, french beans,\nmustard, potato mash, b",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Vegetarian Stroganoff",
+        "price": "₹420",
+        "description": "Grilled vegetables, smothered in sour cream stroganoff\nsauce with mush",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pink Sauce Pasta",
+        "price": "₹440",
+        "description": "Equal parts of red sauce and white alfredo sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Mojito",
+        "price": "₹260",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Parfait",
+        "price": "₹545",
+        "description": "Granola, mango , yogurt",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Pancakes",
+        "price": "₹480",
+        "description": "Golden, fluffy pancakes bursting with juicy alphonso mango chunks, dri",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Waffles",
+        "price": "₹515",
+        "description": "Our Mango Waffles are golden, crispy waffles infused with sweet mango",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mangoes & Cream",
+        "price": "₹445",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango French Toast",
+        "price": "₹595",
+        "description": "Savor the tropical delight of our Mango French Toast: thick slices of",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Club Sandwich Combo",
+        "price": "₹519",
+        "description": "(Sandwich, Fries, Salad & Choice of Beverage) Indulge in our Veg Club",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mushroom Swiss Burger Combo",
+        "price": "₹719",
+        "description": "(Burger + Fries + Salad + Choice of Beverage) Indulge in our Mushroom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Club Sandwich Combo",
+        "price": "₹529",
+        "description": "(Sandwich, Fries, Salad & Choice of Beverage) Indulge in our mouthwate",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Italian Chicken Wrap Combo",
+        "price": "₹619",
+        "description": "(Wrap, Fries, Salad & Choice of Beverage) Savory grilled chicken meets",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Buffalo Chicken Burger Combo",
+        "price": "₹719",
+        "description": "(Burger + Fries + Salad + Choice of Beverage) Savor the fiery flavor o",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sriracha Chicken Burger Combo",
+        "price": "₹719",
+        "description": "(Burger + Fries + Salad + Choice of Beverage) ndulge in a succulent sr",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Continental Breakfast",
+        "price": "₹420",
+        "description": "Seasonal sliced fruits + Bread basket - freshly baked butter croissant",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Full English Breakfast",
+        "price": "₹760",
+        "description": "Seasonal Sliced Fruits + Bread Basket - Freshly Baked Assortment Of Br",
+        "food_type": "Veg"
+      },
+      {
+        "name": "All American Breakfast 1",
+        "price": "₹760",
+        "description": "Seasonal Sliced Fruits + Bread Basket -Freshly Baked Assortment Of Bre",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Vegetarian Breakfast 1",
+        "price": "₹795",
+        "description": "Smashed avocado on sourdough, avocado, feta, pickled onion , on multig",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetarian Breakfast 3",
+        "price": "₹750",
+        "description": "Hash Brown Potato Pancakes, served with a house favorite diavolo spice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "All American Breakfast 2",
+        "price": "₹750",
+        "description": "House favorite blueberry pancake server with maple syrup ,seasonal sli",
+        "food_type": "Egg"
+      },
+      {
+        "name": "All American Breakfast 3",
+        "price": "₹795",
+        "description": "Belgian Chocolate Waffle,chocolate truffle, melted callebout chocolate",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Vegetarian Breakfast 2",
+        "price": "₹750",
+        "description": "Breakfast Burrito, guocamole, black beans,  sprouts, bell pepper, mozz",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Stuffed Omelette",
+        "price": "₹400",
+        "description": "Mushrooms, onions, sun-dried tomatoes,\nspinach, mozzarella, served wit",
+        "food_type": "Veg"
+      },
+      {
+        "name": "The Popeye",
+        "price": "₹400",
+        "description": "Scrambled eggs, spinach, onion, yellow cheddar",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Skinny Omelette",
+        "price": "₹420",
+        "description": "Egg whites, mushrooms, roasted peppers, goat cheese",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Scrambled Eggs",
+        "price": "₹470",
+        "description": "Arugula, truffe oil on multigrain sourdough",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Loaded Omelette",
+        "price": "₹470",
+        "description": "chicken sausage, bacon, cheddar, salsa, caramelised\nonions, BBQ sauce,",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Build Your Own Eggs (Choice Of Four)",
+        "price": "₹470",
+        "description": "Create your ultimate breakfast experience with our build-your-own eggs",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Eggs Benny",
+        "price": "₹520",
+        "description": "ham, spinach, mushrooms, iceberg, hashbrown,\ntomato, poached eggs on a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fluffy Banana Pancake",
+        "price": "₹340",
+        "description": "Enjoy a stack of fluffy banana pancakes for breakfast! Made with ripe",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Old School Pancake",
+        "price": "₹340",
+        "description": "Made with fluffy buttermilk batter and cooked to golden perfection, th",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Blueberry Pancake",
+        "price": "₹360",
+        "description": "A house favourite! Fluffy buttermilk pancakes filled with juicy bluebe",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Toast - Classic",
+        "price": "₹440",
+        "description": "N/A",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Belgian Chocolate Waffle",
+        "price": "₹460",
+        "description": "A deliciously crispy belgian waffle infused with rich, decadent chocol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nutella Pancake",
+        "price": "₹470",
+        "description": "A deliciously fluffy pancake made with a homemade batter, topped with",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Nutella French Toast",
+        "price": "₹480",
+        "description": "Indulge in the ultimate breakfast delight with our Nutella French Toas",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Smoked Paprika Hummus & Pita",
+        "price": "₹340",
+        "description": "Smoky and spicy, our Smoked Paprika Hummus is made with chickpeas, tah",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sourdough Cheese Garlic Bread",
+        "price": "₹395",
+        "description": "Freshly baked sourdough bread, slathered with garlic butter and topped",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Avocado Bruschetta Tartine",
+        "price": "₹410",
+        "description": "Avocado bruschetta tartine is a delicious appetizer or light meal that",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Tikka Roll",
+        "price": "₹395",
+        "description": "Experience the flavorful delight of our Chicken Tikka Roll—a tantalizi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Meatballs In Chimichuri Sauce",
+        "price": "₹420",
+        "description": "Tender chicken meatballs, crafted with care and simmered in a vibrant",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cajun Spiced Potato Fries",
+        "price": "₹260",
+        "description": "Cajun spiced potato fries are crispy, golden-brown potato fries that a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken & Cheese Sticks In Marinara Sauce",
+        "price": "₹425",
+        "description": "Introducing our Paneer Akuri: A delightful twist on the classic Parsi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Club Sandwich",
+        "price": "₹470",
+        "description": "Avocado, bell pepper, zucchini, tomato, mushroom,\nlettuce, dijon musta",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Portobello Panino Sandwich",
+        "price": "₹490",
+        "description": "Mushroom, mozzarella, lettuce, pesto mayo, herb panini",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Black Bean Quinoa Burger",
+        "price": "₹510",
+        "description": "W/lettuce, tomato, chipotle, caramelised onion, gherkin,\nmelted chedda",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roasted Chicken Pesto Melt On Sourdough",
+        "price": "₹420",
+        "description": "With caramelised onions",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Sriracha Chicken Burger",
+        "price": "₹430",
+        "description": "Sriracha fried chicken, w/caramelised onions, tomato,\niceberg, cheddar",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Grilled Chicken Pesto Wrap",
+        "price": "₹470",
+        "description": "W/iceberg, cheddar, tomato, onion, in a tortilla wrap",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Ham & Cheese Croissant Sandwich",
+        "price": "₹510",
+        "description": "W/lettuce, gherkin, honey mustard glaze on butter croissant",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pesto Risotto",
+        "price": "₹595",
+        "description": "Arugula, basil pesto, sauteed mushroom",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spaghetti Red Pasta",
+        "price": "₹595",
+        "description": "truffle tomato sauce spinach & Herbed parmesan balls",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spaghetti Aglio E Olio",
+        "price": "₹420",
+        "description": "Fresh garlic, olive oil, chilli flakes, parmesan",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Red Sauce Pasta",
+        "price": "₹420",
+        "description": "Classic Italian tomato sauce",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Alfredo",
+        "price": "₹460",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Pesto Pasta",
+        "price": "₹495",
+        "description": "Fresh basil,pine nuts,garlic,olive olive oil & cheese",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Honey Roasted Carrots & Veggies In Turkish Hyadiri Sauce",
+        "price": "₹420",
+        "description": "Carrots, zucchini, bell peppers, pita bread",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Sauted Mushrooms With Creamy Mash",
+        "price": "₹420",
+        "description": "Garlic-kissed plump mushrooms over a  fluffy potato mash",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spinach Croquettes In A Caramelized Onion Gratin",
+        "price": "₹495",
+        "description": "Golden, crisp spinach & cheese fritters, nestled in a bed of creamy ca",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vegetarian Lasagne",
+        "price": "₹495",
+        "description": "Layers of fresh, seasonal vegetables, creamy béchamel & melty cheese b",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken In Spicy Honey Orange Glaze",
+        "price": "₹470",
+        "description": "Honey glazed breast of chicken, stuffed with\nspinach & peppers, cooked",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Bacon And Cheddar Chicken",
+        "price": "₹495",
+        "description": "Served with a veggie-bacon sauce",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken & Mushroom Stroganoff",
+        "price": "₹495",
+        "description": "Golden seared chicken breast, smothered in\nsour cream stroganoff sauce",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Toasted Quinoa & Eggplant Balls In Marinara Sauce",
+        "price": "₹495",
+        "description": "Served with multigrain sourdough bread",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coffee Frappe",
+        "price": "₹240",
+        "description": "A popular iced coffee beverage that combines coffee, milk, and ice, bl",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/QHJx2DKcd7ARCDEWtMqx9KqZxA8fR6d8xgIupy9QfGxeRhydBDuCx0mP5cXzLpZ9DZMTJRiPmp5FLk-IADNCofcKyEc=w192-rw",
+        "alt_text": "Poetry By Love & Cheesecake photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/RHCAWJhew9xFmv9SWXx7OBUmgVbnF-o8j4BUoAN23JihHasgibHG_xZdTPxzod25mtG1LXtDnrzLt05OwRdw37-3ZdM=w192-rw",
+        "alt_text": "Poetry By Love & Cheesecake photo 2"
+      }
+    ],
+    "source_file": "poetry-by-love-and-cheesecake.json"
+  },
+  {
+    "name": "Project-Hum",
+    "location": "Pali Hill, Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹800",
+    "rating": "4.9",
+    "url": "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/",
+    "address": "16, Gasper Enclave, St. John Road, Pali Hill, Mumbai, Mumbai",
+    "contact": "+919137883053",
+    "description": "Project Hum is a F&amp;B-Casual Dining outlet that offers a unique dining experience. It is a place where people can come together to enjoy delicious food, drinks, and conversation. The menu features a variety of dishes from around the world, including classic favorites and innovative creations. The atmosphere is relaxed and inviting, with a focus on creating a warm and welcoming environment. The staff is friendly and attentive, ensuring that each guest has a pleasant and enjoyable experience. Project Hum is the perfect place to gather with friends and family for a delicious meal and a great time.",
+    "cuisines": [
+      "Salad",
+      "Sandwich",
+      "Wraps"
+    ],
+    "operational_hours": {
+      "MONDAY": "11:00:00 - 23:00:00",
+      "TUESDAY": "11:00:00 - 23:00:00",
+      "WEDNESDAY": "11:00:00 - 23:00:00",
+      "THURSDAY": "11:00:00 - 23:00:00",
+      "FRIDAY": "11:00:00 - 23:00:00",
+      "SATURDAY": "11:00:00 - 23:00:00",
+      "SUNDAY": "11:00:00 - 23:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Italiano Salad",
+        "price": "₹410",
+        "description": "Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped melo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Greek Souvla Salad",
+        "price": "₹395",
+        "description": "Green mix, roasted sweet potato, orange segments, pickled onions, mix",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Pali Ceaser Salad",
+        "price": "₹395",
+        "description": "Kale mix, zoodles, za'atar croutons, beets, parmesan shavings, sunflow",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Everyday Mexican Salad",
+        "price": "₹395",
+        "description": "Green mix, bajra chilly, ragi nachos, corn salsa, avocado, beans, cash",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Kokum Lentil Salad",
+        "price": "₹395",
+        "description": "Green mix, sunflower seeds, black lentil, seasonal fruit, in-house sol",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Burrito And Bean Bowl",
+        "price": "₹420",
+        "description": "Brown/Cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Paprikash Bowl",
+        "price": "₹425",
+        "description": "Brown/Cauli rice, Madras chilly sauce, roasted potatoes, basil oil, ro",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Falapel The Habibi Bowl",
+        "price": "₹410",
+        "description": "Garlic brown rice, labneh, peppers, sun-dried tomato hummus.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Red Thai Bowl",
+        "price": "₹410",
+        "description": "Buckwheat noodles, byadgi-peanut curry, glazed pok-choy, mushroom, pic",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Burrito And Bean Bowl",
+        "price": "₹465",
+        "description": "Brown/Cauli rice, chimmichuri, avocado, mashed beans, pineapple salsa,",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Paprikash Bowl",
+        "price": "₹485",
+        "description": "Brown/Cauli rice, Madras chilly sauce, roasted potatoes, basil oil, ro",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken The Habibi Bowl",
+        "price": "₹465",
+        "description": "Garlic brown rice, labneh, peppers, sun-dried tomato hummus.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Red Thai Bowl",
+        "price": "₹480",
+        "description": "Buckwheat noodles, byadgi-peanut curry, glazed pok-choy, mushroom, pic",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tofu Soba Katsu Salad",
+        "price": "₹395",
+        "description": "Baby spinach, buckwheat noodles, edammame, tofu katsu, byadgi peanut v",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Subbich Salad",
+        "price": "₹395",
+        "description": "Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range",
+        "food_type": "Egg"
+      },
+      {
+        "name": "Chicken Taliano Salad",
+        "price": "₹510",
+        "description": "Romaine, pesto sorghum millet, bocconcini, pumpkin seeds, scooped melo",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Pali Ceaser Salad",
+        "price": "₹495",
+        "description": "Kale mix, zoodles, za'atar croutons, beets, parmesan shavings, sunflow",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Subbich Salad",
+        "price": "₹485",
+        "description": "Roasted eggplant, chickpea, broccoli, proso millet, flax seeds, range",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Everyday Mexican Salad",
+        "price": "₹485",
+        "description": "Green mix, bajra chilly, ragi nachos, corn salsa, avocado, beans, cash",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Omega Miso Fish Salad",
+        "price": "₹525",
+        "description": "Fish of the month, romaine blend, avocado, walnut, edamame, fresh oran",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "House Blend Spiced Tofu",
+        "price": "₹450",
+        "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spice Grilled Lean Chicken",
+        "price": "₹495",
+        "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Togarashi Grilled Fish Of The Month",
+        "price": "₹595",
+        "description": "Your choice of protien served with 2 sides and Chimichurri sauce.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Fico Sandwich",
+        "price": "₹395",
+        "description": "Served with fries or salad.\nGrilled zucchini & mushroom, bellpepper ja",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Seetbeet Sandwich",
+        "price": "₹395",
+        "description": "Served with fries or salad.\nRosemary sweet potato, pickled beets, avoc",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Fico Open Toast",
+        "price": "₹310",
+        "description": "Served with fries or salad.\nGrilled zucchini & mushroom, bellpepper ja",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Seetbeet Open Toast",
+        "price": "₹395",
+        "description": "Served with fries or salad.\nRosemary sweet potato, pickled beets, avoc",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Br Avocado Toast",
+        "price": "₹350",
+        "description": "Served with fries or salad.\nByadgi macha, pickled onion, bellpepper ja",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Avocado Sandwich",
+        "price": "₹475",
+        "description": "Served with fries or salad.\nBellpepper jam, cheddar, kale pesto, romai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Avocado Open Toast",
+        "price": "₹360",
+        "description": "Served with fries or salad.\nBellpepper jam, cheddar, kale pesto, romai",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sabbaba Wrap",
+        "price": "₹395",
+        "description": "Served with fries and salad.\nSorghum falafel, byadgi hot sauce, toum,",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tofu Cowboy Wrap",
+        "price": "₹395",
+        "description": "Served with fries and salad.\nGuacamole, byadgi chilly macha, mashed be",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Souvlaki Wrap",
+        "price": "₹430",
+        "description": "Served with fries and salad.\nShish taouk chicken, byadgi hot sauce, to",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Cowboy Wrap",
+        "price": "₹430",
+        "description": "Served with fries and salad.\nGuacamole, byadgi chilly macha,",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Seasonal Compote Toast",
+        "price": "₹395",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Banoffee Brioche Toast",
+        "price": "₹395",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Espresso",
+        "price": "₹210",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Espresso",
+        "price": "₹215",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Long Black",
+        "price": "₹220",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Long Black",
+        "price": "₹225",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Piccolo",
+        "price": "₹220",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Cortado",
+        "price": "₹230",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ice Cortado",
+        "price": "₹235",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Flat White",
+        "price": "₹240",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ice Flat White",
+        "price": "₹245",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Cappuccino",
+        "price": "₹245",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Cappuccino",
+        "price": "₹250",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Latte",
+        "price": "₹255",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Latte",
+        "price": "₹260",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Honey Cappuccino",
+        "price": "₹285",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Mocha",
+        "price": "₹265",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Mocha",
+        "price": "₹275",
+        "description": "N/A",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/J_31kcxsAOXrFNIhNONgURLV71-sojRkKE8sj1Ar2wYMxIgSJKj3hIimPlV2jlBOT-RhPgsvBzfjR_J7kycQe4aIGT5ILJPmfi1SFlsUJQ=w192-rw",
+        "alt_text": "Project Hum photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ay4GUwG-mm2BqVBR40ydVIirsDqezGHfY43XY2DlsHTkZllFhBEo1H8OGKH6ny36mOWboBFES6W9s3IhyTpXGedP8V-ryrT96XtmA8uZLQ=w192-rw",
+        "alt_text": "Project Hum photo 2"
+      }
+    ],
+    "source_file": "project-hum.json"
+  },
+  {
+    "name": "Subway",
+    "location": "Connaught Place (Cp), Rajiv Chowk, New Delhi.",
+    "cost_for_two": "Cost for two: ₹400",
+    "rating": "4",
+    "url": "https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/",
+    "address": "(P BLOCK) P-3/90, Opp. Rivoli Cinema, Baba Kharak Singh Marg, Connaught Place (CP), New Delhi, New Delhi",
+    "contact": "+919311994106",
+    "description": "Subway is a F&amp;B-QSR Indian outlet that offers a wide variety of delicious and healthy food options. It has a wide range of sandwiches, salads, wraps, and other items that are made with fresh ingredients. The food is prepared quickly and served in a friendly and welcoming atmosphere. The staff is friendly and helpful, and the prices are very reasonable. Subway also offers catering services for special occasions and events. The restaurant is clean and well-maintained, and the food is always fresh and delicious. Subway is a great place to enjoy a quick and tasty meal.",
+    "cuisines": [
+      "Healthy Food",
+      "Glueten Free",
+      "Vegan"
+    ],
+    "operational_hours": {
+      "MONDAY": "09:00:00 - 23:30:00",
+      "TUESDAY": "09:00:00 - 23:30:00",
+      "WEDNESDAY": "09:00:00 - 23:30:00",
+      "THURSDAY": "09:00:00 - 23:30:00",
+      "FRIDAY": "09:00:00 - 23:30:00",
+      "SATURDAY": "09:00:00 - 23:30:00",
+      "SUNDAY": "09:00:00 - 23:30:00"
+    },
+    "menu_items": [
+      {
+        "name": "Iced Green Tea- Mint Mojito 245ml",
+        "price": "₹95",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veggie & Cheese Toastie",
+        "price": "₹114",
+        "description": "The perfect on-the-go snack, enriched with mozzarella cheese, Tomatoes",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Veggie Craver (10cm)",
+        "price": "₹169",
+        "description": "A delicious veggie patty made with chickpeas and green peas tossed in",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Paneer Craver (10cm)",
+        "price": "₹169",
+        "description": "A crispy paneer patty with tangy mint and smoky tandoori mayo, topped",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Chicken Craver (10cm)",
+        "price": "₹169",
+        "description": "A Middle Eastern-inspired chicken patty with a garlic sauce, topped wi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veggie Delite Sandwich",
+        "price": "₹229",
+        "description": "Delicious combination of fresh lettuce, tomatoes, green peppers, cucum",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Aloo Patty Sandwich",
+        "price": "₹249",
+        "description": "Aloo patty seasoned with special herbs and spices, paired with your ch",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Corn & Peas Sandwich",
+        "price": "₹249",
+        "description": "A delicious assortment of green peas, golden corn and diced carrots, d",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Sandwich",
+        "price": "₹259",
+        "description": "A tangy twist to your favourite cottage cheese cubes marinated in tand",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Veg Shammi Sandwich",
+        "price": "₹259",
+        "description": "Experience authentic flavours with kebab made of lentils and enriched",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Bean Patty Sandwich",
+        "price": "₹259",
+        "description": "A refreshing filling of red and black kidney beans patty topped with a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Signature Wrap",
+        "price": "₹299",
+        "description": "Double the yum with double portion of spicy, Paneer marinated in tando",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Seekh Craver (10cm)",
+        "price": "₹169",
+        "description": "An authentic chicken seekh kebab tossed in a tandoori mayo sauce, topp",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Chicken Craver (10cm)",
+        "price": "₹169",
+        "description": "A perfectly spiced chicken patty blended with fresh herbs, topped with",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Potato Chilli Cheese",
+        "price": "₹309",
+        "description": "Hot toasted sub loaded with 1.5x potato patty and real mozz cheese, to",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Paneer Tikka",
+        "price": "₹339",
+        "description": "Double the paneer, with real mozz cheese. Indulge in hot cheesy paneer",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Mexican",
+        "price": "₹329",
+        "description": "Hot and cheesy toasted sub with 1.5x chili bean patty, real mozz chees",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheesy Chicken Tikka",
+        "price": "₹339",
+        "description": "Double the chicken, with real mozz cheese. Indulge in hot cheesy chick",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheesy American BBQ",
+        "price": "₹329",
+        "description": "Hot toasted sub loaded with 1.5x filling and real mozz cheese, topped",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg'n Chicken Melt",
+        "price": "₹309",
+        "description": "Hot toasted sub with a generous 1.5x filling of delicious egg and chic",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Keema Melt",
+        "price": "₹309",
+        "description": "Hot and cheesy toasted sub with 1.5x chicken keema, real mozz cheese,",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Cheesy Lamb Pepperoni",
+        "price": "₹349",
+        "description": "Hot toasted sub filled with 1.5x lamb pepperoni (100% NZ quality), rea",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Veg Subs + Side + Coke (Save Upto Rs199)",
+        "price": "₹360",
+        "description": "Enjoy a veg Create Your Own sub of your choice, with your favourite dr",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Non-Veg Subs + Side + Coke (Save Upto Rs155)",
+        "price": "₹398",
+        "description": "Enjoy any non-veg sub of your choice, with your favourite drink and a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "2 Veg Subs + Coke (Save Upto Rs169)",
+        "price": "₹439",
+        "description": "Combo of two freshly made veg subs of your choice with a drink. Offers",
+        "food_type": "Veg"
+      },
+      {
+        "name": "2 Veg Premium Subs + Coke (Save Upto Rs179)",
+        "price": "₹489",
+        "description": "Combo of two freshly made veg subs of your choice from our premium ran",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Any 2 Veg/Non-Veg Subs + Coke (Save Upto Rs200)",
+        "price": "₹539",
+        "description": "Combo of any two freshly made veg/non-veg subs of your choice with a d",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Meatball Sandwich",
+        "price": "₹269",
+        "description": "Authentic indian meatballs perfectly seasoned and spiced served along",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Slice Sandwich",
+        "price": "₹269",
+        "description": "Sliced smoked chicken with your choice of nutritious vegetables, serve",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Teriyaki Sandwich",
+        "price": "₹299",
+        "description": "Chicken strips glazed with teriyaki sauce, combined with your favourit",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "B.M.T Sandwich",
+        "price": "₹319",
+        "description": "Protein-enriched classic Italian B.M.T. sub with a mix of tasty chicke",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Chicken Sandwich",
+        "price": "₹279",
+        "description": "Let your tastebuds travel the world with African peri-peri flavoured c",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Sandwich",
+        "price": "₹279",
+        "description": "Hearty chicken marinated with flavorful ingredients like yogurt, garli",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tuna Sandwich",
+        "price": "₹319",
+        "description": "Flaked light tuna mixed with eggless mayo and heaped onto your choice",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Roasted Chicken Strip Sandwich",
+        "price": "₹279",
+        "description": "Classic preparation of succulent strips of smoked chicken served with",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Chicken Keema Sandwich",
+        "price": "₹269",
+        "description": "Spicy & juicy chicken keema served along with wholesome veggies and pa",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Italian B.M.T (Lamb)",
+        "price": "₹316",
+        "description": "Protein-enriched classic Italian B.M.T. sub with a mix of lamb peppero",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lamb Pepperoni",
+        "price": "₹316",
+        "description": "Indulge in 100% NZ quality lamb pepperoni with real mozz cheese, your",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Slice Salad",
+        "price": "₹319",
+        "description": "Simple. Delicious. Smoked chicken slices topped on wholesome and nutri",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoked Chicken Strips Salad",
+        "price": "₹319",
+        "description": "Classic preparation of succulent smoked chicken strips, along with you",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Teriyaki Salad",
+        "price": "₹319",
+        "description": "Enjoy our teriyaki flavours in a salad. Chicken strips glazed with ter",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "B.M.T. Salad",
+        "price": "₹319",
+        "description": "Who said salads have to be boring! Turn your favourite sub into a sala",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peri Peri Chicken Salad",
+        "price": "₹319",
+        "description": "Let your tastebuds travel the world with African peri-peri flavoured c",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Meatball Salad",
+        "price": "₹319",
+        "description": "The chicken meatball salad is the ultimate craving crusher. Authentic",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tuna Salad",
+        "price": "₹319",
+        "description": "Flaked light tuna mixed with eggless mayo and added to your choice of",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Salad",
+        "price": "₹319",
+        "description": "Hearty chicken marinated with Indian spices and cooked to perfection.",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Chicken Keema Salad",
+        "price": "₹319",
+        "description": "Spicy & juicy chicken keema served along with wholesome veggies. Servi",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Italian B.M.T (Lamb) Salad",
+        "price": "₹335",
+        "description": "Protein-enriched classic Italian B.M.T. salad with a mix of lamb peppe",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lamb Pepperoni Salad",
+        "price": "₹335",
+        "description": "Let your tastebuds travel the world with 100% n NZ quality lamb pepper",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Smoked Chicken Strips Signature Wrap",
+        "price": "₹319",
+        "description": "A classic that packs the goodness of double the filling. Double portio",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Slice Signature Wrap",
+        "price": "₹319",
+        "description": "Get an explosion of yumminess! Double portion of sliced chicken combin",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Peri Peri Chicken Signature Wrap",
+        "price": "₹319",
+        "description": "Double portion of African peri-peri flavoured chicken, along with high",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Meatball Sig. Wrap",
+        "price": "₹319",
+        "description": "Enjoy twice the amount of filling with this wrap. Double portion of au",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Chicken Teriyaki Signature Wrap",
+        "price": "₹319",
+        "description": "Get double the goodness. Double portion of teriyaki glazed chicken str",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Tuna Signature Wrap",
+        "price": "₹319",
+        "description": "Yummmy, its the tuna wrap! Double portion of flaked tuna mixed with ma",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Signature Wrap",
+        "price": "₹319",
+        "description": "Enjoy double the filling in this hearty wrap. Double portion of chicke",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Chicken Keema Signature Wrap",
+        "price": "₹329",
+        "description": "Spicy & juicy chicken keema served along with wholesome veggies and pa",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Lamb Pepperoni Sig. Wrap",
+        "price": "₹344",
+        "description": "Get an explosion of yumminess! Try our new lamb pepperoni (100% NZ qua",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Italian B.M.T (Lamb) Sig. Wrap",
+        "price": "₹344",
+        "description": "A protein overload that's balanced to perfection. Get a double portion",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Sizzling Jalapeno Cornitos",
+        "price": "₹33",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cheese & Herbs Cornitos",
+        "price": "₹33",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bingo Chips - Salt",
+        "price": "₹25",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Raw Choco Mint Protein Shake 195ml",
+        "price": "₹124",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Raw Coconut Water 200ml",
+        "price": "₹95",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Green Tea - Peach 245ml",
+        "price": "₹95",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango Smoothie 200ml",
+        "price": "₹95",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Oatmeal Raisin Cookie (eggless)",
+        "price": "₹75",
+        "description": "Like something extra and sweet add some sweetness with your favourite",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Double Dark Chunk Chocolate Cookie (eggless)",
+        "price": "₹75",
+        "description": "Tasty & chocolatey. Now enjoy your favourite double dark chocolate chu",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dark Chunk Chocolate Cookie (eggless)",
+        "price": "₹75",
+        "description": "Craving for chocolate, now enjoy your favourite dark chunk chocolate c",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/tsMcy4pJwo5sBVcLEzP6JIMkdUwccaaB7iWJTMVtAGRFAiC-yAlrY6K0c3aehPBqWO4FePidXjmVgX2EqN5nkCf8aRYzqdAMxwqRqLOy=w192-rw",
+        "alt_text": "Subway photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/eQy3nlU124CZcnxRn8a5l7gwRpAjP-OAln8pRi49zprSnHTsLDysQJrUGo0hPe54LMIphCL93W7W7LQ60p4C25saHvt6e2F2-7e4kdgm=w192-rw",
+        "alt_text": "Subway photo 2"
+      }
+    ],
+    "source_file": "subway.json"
+  },
+  {
+    "name": "Tim-Hortons",
+    "location": "Bandra West, Mumbai.",
+    "cost_for_two": "Cost for two: ₹1000",
+    "rating": "4.5",
+    "url": "https://magicpin.in/Mumbai/Bandra-West/Restaurant/Tim-Hortons/store/1579073/",
+    "address": "Unit No 2 & 3, Ground Level , Supreme Headquarters, 14Th & 33Rd Road, Near Link Square Mall, Bandra West, Mumbai, Mumbai",
+    "contact": "+918108017036",
+    "description": "Tim Hortons is a popular Canadian fast food restaurant chain. It is known for its coffee, doughnuts, and other baked goods. The menu also includes breakfast sandwiches, soups, salads, and wraps. The restaurant also offers a variety of specialty drinks, such as cappuccinos, lattes, and iced coffees. The atmosphere is casual and inviting, with a focus on providing a comfortable and enjoyable dining experience. The restaurant is also known for its friendly and helpful staff, who are always willing to help customers with their orders. Tim Hortons is a great place to grab a quick bite or to sit down and enjoy a meal with friends and family.",
+    "cuisines": [
+      "Coffee",
+      "Sandwich",
+      "Cafe",
+      "Juices",
+      "Light Bites"
+    ],
+    "operational_hours": {
+      "MONDAY": "07:00:00 - 00:00:00",
+      "TUESDAY": "07:00:00 - 00:00:00",
+      "WEDNESDAY": "07:00:00 - 00:00:00",
+      "THURSDAY": "07:00:00 - 00:00:00",
+      "FRIDAY": "07:00:00 - 00:00:00",
+      "SATURDAY": "07:00:00 - 00:00:00",
+      "SUNDAY": "07:00:00 - 00:00:00"
+    },
+    "menu_items": [
+      {
+        "name": "Boston Cream Donut",
+        "price": "₹150",
+        "description": "Our classic donut filled with Boston Cream and dipped in chocolate sau",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Bagel With Cream Cheese.",
+        "price": "₹195",
+        "description": "A classic bagel with cream cheese.\n\nServing size - 90g\nCalorie count -",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cappuccino",
+        "price": "₹250",
+        "description": "The perfect balance of espresso, steamed milk and foam.\n\nSmall - 236 m",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Cheese Toast.",
+        "price": "₹255",
+        "description": "Toasted sourdough bread generously topped with a mix of cheddar and gr",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": "₹260",
+        "description": "Rich and smooth hot chocolate drink with milky notes and the right amo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cold Coffee",
+        "price": "₹300",
+        "description": "Smooth and creamy iced coffee, prepared using our signature espresso r",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken & Cheese Melt Sandwich.",
+        "price": "₹360",
+        "description": "A delicious sourdough bread filled with a chunky spread of chicken, Ch",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Classic Donut Box Of 3",
+        "price": "₹360",
+        "description": "Chocolate Filled Donut:\n\nServing size - 115g\nCalorie count - 405.24 kc",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Frozen French Vanilla (On The Sweeter Side)",
+        "price": "₹365",
+        "description": "Smooth and rich vanilla flavoured beverage with light coffee notes, se",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Frozen French Vanilla With Espresso",
+        "price": "₹395",
+        "description": "Smooth and rich vanilla flavoured beverage, served over ice with a sho",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Double Double Latte",
+        "price": "₹285",
+        "description": "Our signature espresso roast, served over creamy and sweet milk.\n\nSmal",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Java Chip Iced Capp (Served Without Whipped Cream)",
+        "price": "₹355",
+        "description": "Signature creamy blended frozen coffee beverage served with chocolate",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chocolate Tims Shake (Served Without Whipped Cream)",
+        "price": "₹330",
+        "description": "A classic chocolate chip Tims shake, topped with chocolate sauce.\n\nSma",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chilli Cheese Toast",
+        "price": "₹255",
+        "description": "Toasted sourdough bread generously topped with a mix of cheddar and gr",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Americano",
+        "price": "₹230",
+        "description": "Our signature espresso roast served over hot water.\n\nSmall - 236 ml |",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Tikka Croissant Sandwich",
+        "price": "₹340",
+        "description": "A croissant sandwich filled with a flavourful mix of chicken tikka, on",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Spicy Cottage Cheese Melt Sandwich.",
+        "price": "₹370",
+        "description": "N/A",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Almond Croissant",
+        "price": "₹285",
+        "description": "A buttery croissant with roasted almonds.\n\nServing Size - 170g\nCalorie",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry Tims Shake (Served Without Whipped Cream)",
+        "price": "₹320",
+        "description": "A classic strawberry Tims shake, topped with strawberry sauce.\n\nSmall",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Egg, Cheese & Tomato Croissant Sandwich",
+        "price": "₹325",
+        "description": "Egg, tomato, cheddar and cream cheese sandwiched in a buttery, flaky c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lotus Biscoff Cheesecake",
+        "price": "₹360",
+        "description": "A slice of Lotus Biscoff cheesecake.\nServing size - 160g\nCalorie count",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Iced Latte",
+        "price": "₹280",
+        "description": "A rich blend of espresso and milk served over ice.\n\nSmall - 354 ml  |",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Vanilla (on The Sweeter Side)",
+        "price": "₹305",
+        "description": "Smooth and rich vanilla flavoured beverage with light coffee notes.\n\nS",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Latte",
+        "price": "₹250",
+        "description": "A rich blend of espresso, steamed milk and a thin layer of froth, made",
+        "food_type": "Veg"
+      },
+      {
+        "name": "French Vanilla With Espresso.",
+        "price": "₹335",
+        "description": "Smooth and rich vanilla flavoured beverage, served with a shot of espr",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Spicy Chicken & Cheese Melt.",
+        "price": "₹370",
+        "description": "A delicious sourdough bread filled with bbq chicken, green chili and s",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Iced Double Double Latte",
+        "price": "₹315",
+        "description": "Our signature espresso roast, served over creamy and sweet milk.\n\nSmal",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Keema Melt.",
+        "price": "₹370",
+        "description": "A delicious sourdough bread filled with a chunky spread of minced chic",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Caramel Macchiato",
+        "price": "₹310",
+        "description": "A rich blend of espresso, steamed milk and a generous drizzle of caram",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cold Coffee (M) + Choice Of Cheese Melt Sandwich",
+        "price": "₹549",
+        "description": "This combo includes a medium sized cold coffee plus a choice from our",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Dream Donut Box Of 3",
+        "price": "₹500",
+        "description": "An assortment of  3 of our delicious Dream donuts.\n\nServing size - Max",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Donut Box Of 6",
+        "price": "₹660",
+        "description": "An assortment of  6 of our delicious donuts.\n\nServing size - Maximum 6",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cold Coffee (S)",
+        "price": "₹300",
+        "description": "Smooth and creamy iced coffee, prepared using our signature espresso r",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cappuccino (S).",
+        "price": "₹250",
+        "description": "The perfect balance of espresso, steamed milk and foam.\n\nSmall - 236 m",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Latte (S)",
+        "price": "₹250",
+        "description": "A rich blend of espresso, steamed milk and a thin layer of froth, made",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Chicken Seekh & Egg Wrap.",
+        "price": "₹320",
+        "description": "Chicken Seekh Kebab with omelette patty slices, onions and tomato sala",
+        "food_type": "Non-Veg"
+      },
+      {
+        "name": "Iced Americano (S)",
+        "price": "₹275",
+        "description": "Our signature espresso roast served over ice water.\n\nSmall - 354 ml |",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Vanilla Cold Brew (S)",
+        "price": "₹360",
+        "description": "Our signature coffee roast, steeped for 16 hours to create a classic c",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hot Chocolate (S)",
+        "price": "₹260",
+        "description": "Rich and smooth hot chocolate drink with milky notes and the right amo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry & Kaffir Lime Cooler (S)",
+        "price": "₹295",
+        "description": "A refreshing blend of strawberry puree and kaffir lime, shaken with ic",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Lemon Iced Tea (S)",
+        "price": "₹275",
+        "description": "A refreshing classic iced tea.\n\nSmall - 354 ml  | 78.3 kcal",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Peach Iced Tea (S)",
+        "price": "₹275",
+        "description": "A refreshing peach iced tea.",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Paneer Tikka Wrap.",
+        "price": "₹295",
+        "description": "Chunky paneer tikka with onions, tomatoes, green chillies, mint chutne",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Yuzu Aerocano",
+        "price": "₹335",
+        "description": "Rich espresso with foam on top with the zesty yuzu flavour\n\nSmall - 35",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Passionfruit Aerocano",
+        "price": "₹335",
+        "description": "Rich espresso with foam on top with a fruity passionfruit flavour\n\nSma",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Passionfruit Yuzu Cooler",
+        "price": "₹310",
+        "description": "Tropical passion fruit and tangy yuzu come together in this bright, bu",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Mango & Ginger Cooler",
+        "price": "₹310",
+        "description": "Golden, juicy mango meets a fiery ginger twist in this fizzy, tropical",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry & Grapefruit Cooler",
+        "price": "₹310",
+        "description": "A vibrant fusion of sweet strawberries and zesty grapefruit creates a",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Kadak Chai",
+        "price": "₹250",
+        "description": "A warm cup of kadak chai with milk\n\nSmall - 236 ml  | 133.03 kcal\nAlle",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ginger Chai",
+        "price": "₹250",
+        "description": "A warm cup of chai infused with ginger.\n\nSmall - 236 ml  | 135.63 kcal",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Green Tea",
+        "price": "₹250",
+        "description": "A classic cup of green tea.\n\nSmall - 236 ml  | 0.02 kcal\nAllergens - N",
+        "food_type": "Veg"
+      },
+      {
+        "name": "English Breakfast Tea",
+        "price": "₹250",
+        "description": "A classic cup of black tea.\n\nSmall - 236 ml  | 0.02 kcal\nAllergens - N",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Passion Fruit & Kaffir Lime Cooler",
+        "price": "₹295",
+        "description": "A refreshing blend of passionfruit puree and kaffir lime, shaken with",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Strawberry & Kaffir Lime Cooler",
+        "price": "₹295",
+        "description": "A refreshing blend of strawberry puree and kaffir lime, shaken with ic",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Hibiscus Lemonade Cooler",
+        "price": "₹295",
+        "description": "Quench your thirst with the refreshing lemonade cooler containing subt",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Classic Cheesecake Slice",
+        "price": "₹325",
+        "description": "A slice of a classic cheesecake.\nServing size - 160g\nCalorie count - 7",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Double Chocolate Chip Cookie",
+        "price": "₹175",
+        "description": "Cookie baked with 3 types of chocolate chips.\n\nServing size – 75g\nCalo",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Choice Of Donut",
+        "price": "₹299",
+        "description": "Indulge into our ultimate value combo. This combo includes a medium si",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Bagel With Cream Cheese",
+        "price": "₹399",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Chilli Cheese Toast",
+        "price": "₹399",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Butter Croissant",
+        "price": "₹399",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Choice Of Cheese Melt Sandwich",
+        "price": "₹499",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Choice Of Croissant Sandwich",
+        "price": "₹499",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Choice Of Hot Coffee (M) + Choice Of Wrap",
+        "price": "₹499",
+        "description": "This combo includes a medium sized beverage of your choice - Americano",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cold Coffee (M) + Choice Of Croissant Sandwich",
+        "price": "₹549",
+        "description": "This combo includes a medium sized cold coffee plus a choice from our",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Cold Coffee (M) + Choice Of Wrap",
+        "price": "₹549",
+        "description": "This combo includes a medium sized cold coffee plus a choice from our",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ground Coffee",
+        "price": "₹333",
+        "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Coffee Beans",
+        "price": "₹333",
+        "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ground Coffee (125 Grams)",
+        "price": "₹333",
+        "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+        "food_type": "Veg"
+      },
+      {
+        "name": "Ground Coffee (250 Grams)",
+        "price": "₹571",
+        "description": "Grown in the finest estates of Chikmagalur, only 100% premium Arabica",
+        "food_type": "Veg"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://lh3.googleusercontent.com/md8i5uPs3AumA5R3mRAGJ1ThKUSFKQtDEP6Q-Gt-pYST5nlW9CBM7Z2SJoqpS8FNhe8N_1pWk0ei7wluo3InrvA4GftlVtSCVLgPfO3r=w192-rw",
+        "alt_text": "Tim Hortons photo 1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HTp3GrNtCTMdUZUOPrylx1EE1j1XHTrVpPXH08T5zo2gfJ7cPb6X3ME23ZrC6QTEGUkVwqfhw8_FAbIePgZhV5dvVv6BU9mUTX_S_5M=w192-rw",
+        "alt_text": "Tim Hortons photo 2"
+      }
+    ],
+    "source_file": "tim-hortons.json"
+  }
+]

@@ -1,0 +1,523 @@
+import os
+import time
+import json
+import logging
+import random
+import requests
+import re
+from urllib.parse import urlparse
+from urllib.robotparser import RobotFileParser
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("scraper.log"),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
+# User agent for requests and Selenium
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 MagicpinDataScraper/1.0"
+
+# Check if scraping is allowed for a specific URL
+def is_scraping_allowed(url, user_agent=USER_AGENT):
+    try:
+        parsed_url = urlparse(url)
+        robots_url = f"{parsed_url.scheme}://{parsed_url.netloc}/robots.txt"
+        
+        # Initialize the RobotFileParser
+        rp = RobotFileParser()
+        rp.set_url(robots_url)
+        rp.read()
+        
+        # Check if scraping is allowed for the given URL
+        return rp.can_fetch(user_agent, url)
+    except Exception as e:
+        logger.warning(f"Error checking robots.txt: {e}. Proceeding with caution.")
+        return True  # Assume scraping is allowed if we can't check robots.txt
+
+# Adaptive rate limiting to avoid overloading the server
+def adaptive_delay(base_delay=3):
+    # Add some randomness to avoid detection
+    jitter = random.uniform(0.5, 1.5)
+    delay = base_delay * jitter
+    time.sleep(delay)
+    return delay
+
+# Function to set up and return a Selenium WebDriver
+def get_driver():
+    options = Options()
+    options.headless = True  # Run in headless mode to avoid opening a browser window
+    options.add_argument(f'user-agent={USER_AGENT}')  # Set user agent
+    options.add_argument('--disable-blink-features=AutomationControlled')  # Hide automation
+    
+    try:
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+        return driver
+    except Exception as e:
+        logger.error(f"Failed to initialize WebDriver: {e}")
+        raise
+
+# Function to scrape restaurant photos from the Photos tab
+def scrape_restaurant_photos(driver, url, max_photos=4, max_retries=2):
+    logger.info(f"Attempting to scrape photos from {url}")
+    photos = []
+    retries = 0
+    
+    while retries <= max_retries and len(photos) < max_photos:
+        try:
+            # Navigate to the main page first
+            driver.get(url)
+            adaptive_delay()
+            
+            # Try to find and click on the Photos tab
+            try:
+                # Try different methods to find the Photos tab
+                photo_tabs = driver.find_elements(By.XPATH, '//a[contains(text(), "Photos")]')
+                
+                if not photo_tabs:
+                    photo_tabs = driver.find_elements(By.CSS_SELECTOR, 'a[data-type="merchant-nav-photos"]')
+                
+                if not photo_tabs:
+                    # Try by URL pattern if we can't find the tab
+                    photos_url = url
+                    if photos_url.endswith("/"):
+                        photos_url = photos_url + "photos/"
+                    else:
+                        photos_url = photos_url + "/photos/"
+                    
+                    logger.info(f"Direct navigation to photos URL: {photos_url}")
+                    driver.get(photos_url)
+                else:
+                    logger.info(f"Found Photos tab, attempting to click")
+                    driver.execute_script("arguments[0].click();", photo_tabs[0])
+                
+                # Wait for photos to load
+                time.sleep(3)
+                
+                # Get page source after clicking or navigating
+                soup = BeautifulSoup(driver.page_source, 'html.parser')
+                
+                # Try to find photos with the specific class provided
+                photo_elements = soup.select("img.gallery-photo")
+                
+                if not photo_elements:
+                    # Try alternative selectors if the specific one fails
+                    photo_elements = soup.select("div.gallery img") or soup.select("div.photos img") or soup.select("img[id]")
+                
+                logger.info(f"Found {len(photo_elements)} potential photo elements")
+                
+                # Extract photos
+                count = 0
+                for img in photo_elements:
+                    if count >= max_photos:
+                        break
+                    
+                    if 'src' in img.attrs:
+                        src = img['src']
+                        alt_text = img.get('alt', f"Restaurant photo {count+1}")
+                        
+                        # Add photo info to list
+                        photos.append({
+                            "url": src,
+                            "alt_text": alt_text
+                        })
+                        
+                        logger.info(f"Added photo {count+1}: {src}")
+                        count += 1
+                
+                if photos:
+                    return photos
+                
+            except Exception as e:
+                logger.warning(f"Error navigating to or extracting from Photos tab: {e}")
+            
+            retries += 1
+            adaptive_delay(5)  # Longer delay on error
+            
+        except Exception as e:
+            logger.error(f"Failed to scrape photos from {url}: {e}")
+            retries += 1
+            adaptive_delay(5)
+    
+    logger.warning(f"Could only find {len(photos)} photos after {retries} attempts")
+    return photos
+
+def scrape_restaurant_details(driver, url, max_retries=2):
+    if not is_scraping_allowed(url):
+        logger.warning(f"Scraping not allowed for {url} according to robots.txt")
+        return None
+    
+    retries = 0
+    while retries <= max_retries:
+        try:
+            logger.info(f"Scraping details for {url} (Attempt {retries + 1}/{max_retries + 1})")
+            driver.get(url)
+            adaptive_delay()
+
+            # Scroll to load all content with safe error handling
+            try:
+                last_height = driver.execute_script("return document.body.scrollHeight")
+                scroll_count = 0
+                max_scrolls = 10  # Limit scrolling to prevent infinite loops
+                
+                while scroll_count < max_scrolls:
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(2)
+                    new_height = driver.execute_script("return document.body.scrollHeight")
+                    if new_height == last_height:
+                        break
+                    last_height = new_height
+                    scroll_count += 1
+            except Exception as e:
+                logger.warning(f"Error during page scrolling: {e}")
+
+            # Parse the page with BeautifulSoup
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+            
+            # Try to extract structured data from JSON-LD script tags
+            json_ld_data = None
+            script_tags = soup.find_all('script', type='application/ld+json')
+            for script in script_tags:
+                try:
+                    data = json.loads(script.string)
+                    if "@type" in data and data["@type"] == "Restaurant":
+                        json_ld_data = data
+                        break
+                except (json.JSONDecodeError, TypeError):
+                    continue
+            
+            # Initialize restaurant data dictionary
+            restaurant_data = {
+                "name": "N/A",
+                "location": "N/A",
+                "cost_for_two": "N/A",
+                "rating": "N/A",
+                "url": url,
+                "address": "N/A",
+                "contact": "N/A",
+                "description": "N/A",
+                "cuisines": [],
+                "operational_hours": {},
+                "menu_items": [],  # Initialize empty menu items list
+                "photos": []  # Initialize empty photos list
+            }
+            
+            # Extract data from JSON-LD if available
+            if json_ld_data:
+                # Basic info
+                restaurant_data["name"] = json_ld_data.get("name", "N/A")
+                restaurant_data["description"] = json_ld_data.get("description", "N/A")
+                
+                # Address
+                if "address" in json_ld_data and isinstance(json_ld_data["address"], dict):
+                    address_parts = []
+                    if "streetAddress" in json_ld_data["address"]:
+                        address_parts.append(json_ld_data["address"]["streetAddress"])
+                    if "addressLocality" in json_ld_data["address"]:
+                        address_parts.append(json_ld_data["address"]["addressLocality"])
+                    restaurant_data["address"] = ", ".join(address_parts)
+                
+                # Contact
+                if "telephone" in json_ld_data:
+                    if isinstance(json_ld_data["telephone"], list):
+                        restaurant_data["contact"] = json_ld_data["telephone"][0]
+                    else:
+                        restaurant_data["contact"] = json_ld_data["telephone"]
+                
+                # Cost for two
+                if "priceRange" in json_ld_data:
+                    restaurant_data["cost_for_two"] = json_ld_data["priceRange"]
+                
+                # Cuisines
+                if "servesCuisine" in json_ld_data:
+                    if isinstance(json_ld_data["servesCuisine"], list):
+                        restaurant_data["cuisines"] = json_ld_data["servesCuisine"]
+                    elif isinstance(json_ld_data["servesCuisine"], str):
+                        restaurant_data["cuisines"] = [cuisine.strip() for cuisine in json_ld_data["servesCuisine"].split(",")]
+                
+                # Rating
+                if "aggregateRating" in json_ld_data and isinstance(json_ld_data["aggregateRating"], dict):
+                    restaurant_data["rating"] = str(json_ld_data["aggregateRating"].get("ratingValue", "N/A"))
+                
+                # Hours
+                if "openingHoursSpecification" in json_ld_data and isinstance(json_ld_data["openingHoursSpecification"], list):
+                    hours = {}
+                    for spec in json_ld_data["openingHoursSpecification"]:
+                        if "dayOfWeek" in spec and "opens" in spec and "closes" in spec:
+                            day = spec["dayOfWeek"][0] if isinstance(spec["dayOfWeek"], list) else spec["dayOfWeek"]
+                            hours[day] = f"{spec['opens']} - {spec['closes']}"
+                    restaurant_data["operational_hours"] = hours
+            
+            # If JSON-LD data not available or incomplete, extract from HTML
+            if restaurant_data["name"] == "N/A":
+                name_tag = soup.find("h1")
+                if name_tag:
+                    restaurant_data["name"] = name_tag.get_text(strip=True)
+            
+            if restaurant_data["location"] == "N/A":
+                location_tag = soup.find("h2") or soup.select_one("div h2")
+                if location_tag:
+                    restaurant_data["location"] = location_tag.get_text(strip=True)
+            
+            if restaurant_data["cost_for_two"] == "N/A":
+                cost_tag = soup.find(string=lambda t: t and "Cost for two:" in t)
+                if cost_tag:
+                    restaurant_data["cost_for_two"] = cost_tag.strip()
+            
+            if restaurant_data["rating"] == "N/A":
+                rating_tag = soup.select_one("div.star") or soup.find(string=lambda t: t and t.strip().startswith("4.") or t.strip().startswith("5.") or t.strip().startswith("3."))
+                if rating_tag:
+                    if hasattr(rating_tag, 'get_text'):
+                        restaurant_data["rating"] = rating_tag.get_text(strip=True)
+                    else:
+                        restaurant_data["rating"] = rating_tag.strip()
+            
+            # Extract menu items - first try to click on Delivery tab
+            menu_items = []
+            
+            # Try to extract from current page first
+            logger.info("Checking if menu items are already visible")
+            menu_item_elements = soup.select("article.itemInfo") or soup.select("div.menu-item") or soup.select("div.item-card")
+            
+            # If no menu items are visible, try to click on Delivery tab
+            if not menu_item_elements:
+                logger.info("No menu items found, trying to click on Delivery tab")
+                try:
+                    # Try using JavaScript to click the delivery tab to avoid click interception
+                    delivery_tabs = driver.find_elements(By.CSS_SELECTOR, 'a[data-type="merchant-nav-magicorder"]')
+                    if delivery_tabs:
+                        logger.info(f"Found {len(delivery_tabs)} possible delivery tabs, attempting to click with JavaScript")
+                        driver.execute_script("arguments[0].click();", delivery_tabs[0])
+                        time.sleep(3)  # Wait for delivery menu to load
+                    else:
+                        # Try alternate selectors if specific one fails
+                        logger.info("No delivery tab found with data-type attribute, trying xpath")
+                        delivery_tabs = driver.find_elements(By.XPATH, '//a[contains(text(), "Delivery")]')
+                        if delivery_tabs:
+                            driver.execute_script("arguments[0].click();", delivery_tabs[0])
+                            time.sleep(3)
+                        else:
+                            logger.warning("Could not find any Delivery tab")
+                except Exception as e:
+                    logger.warning(f"Error clicking delivery tab: {e}")
+                
+                # Try modifying the URL directly as a fallback
+                if "/menu/" in url and not "/delivery/" in url:
+                    try:
+                        delivery_url = url.replace("/menu/", "/delivery/")
+                        logger.info(f"Trying direct navigation to delivery URL: {delivery_url}")
+                        driver.get(delivery_url)
+                        time.sleep(3)
+                    except Exception as e:
+                        logger.warning(f"Failed to navigate to delivery URL: {e}")
+            
+            # Get updated page source after clicking or navigating
+            page_source = driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            
+            # Dump page to debug file if needed
+            with open("debug_page.html", "w", encoding="utf-8") as f:
+                f.write(soup.prettify())
+            
+            # Locate menu items with multiple potential selectors
+            menu_item_elements = soup.select("article.itemInfo") or soup.select("div.menuItem") or soup.select("div.menu-item") or soup.select("div.item-card")
+            
+            logger.info(f"Found {len(menu_item_elements)} potential menu items")
+            
+            for element in menu_item_elements:
+                try:
+                    # Item name
+                    name_tag = element.select_one("p.itemName") or element.select_one("div.item-name") or element.select_one("h3")
+                    item_name = name_tag.get_text(strip=True) if name_tag else None
+                    if not item_name:
+                        continue
+                    
+                    # Price
+                    price_tag = element.select_one("span.itemPrice") or element.select_one("div.item-price") or element.select_one("span.price")
+                    price = price_tag.get_text(strip=True) if price_tag else "N/A"
+                    
+                    # Description
+                    desc_tag = element.select_one("section.description span") or element.select_one("div.item-description") or element.select_one("p.description")
+                    description = desc_tag.get_text(strip=True) if desc_tag else "N/A"
+                    
+                    # Food Type: Check the veg/non-veg icon URL
+                    food_type = "N/A"
+                    food_icon = element.select_one("img.foodDescIcon") 
+                    if food_icon and 'src' in food_icon.attrs:
+                        icon_src = food_icon['src'].lower()
+                        if 'veg-icon' in icon_src:
+                            food_type = "Veg"
+                        elif 'non-veg-icon' in icon_src:
+                            food_type = "Non-Veg"
+                        elif 'egg-icon' in icon_src:
+                            food_type = "Egg"
+                        logger.info(f"Food type for {item_name}: {food_type} (icon: {icon_src})")
+                    
+                    # For chicken/fish items that might be incorrectly marked
+                    if food_type in ["Veg", "N/A"]:
+                        item_name_lower = item_name.lower()
+                        if any(meat in item_name_lower for meat in ["chicken", "fish", "prawn", "lamb", "mutton"]):
+                            food_type = "Non-Veg"
+                            logger.info(f"Overriding food type for {item_name} to Non-Veg based on name")
+                    
+                    # Also check the description for meat mentions
+                    if food_type in ["Veg", "N/A"] and description != "N/A":
+                        description_lower = description.lower()
+                        if any(meat in description_lower for meat in ["chicken", "fish", "prawn", "lamb", "mutton", "shish taouk"]):
+                            food_type = "Non-Veg"
+                            logger.info(f"Overriding food type for {item_name} to Non-Veg based on description containing meat")
+                    
+                    # Special case for items known to be non-veg
+                    if item_name == "Souvlaki Wrap":
+                        food_type = "Non-Veg"
+                        logger.info(f"Overriding food type for {item_name} to Non-Veg (special case)")
+                    
+                    # Filter out irrelevant or duplicate entries
+                    if (len(item_name) > 3 and 
+                        "sign up" not in item_name.lower() and 
+                        "cost for two" not in item_name.lower() and 
+                        not any(item["name"] == item_name for item in menu_items)):
+                        
+                        menu_items.append({
+                            "name": item_name,
+                            "price": price,
+                            "description": description,
+                            "food_type": food_type
+                        })
+                        logger.info(f"Added menu item: {item_name}")
+                except Exception as e:
+                    logger.warning(f"Error processing menu item: {e}")
+                    continue
+            
+            if menu_items:
+                restaurant_data["menu_items"] = menu_items
+                logger.info(f"Successfully collected {len(menu_items)} menu items")
+            else:
+                logger.warning("No menu items found")
+            
+            # Get restaurant photos by calling the dedicated function
+            photos = scrape_restaurant_photos(driver, url)
+            if photos:
+                restaurant_data["photos"] = photos
+                logger.info(f"Successfully collected {len(photos)} restaurant photos")
+            else:
+                logger.warning("No restaurant photos found")
+            
+            return restaurant_data
+
+            
+        except TimeoutException as e:
+            logger.warning(f"Timeout while scraping {url}: {e}")
+            retries += 1
+            adaptive_delay(5)  # Longer delay on error
+        except WebDriverException as e:
+            logger.warning(f"WebDriver error while scraping {url}: {e}")
+            retries += 1
+            adaptive_delay(5)
+        except Exception as e:
+            logger.error(f"Failed to scrape {url}: {e}")
+            retries += 1
+            adaptive_delay(5)
+    
+    logger.error(f"Failed to scrape {url} after {max_retries + 1} attempts")
+    return None
+
+# Process the data to replace Unicode rupee symbol with actual rupee symbol
+def replace_rupee_unicode(item):
+    if isinstance(item, dict):
+        for key, value in item.items():
+            if isinstance(value, str):
+                item[key] = value.replace("\u20b9", "₹")
+            elif isinstance(value, (list, dict)):
+                replace_rupee_unicode(value)
+    elif isinstance(item, list):
+        for i in range(len(item)):
+            if isinstance(item[i], str):
+                item[i] = item[i].replace("\u20b9", "₹")
+            elif isinstance(item[i], (list, dict)):
+                replace_rupee_unicode(item[i])
+
+# Main function
+def main():
+    # List of restaurant URLs from magicpin
+    urls = [
+        "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/New-York-Burrito/store/2b9877/",
+        "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Bombay-Taco-Co./store/637073/",
+        "https://magicpin.in/Mumbai/Pali-Hill/Restaurant/Project-Hum/store/154790a/",
+        "https://magicpin.in/Mumbai/Link-Square-Mall/Restaurant/Poetry-By-Love-and-Cheesecake/store/8b485/",
+        "https://magicpin.in/Mumbai/Bandra-West/Restaurant/Tim-Hortons/store/1579073/",
+        "https://magicpin.in/New-Delhi/Sector-11,-Dwarka/Restaurant/Pasta-Xpress/store/346283/",
+        "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Jumboking/store/1676565/",
+        "https://magicpin.in/New-Delhi/Sarojini-Nagar/Restaurant/Kfc/store/6268cb/",
+        "https://magicpin.in/New-Delhi/Lajpat-Nagar/Restaurant/Food-Adda/store/a3051/",
+        "https://magicpin.in/New-Delhi/Connaught-Place-(Cp)/Restaurant/Subway/store/1ab083/"
+    ]
+    
+    try:
+        logger.info("Starting web scraper")
+        driver = get_driver()
+        
+        # Process each URL
+        for url in urls:
+            logger.info(f"Processing URL: {url}")
+            
+            # Check if scraping is allowed for the restaurant URL
+            if not is_scraping_allowed(url):
+                logger.error(f"Scraping not allowed for {url} according to robots.txt. Skipping.")
+                continue
+            
+            try:
+                # Scrape restaurant details
+                details = scrape_restaurant_details(driver, url)
+                
+                if not details:
+                    logger.error(f"No valid restaurant data collected for {url}. Skipping.")
+                    continue
+                
+                # Apply the rupee symbol replacement
+                replace_rupee_unicode(details)
+                
+                # Create data directory if it doesn't exist
+                os.makedirs("data", exist_ok=True)
+                
+                # Save data to a JSON file in the data folder
+                output_file = f"data/{details['name'].lower().replace(' ', '-')}.json"
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(details, f, indent=4, ensure_ascii=False)
+                
+                logger.info(f"Saved restaurant data to {output_file} successfully")
+                
+                # Add delay between requests to avoid rate limiting
+                time.sleep(5)
+                
+            except Exception as e:
+                logger.error(f"Error processing {url}: {e}")
+                continue
+        
+    except Exception as e:
+        logger.error(f"An error occurred in the main function: {e}")
+    finally:
+        # Ensure driver is quit even if an exception occurs
+        try:
+            if 'driver' in locals() and driver:
+                driver.quit()
+                logger.info("WebDriver closed")
+        except Exception as e:
+            logger.error(f"Error closing WebDriver: {e}")
+
+# Run the scraper
+if __name__ == "__main__":
+    main()
