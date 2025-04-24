@@ -24,15 +24,15 @@ An intelligent chatbot that can answer both restaurant-specific queries using a 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/adarshukla3005/ai-restaurant-assistant.git>
+   cd <ai-restaurant-assistant>
    ```
 
 2. Create a virtual environment (optional but recommended):
    ```
-   python -m venv venv
+   python -m venv myenv
    # On Windows
-   venv\Scripts\activate
+   myenv\Scripts\activate
    ```
 
 3. Install the dependencies:
@@ -65,7 +65,7 @@ An intelligent chatbot that can answer both restaurant-specific queries using a 
   - "What are some vegetarian restaurants in Mumbai?"
   - "Tell me about the menu at Bombay Taco Co."
   - "What's the price range at KFC?"
-  - "Recommend some good pizza places"
+  - "Recommend some good pizza places with budget non-veg options"
 
 - **General Queries**:
   - "What's the weather like today?"
@@ -76,7 +76,7 @@ An intelligent chatbot that can answer both restaurant-specific queries using a 
 
 The project includes a web scraper to collect restaurant data:
 
-- **Automated Data Collection**: Scrapes restaurant details from popular food platforms
+- **Data Collection**: Scrapes restaurant details from popular food platforms like Zomato and Magicpin
 - **Comprehensive Data**: Extracts names, menus, prices, locations, ratings, photos, and more
 - **Ethical Scraping**: Respects robots.txt and implements rate limiting
 - **Data Processing**: Cleans and structures data for the vector database
@@ -85,7 +85,7 @@ The project includes a web scraper to collect restaurant data:
 To run the web scraper:
 ```
 python webscraper.py  # For general restaurant scraping
-python zomato_scraper.py  # For Zomato-specific scraping
+python utils/zomato_scraper.py  # For Zomato-specific scraping
 ```
 
 ## Project Structure
@@ -121,7 +121,7 @@ The application uses the following backend components:
    - Persisted locally in the `chroma_db` directory
    - No external server required
 
-2. **Sentence Transformers** - For generating high-quality text embeddings
+2. **Hugging Face Sentence Transformers** - For generating high-quality text embeddings
    - Uses the all-MiniLM-L6-v2 model from HuggingFace
    - Runs locally, no external API needed
 
@@ -129,10 +129,11 @@ The application uses the following backend components:
    - Uses Gemini-2.0-flash model
    - Requires a Google API key
 
-4. **Streamlit** - For web UI
+## Frontend
+   **Streamlit** - For web UI
    - Runs a local development server
 
-5. **Web Scraping** - For data collection
+   **Web Scraping** - For data collection
    - Selenium for browser automation
    - BeautifulSoup4 for HTML parsing
    - Handles JavaScript-rendered content and dynamic pages
@@ -148,5 +149,10 @@ No additional backend server setup is required as all components are either self
 
 ## Acknowledgements
 
-- This project uses restaurant data collected from various sources
-- Built with open-source libraries and tools 
+- This project uses restaurant data collected from various sources (eg. Magicpin and Zomato)
+- Built with open-source libraries and tools
+  
+## Future Enhancements
+- Can use Flask/FastAPI for backend purposes if we want to integrate it on server
+- We can also integrate Voice Input/Output in the Chatbot for STT and TTS to enhance user engagements
+- We can use any Vision Transformer models to get a good description of Restaurant Menu and Facilities through the images.
